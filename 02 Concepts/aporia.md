@@ -1,0 +1,1 @@
+a state of perplexity or puzzlement, often arising from a seemingly irresolvable contradiction or impasse in reasoning

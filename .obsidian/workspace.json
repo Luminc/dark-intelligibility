@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "bf787da9a7f82a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e463cc9b226d1dfd",
+        "type": "split",
+        "children": [
+          {
+            "id": "08494e07f234e024",
+            "type": "tabs",
+            "dimension": 80.5316091954023,
+            "children": [
+              {
+                "id": "4f434b6e44e43beb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 Beasts/The Poison, the Purge. Being and Anthony Bourdain.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Poison, the Purge. Being and Anthony Bourdain"
+                },
+                "group": "80d8bc19d5b3696b"
+              }
+            ]
+          },
+          {
+            "id": "76babae5e60a288b",
+            "type": "tabs",
+            "dimension": 19.468390804597703,
+            "children": [
+              {
+                "id": "6f41a00251df117d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "05 Beasts/The Poison, the Purge. Being and Anthony Bourdain.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for The Poison, the Purge. Being and Anthony Bourdain"
+                },
+                "group": "80d8bc19d5b3696b"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce134057595fc55a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1cc2d6552b3d55f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "015d711e58b79a27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f588bb576ce7ae64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62f0823ed6890841",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "d221f10400f94929",
+    "type": "split",
+    "children": [
+      {
+        "id": "6578f9f520295e04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378eb8d4520483ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 Beasts/The Poison, the Purge. Being and Anthony Bourdain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Poison, the Purge. Being and Anthony Bourdain"
+            }
+          },
+          {
+            "id": "5515168457c0250b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 Concepts/Kenosis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kenosis"
+            }
+          },
+          {
+            "id": "677323b6c0cc188e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d2c3dd7ff9a57d5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Concepts/Kenosis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kenosis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4f434b6e44e43beb",
+  "lastOpenFiles": [
+    "02 Concepts/Porosity.md",
+    "04 Dialogues/Clinging and Creativity.md",
+    "07 Library",
+    "08 Journaling and Personal/Sandberg and Rijksakademie Visit.md",
+    "03 Fragments/My Eschatological Wish.md",
+    "08 Journaling and Personal",
+    "01 Thinkers/Vervaeke.md",
+    "03 Fragments/Airports and Transformation.md",
+    "04 Dialogues/The Wanderer and Witness.md",
+    "03 Fragments/Agnosticism, God and Paradox.md",
+    "07 Beautiful Quotes",
+    "03 Fragments/Attunement.md",
+    "05 Beasts/Meeting Desire.md",
+    "03 Fragments/Fragment on Lispector.md",
+    "02 Concepts/dark feminine.md",
+    "02 Concepts/Dark femininity.md",
+    "05 Beasts/Dark Intelligibility.md",
+    "01 Thinkers/Desmond.md",
+    "05 Beasts/Gift and Debt.md",
+    "02 Concepts/Pharmakon.md",
+    "05 Beasts/The Poison, the Purge. Being and Anthony Bourdain.md",
+    "Untitled.canvas",
+    "02 Concepts/Metaxu.md",
+    "02 Concepts/Memory.md",
+    "02 Concepts/Sunyata.md",
+    "05 Beasts/Dark Intelligibility Beast.md",
+    "02 Concepts/aporia.md",
+    "02 Concepts/Kenosis.md",
+    "01 Thinkers/Clarice Lispector.md",
+    "07 Resonances",
+    "06 Dreams & Silences",
+    "05 Beasts",
+    "04 Dialogues",
+    "03 Fragments",
+    "02 Concepts",
+    "01 Thinkers"
+  ]
+}
