@@ -1,3 +1,10 @@
+---
+aliases:
+  - The Poison the Purge
+  - Bourdain note
+  - The Poison and Purge
+  - Anthony Bourdain
+---
 Tonight, I broke down in tears, overcome by an emotion I can only call porosity. The catalyst, improbably, was Anthony Bourdain. I was cooking a Thai meal, and also watching Thai cooking videos on TV. An episode of Bourdain in Vietnam came up. I was overcome by the narrative of the country he portrayed, not just through images, but through a profound contextualization. He brings you closer to a culture; he brings it alive. He shows what it means to be porous.
 
 And so, I found myself immensely thankful to a man who had passed away. Seeing a porous man become a speaker for the country he visits with an open heart touched me. Suddenly I was crying. I did not expect to cry but the tears came and kept coming. Here was the very expression of agape, the generous love for the other, yet at its root was a terrible conflict, a paradox at the heart of reality. Because this man, who embodied such openness, chose to end his life by a sovereign choice of his own will.
@@ -12,4 +19,4 @@ I see a co-identity between the [[abject]] physical and the abject mental. This 
 
 Ayahuasca, the [[pharmakon]] par excellence, reveals this separation as the illusion it is. It forces the physical and the mental back into their primordial, unified state: a single, living, feeling organism. Weeping is not a symptom of sadness, but sadness made manifest as water overflowing. Vomiting becomes the very act of purging the spiritual bile inside. Our shaking is the direct, unmediated response to the confrontation with our own being. With energies descending on us our body responds to. Our porosity is unclogged.
 
-When the mind and body meet in concrescence, they become a unified expression of overflow. We find ourselves alive in the hyperbole. Swept into it. On fire. Ecstatic. Weeping, Laughing, Gleaming, Sighing, Mesmerized. The grammar of the [[metaxu]] is revealed to us in its full intensity, a language of pure verbs, of pure happening. The sovereign "I" dissolves. There is no longer an "I" who is weeping or an "I" who is laughing. There is simply Weeping, Laughing, Gleaming. This is a state of full participation. We are no longer experiencing; there is happening. We are no longer seeing the flame; there is burning. We are no longer suffering the purge; there is purging. We have fully entered the hyperbolic space of agape. Overwhelming, igniting, paradoxical, and sacred.
+When the mind and body meet in concrescence, they become a unified expression of overflow. We find ourselves alive in the [[Hyperbolic dimension|hyperbole]]. Swept into it. On fire. Ecstatic. Weeping, Laughing, Gleaming, Sighing, Mesmerized. The grammar of the [[metaxu]] is revealed to us in its full intensity, a language of pure verbs, of pure happening. The sovereign "I" dissolves. There is no longer an "I" who is weeping or an "I" who is laughing. There is simply Weeping, Laughing, Gleaming. This is a state of full participation. We are no longer experiencing; there is happening. We are no longer seeing the flame; there is burning. We are no longer suffering the purge; there is purging. We have fully entered the hyperbolic space of agape. Overwhelming, igniting, paradoxical, and sacred.

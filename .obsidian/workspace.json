@@ -10,7 +10,7 @@
           {
             "id": "08494e07f234e024",
             "type": "tabs",
-            "dimension": 80.5316091954023,
+            "dimension": 56.32183908045977,
             "children": [
               {
                 "id": "4f434b6e44e43beb",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "05 Beasts/The Poison, the Purge. Being and Anthony Bourdain.md",
-                    "mode": "source",
+                    "file": "13 Opposition Interpenetrated/Sacred-Abject Tension.md",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The Poison, the Purge. Being and Anthony Bourdain"
+                  "title": "Sacred-Abject Tension"
                 },
                 "group": "80d8bc19d5b3696b"
               }
@@ -32,7 +32,7 @@
           {
             "id": "76babae5e60a288b",
             "type": "tabs",
-            "dimension": 19.468390804597703,
+            "dimension": 43.67816091954023,
             "children": [
               {
                 "id": "6f41a00251df117d",
@@ -40,17 +40,17 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "05 Beasts/The Poison, the Purge. Being and Anthony Bourdain.md",
+                    "file": "13 Opposition Interpenetrated/Sacred-Abject Tension.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
                     "searchQuery": "",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for The Poison, the Purge. Being and Anthony Bourdain"
+                  "title": "Backlinks for Sacred-Abject Tension"
                 },
                 "group": "80d8bc19d5b3696b"
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Beasts/The Poison, the Purge. Being and Anthony Bourdain.md",
+                "file": "04 Dialogues/Clinging and Creativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Poison, the Purge. Being and Anthony Bourdain"
+              "title": "Backlinks for Clinging and Creativity"
             }
           },
           {
@@ -206,41 +206,42 @@
   },
   "active": "4f434b6e44e43beb",
   "lastOpenFiles": [
-    "02 Concepts/Porosity.md",
-    "04 Dialogues/Clinging and Creativity.md",
-    "07 Library",
-    "08 Journaling and Personal/Sandberg and Rijksakademie Visit.md",
-    "03 Fragments/My Eschatological Wish.md",
-    "08 Journaling and Personal",
-    "01 Thinkers/Vervaeke.md",
-    "03 Fragments/Airports and Transformation.md",
-    "04 Dialogues/The Wanderer and Witness.md",
-    "03 Fragments/Agnosticism, God and Paradox.md",
-    "07 Beautiful Quotes",
-    "03 Fragments/Attunement.md",
-    "05 Beasts/Meeting Desire.md",
-    "03 Fragments/Fragment on Lispector.md",
-    "02 Concepts/dark feminine.md",
-    "02 Concepts/Dark femininity.md",
-    "05 Beasts/Dark Intelligibility.md",
-    "01 Thinkers/Desmond.md",
-    "05 Beasts/Gift and Debt.md",
-    "02 Concepts/Pharmakon.md",
-    "05 Beasts/The Poison, the Purge. Being and Anthony Bourdain.md",
-    "Untitled.canvas",
+    "15 Question Trails/Who am I.md",
+    "02 Concepts/Hyperbolic dimension.md",
+    "14 Resonance Fields/Trinity of Emptying.md",
+    "14 Resonance Fields/Trinity of Emptying.md.tmp.5716.1753725213581",
+    "14 Resonance Fields/Grammar of Transformation.md",
+    "14 Resonance Fields/Grammar of Transformation.md.tmp.5716.1753725196019",
+    "13 Opposition Interpenetrated/Sacred-Abject Tension.md",
+    "13 Gateways/Sacred-Abject Tension.md.tmp.5716.1753725165600",
+    "15 Question Trails/What does it mean to receive the gift.md",
+    "14 Resonance Fields/Lispector-Bourdain Constellation.md",
+    "14 Resonance Fields/Lispector-Bourdain Constellation.md.tmp.5716.1753725133153",
+    "15 Question Trails",
+    "14 Resonance Fields",
+    "13 Opposition Interpenetrated",
     "02 Concepts/Metaxu.md",
+    "02 Concepts/No-sive-Yes.md",
     "02 Concepts/Memory.md",
-    "02 Concepts/Sunyata.md",
-    "05 Beasts/Dark Intelligibility Beast.md",
-    "02 Concepts/aporia.md",
     "02 Concepts/Kenosis.md",
+    "02 Concepts/Dark intelligibility.md",
+    "02 Concepts/Dark femininity.md",
+    "02 Concepts/aporia.md",
+    "02 Concepts/Apophasis.md",
+    "01 Thinkers/William Desmond.md",
+    "01 Thinkers/Vervaeke.md",
+    "01 Thinkers/Plotinus.md",
+    "01 Thinkers/Keiji Nishitani.md",
     "01 Thinkers/Clarice Lispector.md",
-    "07 Resonances",
-    "06 Dreams & Silences",
-    "05 Beasts",
-    "04 Dialogues",
-    "03 Fragments",
-    "02 Concepts",
-    "01 Thinkers"
+    "00 Index/Porosity MOC.md",
+    "00 Index/Dark Intelligibility MOC.md",
+    "04 Dialogues/Clinging and Creativity.md",
+    "02 Concepts/Reconfigured ethos.md",
+    "05 Beasts/Gift and Debt.md",
+    "05 Beasts/The Poison, the Purge. Being and Anthony Bourdain.md",
+    "09 Archive",
+    "07 Library",
+    "08 Journaling and Personal",
+    "Untitled.canvas"
   ]
 }

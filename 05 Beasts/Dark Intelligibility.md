@@ -1,6 +1,6 @@
 
 
-**Dark Intelligibility: Clarice Lispector and the Fidelity to What Is Not**
+**Dark Intelligibility: [[Clarice Lispector]] and the Fidelity to What Is Not**
 
 ---
 
@@ -25,7 +25,7 @@
 
 - Show how Lispector exposes the _violence_ of coming into contact with Being — not as philosophical abstraction, but raw experiential undoing
     
-- Explore the “pharmakon” of fear and revelation, of losing and finding a self
+- Explore the “[[pharmakon]]” of fear and revelation, of losing and finding a self
     
 - Bring in [[Desmond]] lightly: his concept of the “porosity of being,” and how there is a _sacred excess_ that shatters and reconstitutes our ethos
     
@@ -42,7 +42,7 @@
     
 - Her work as a testament to the paradox of remembering something you know you will forget — the tragedy and necessity of forgetting grace
     
-- Bring in Desmond again: the _overdeterminacy_ of the divine — that we are _called_ by something we cannot fully bear or name
+- Bring in [[William Desmond|Desmond]] again: the _overdeterminacy_ of the divine — that we are _called_ by something we cannot fully bear or name
     
 - Clarice’s sleep and surrender: a mystical act, not in grand gestures but in giving up the resistance to not-knowing
     
@@ -59,7 +59,7 @@
     
 - Ask what is missed when we categorize her work this way
     
-- Contrast this with Desmond’s or Vervaeke’s way of seeing: where _mystical consciousness_ is a response to limit-experience and the undoing of self
+- Contrast this with [[William Desmond|Desmond]]’s or Vervaeke’s way of seeing: where _mystical consciousness_ is a response to limit-experience and the undoing of self
     
 - Propose **dark intelligibility** as a new term:
     
