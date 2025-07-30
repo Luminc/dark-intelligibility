@@ -1,0 +1,1 @@
+Things are changing too quickly. But it's not just the world that we lose grasp off, it's ourselves. The manic approach is not just 
