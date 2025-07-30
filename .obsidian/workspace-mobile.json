@@ -18,16 +18,21 @@
             }
           },
           {
-            "id": "bb663dbf67d6ebd8",
+            "id": "20f433641c6c4e00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 Fragments/Vertigo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vertigo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5effd8701a798fd",
+  "active": "20f433641c6c4e00",
   "lastOpenFiles": [
+    "14 Resonance Fields/Grammar of Transformation.md",
     "03 Fragments/Vertigo.md",
     "03 Fragments/Agnosticism, God and Paradox.md",
     "Termux.md",
