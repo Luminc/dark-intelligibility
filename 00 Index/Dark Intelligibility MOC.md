@@ -16,6 +16,8 @@
 - [[Gift and Debt]]
 - [[No-sive-Yes]]
 - [[Reconfigured ethos]]
+- [[The Great Doubt]]
+- [[Counterfeit double]]
 
 ## Key Thinkers & Influences
 
