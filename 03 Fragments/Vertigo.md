@@ -1,1 +1,1 @@
-Things are changing too quickly. But it's not just the world that we lose grasp off, it's ourselves. The manic approach is not just 
+Things are changing too quickly. But it's not just the world that we lose grasp off, it's ourselves. The manic approach is manic precisely because the world is manic. It is a hypertrophied conatus quickly losing touch with the world, or it is the inherent failure in a second ethos, an all to human construction that fails to acknowledge being at its homeground.
