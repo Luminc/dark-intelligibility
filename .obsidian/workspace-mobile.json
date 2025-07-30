@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helloworld.md",
+                "file": "Termux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helloworld"
+              "title": "Termux"
             }
           }
         ]
@@ -156,6 +156,8 @@
   "active": "f5effd8701a798fd",
   "lastOpenFiles": [
     "Untitled.md",
-    "Helloworld.md"
+    "Termux.md",
+    "Helloworld.md",
+    "sync-from-obsidian.sh"
   ]
 }
