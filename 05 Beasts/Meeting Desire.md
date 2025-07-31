@@ -3,6 +3,11 @@ title: Meeting Desire
 published: true
 topics:
   - dark-intelligibility
+  - dukkha
+  - nirvana
+  - attention
+  - intention
+  - somatics
 author: Jeroen Kortekaas
 category: beasts
 date: '2025-07-31'

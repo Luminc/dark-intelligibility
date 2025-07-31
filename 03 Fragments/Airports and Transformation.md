@@ -3,6 +3,9 @@ title: Airports and Transformation
 published: true
 topics:
   - dark-intelligibility
+  - travel
+  - death
+  - transcendence
 author: Jeroen Kortekaas
 category: fragments
 date: '2025-07-31'

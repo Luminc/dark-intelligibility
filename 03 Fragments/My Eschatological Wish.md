@@ -3,6 +3,8 @@ title: My Eschatological Wish
 published: true
 topics:
   - dark-intelligibility
+  - transcendence
+  - self
 author: Jeroen Kortekaas
 category: fragments
 date: '2025-07-31'

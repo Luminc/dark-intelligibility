@@ -3,6 +3,11 @@ title: God and the Between
 published: true
 topics:
   - dark-intelligibility
+  - philosophy
+  - theology
+  - metaphysics
+  - being
+  - transcendence
 author: Jeroen Kortekaas
 category: library
 date: '2025-07-31'
