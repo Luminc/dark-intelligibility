@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "04 Dialogues/With ChatGPT on Lispector.md",
+                    "file": "02 Concepts/Hyperintelligibility.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "With ChatGPT on Lispector"
+                  "title": "Hyperintelligibility"
                 },
                 "group": "80d8bc19d5b3696b"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "04 Dialogues/With ChatGPT on Lispector.md",
+                    "file": "02 Concepts/Hyperintelligibility.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for With ChatGPT on Lispector"
+                  "title": "Backlinks for Hyperintelligibility"
                 },
                 "group": "80d8bc19d5b3696b"
               }
@@ -206,12 +206,28 @@
   },
   "active": "4f434b6e44e43beb",
   "lastOpenFiles": [
+    "02 Concepts/Kenosis.md",
+    "02 Concepts/Memory.md",
+    "02 Concepts/Hyperintelligibility.md",
+    "02 Concepts/Apophasis.md",
+    "02 Concepts/aporia.md",
+    "02 Concepts/Dark femininity.md",
+    "02 Concepts/Dark intelligibility.md",
+    "02 Concepts/Metaxu.md",
+    "14 Resonance Fields/Grammar of Transformation.md",
+    "14 Resonance Fields/Lispector-Bourdain Constellation.md",
+    "GitSyncfromMobile.md",
+    "Helloworld.md",
+    "04 Dialogues/With ChatGPT on Lispector.md",
+    "sync-from-obsidian.sh",
+    "Termux.md",
+    "GitSync Documentation.md",
+    "gitsync-documentation.md",
     "04 Dialogues/Chat and Non-binary Theism.md",
     "02 Concepts/Transtheism.md",
     "07 Library/README - Library Structure.md",
     "02 Concepts/Reconfigured ethos.md",
     "02 Concepts/Transtheism.md.tmp.22932.1753734957532",
-    "02 Concepts/Hyperintelligibility.md",
     "02 Concepts/Hyperintelligibility.md.tmp.22932.1753734898805",
     "02 Concepts/Reconfigured ethos.md.tmp.22932.1753734840953",
     "04 Dialogues/dark_intelligibility_dialogue_claude.md",
@@ -223,25 +239,9 @@
     "07 Library/Thesis/Bridges to Dark Intelligibility.md.tmp.22932.1753733549085",
     "07 Library/Thesis/The Manic Approach to Mystery.md",
     "07 Library/Thesis",
-    "Untitled.md",
-    "07 Library/Desmond/God and the Between - Import Guide.md",
-    "07 Library/Desmond/God and the Between - Processed.md",
-    "07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.md",
     "07 Library/Desmond/God and the Between - Processed.md.tmp.18156.1753730588866",
-    "09 Archive/TheManicApproachToMysterySCAN (1).md",
-    "09 Archive/TheManicApproachToMysterySCAN.md",
-    "09 Archive/The Manic Approach to Mystery.md",
     "09 Archive/TheManicApproachToMysterySCAN (1).pdf",
     "07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.pdf",
-    "07 Library/Lispector/Literary-Philosophical Integration.md",
-    "07 Library/Nishitani/Religion and Nothingness - Import Guide.md",
-    "07 Library/Lispector/Literary-Philosophical Integration.md.tmp.5716.1753726477988",
-    "02 Concepts/Pharmakon.md",
-    "02 Concepts/Hyperbolic dimension.md",
-    "02 Concepts/Dark intelligibility.md",
-    "13 Opposition Interpenetrated/Sacred-Abject Tension.md",
-    "15 Question Trails/Who am I.md",
-    "14 Resonance Fields/Trinity of Emptying.md",
     "Untitled.canvas"
   ]
 }
