@@ -2,3 +2,6 @@
 .obsidian/workspace
 .DS_Store
 Thumbs.db
+sync.log
+*.lock
+*.sh
