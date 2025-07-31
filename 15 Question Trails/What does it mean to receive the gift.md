@@ -14,6 +14,7 @@ This question migrates through your work, changing shape but retaining its essen
 The gift is **being itself**—not something we possess but the condition that possesses us:
 > "Like the birthday cake, where the giftedness of our being is honored—a ritual acknowledgment of existence—so too the world given to us by our parents places us in a condition of fundamental indebtedness."
 
+
 ### In [[Pharmakon]]  
 The gift becomes **medicine-poison**—what heals and what wounds simultaneously. To receive it requires [[porosity]].
 
