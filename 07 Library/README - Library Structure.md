@@ -1,3 +1,12 @@
+---
+title: README - Library Structure
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: library
+date: '2025-07-31'
+---
 # Library Structure
 
 This folder contains key philosophical texts that inform the Dark Intelligibility project.

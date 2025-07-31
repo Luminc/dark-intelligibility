@@ -1,3 +1,12 @@
+---
+title: Dark Intelligibility
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: beasts
+date: '2025-07-31'
+---
 
 
 **Dark Intelligibility: [[Clarice Lispector]] and the Fidelity to What Is Not**

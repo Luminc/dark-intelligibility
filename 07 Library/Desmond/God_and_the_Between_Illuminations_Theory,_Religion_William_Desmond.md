@@ -1,3 +1,12 @@
+---
+title: 'God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond'
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: library
+date: '2025-07-31'
+---
 # God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond
 
 

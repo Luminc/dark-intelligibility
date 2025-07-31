@@ -1,3 +1,12 @@
+---
+title: Chat and Non-binary Theism
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: dialogues
+date: '2025-07-31'
+---
 Chat. What do you think about the idea 'non-binary theism'? It came to me while thinking of transtheism, a concept I'm expounding. 
 
 

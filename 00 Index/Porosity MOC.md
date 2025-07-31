@@ -1,3 +1,12 @@
+---
+title: Porosity MOC
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: index
+date: '2025-07-31'
+---
 # Map of Content: Porosity
 
 **[[Porosity]]** is a central concept in this vault, referring to a state of openness, receptivity, and vulnerability to being, to the other, and to experience. It is the antidote to the closed-off, self-sufficient ego. This map gathers the key explorations of this theme.

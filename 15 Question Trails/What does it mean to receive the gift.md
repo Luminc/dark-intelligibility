@@ -1,5 +1,16 @@
 ---
-tags: [living-question, gift, debt, being, porosity]
+title: What does it mean to receive the gift
+published: true
+topics:
+  - living-question
+  - gift
+  - debt
+  - being
+  - porosity
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: question-trails
+date: '2025-07-31'
 ---
 
 # What does it mean to receive the gift?

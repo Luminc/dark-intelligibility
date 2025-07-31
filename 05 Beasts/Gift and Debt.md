@@ -1,3 +1,12 @@
+---
+title: Gift and Debt
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: beasts
+date: '2025-07-31'
+---
 Like the birthday cake, where the giftedness of our being is honored—a ritual acknowledgment of existence—so too the world given to us by our parents places us in a condition of fundamental indebtedness. This is not necessarily a burdensome obligation but a condition inherent in the givenness of relation itself. The debt that accompanies this gift can be both a burden and a blessing—what I like to call the [[pharmakon]] of being. It is both medicine and poison, both grace and ordeal (ordeel—judgment).
 
 This ambivalence of the gift points toward the ordeal of finitude: the inescapable reality that, while being is given, it is also fragile, ambiguous, and marked by suffering and evil. Sin, then, can be understood as the refusal of the gift—the ego’s turning away from the given in a futile attempt to master or possess being on its own terms. Yet we must also recognize the parts of reality that we cannot accept—those elements of evil and suffering that challenge our capacity to say "yes" to the given world. The classic theodicy problem—the argument against God for not intervening when "unjust" things happen—reflects this tension: the world is given, yet God lets go, allowing it to unfold even when it seems cruel. [[William Desmond|Desmond]] touches on this, showing that the divine generosity of being includes its own risk, even the risk of sin.

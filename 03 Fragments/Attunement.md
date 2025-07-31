@@ -1,3 +1,12 @@
+---
+title: Attunement
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: fragments
+date: '2025-07-31'
+---
 That’s it—the work that emerges from an attunement rather than an assertion. Psychedelic in the deepest sense: a revealing of mind, but not just the personal mind—the mind at large, the deep relationality that precedes and exceeds the self.
 
   

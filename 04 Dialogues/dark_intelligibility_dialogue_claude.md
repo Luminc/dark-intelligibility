@@ -1,3 +1,12 @@
+---
+title: dark_intelligibility_dialogue_claude
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: dialogues
+date: '2025-07-31'
+---
 # [Dark Intelligibility]: A Philosophical Dialogue
 
 ## Introduction

@@ -1,5 +1,15 @@
 ---
-aliases: [pharmakon of being, medicine-poison, dosis]
+title: Pharmakon
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: concepts
+date: '2025-07-31'
+aliases:
+  - pharmakon of being
+  - medicine-poison
+  - dosis
 ---
 
 # Pharmakon

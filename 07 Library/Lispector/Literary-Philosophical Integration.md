@@ -1,3 +1,12 @@
+---
+title: Literary-Philosophical Integration
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: library
+date: '2025-07-31'
+---
 # Lispector: Literary-Philosophical Integration
 
 ## Unique Challenge and Opportunity

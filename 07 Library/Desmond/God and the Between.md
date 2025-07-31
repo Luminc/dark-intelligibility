@@ -1,3 +1,12 @@
+---
+title: God and the Between
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: library
+date: '2025-07-31'
+---
 # God and the Between
 
 **Author:** [[William Desmond]]

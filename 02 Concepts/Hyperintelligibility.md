@@ -1,3 +1,12 @@
+---
+title: Hyperintelligibility
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: concepts
+date: '2025-07-31'
+---
 # Hyperintelligibility
 
 **From Greek**: *huperintelligible* - "above" or "beyond" intelligible

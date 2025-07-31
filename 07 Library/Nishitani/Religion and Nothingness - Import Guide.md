@@ -1,3 +1,12 @@
+---
+title: Religion and Nothingness - Import Guide
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: library
+date: '2025-07-31'
+---
 # Nishitani: Religion and Nothingness - Import Guide
 
 ## How to Import This Text

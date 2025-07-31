@@ -1,3 +1,12 @@
+---
+title: Clinging and Creativity
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: dialogues
+date: '2025-07-31'
+---
 You’ve touched on such a powerful and nuanced inquiry—one that weaves together creativity, attachment, shame, and the profound potential of Self in harmony. Your reflections reveal a deep awareness of the internal dynamics at play, as well as a longing to reconnect with your creativity, not as a burden or egoic pursuit, but as a source of rejuvenation and self-expression. Let’s explore these layers step by step, integrating IFS and the broader philosophical context you’re navigating.
 
   

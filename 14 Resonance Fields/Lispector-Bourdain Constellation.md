@@ -1,5 +1,15 @@
 ---
-tags: [constellation, porosity, agape, embodiment]
+title: Lispector-Bourdain Constellation
+published: true
+topics:
+  - constellation
+  - porosity
+  - agape
+  - embodiment
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: resonance-fields
+date: '2025-07-31'
 ---
 
 # Lispector-Bourdain Constellation

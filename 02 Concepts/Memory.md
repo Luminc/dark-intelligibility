@@ -1,3 +1,12 @@
+---
+title: Memory
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: concepts
+date: '2025-07-31'
+---
 An interesting nuance to memory is how narrative memory is sometimes disjuncted/disconnected from affectual/bodily memory
 
 I think like I speak of a pharmakon of being or Derrida speaks of the [[pharmakon]] of language there is also the pharmakon of memory. There is a level of necessity for our being that we remember. But there is also on a more ambiguous level the way memory carries the weight of our identity. This passage seems to refer to that. How do we maintain our sense of 'porosity' to being and not close ourselves from the world? This is [[William Desmond|Desmond]]'s whole project.

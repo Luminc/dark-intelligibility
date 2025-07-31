@@ -1,5 +1,13 @@
 ---
-aliases: [Lispector]
+title: Clarice Lispector
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: thinkers
+date: '2025-07-31'
+aliases:
+  - Lispector
 ---
 # Clarice Lispector
 

@@ -1,3 +1,12 @@
+---
+title: The Manic Approach to Mystery
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: library
+date: '2025-07-31'
+---
 # The Manic Approach to Mystery
 
 **Jeroen Kortekaas**  

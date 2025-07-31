@@ -1,3 +1,12 @@
+---
+title: 'Agnosticism, God and Paradox'
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: fragments
+date: '2025-07-31'
+---
 By allowing both agnosticism and belief to live together
 
   

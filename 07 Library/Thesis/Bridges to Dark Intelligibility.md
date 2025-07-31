@@ -1,3 +1,12 @@
+---
+title: Bridges to Dark Intelligibility
+published: true
+topics:
+  - dark-intelligibility
+author: Jeroen Kortekaas
+category: library
+date: '2025-07-31'
+---
 # Bridges to Dark Intelligibility
 ## From "The Manic Approach to Mystery" (2017) to Current Framework
 
