@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Beasts/Dark Intelligibility.md",
+                "file": "04 Dialogues/Clinging and Creativity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dark Intelligibility"
+              "title": "Clinging and Creativity"
             }
           }
         ],
@@ -166,6 +166,7 @@
   },
   "active": "20f433641c6c4e00",
   "lastOpenFiles": [
+    "05 Beasts/Dark Intelligibility.md",
     "04 Dialogues/Clinging and Creativity.md",
     "04 Dialogues/Chat and Non-binary Theism.md",
     "03 Fragments/Vertigo.md",
