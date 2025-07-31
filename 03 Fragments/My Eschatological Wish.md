@@ -1,14 +1,3 @@
----
-title: My Eschatological Wish
-published: true
-topics:
-  - dark-intelligibility
-  - transcendence
-  - self
-author: Jeroen Kortekaas
-category: fragments
-date: '2025-07-31'
----
 #transcendence #self 
 It is true that the radical exit from the self is the goal of mysticism. In however much the self is stable te begin with, however much it is seperated from the world, at odds with the object (thrown against) and thus also at odds with its own subjectivity, thrown under, in a tenuous state in which the I cannot be overcome, nullified, transcended, as it always remains in opposition with the things it imagines itself distinguished from. 
 

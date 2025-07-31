@@ -1,11 +1,4 @@
 ---
-title: 'The Poison, the Purge. Being and Anthony Bourdain'
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: beasts
-date: '2025-07-31'
 aliases:
   - The Poison the Purge
   - Bourdain note

@@ -1,17 +1,3 @@
----
-title: Meeting Desire
-published: true
-topics:
-  - dark-intelligibility
-  - dukkha
-  - nirvana
-  - attention
-  - intention
-  - somatics
-author: Jeroen Kortekaas
-category: beasts
-date: '2025-07-31'
----
   #dukkha #nirvana #attention #intention #somatics
 
 I was chatting with ChatGPT about [[attention]] and [[intention]], how they shape cognition, but also how deeply they affect the body, our emotions, and how we perceive the world. I started noticing how unconscious intentions ( like wanting to be seen, or simply wanting to be present ) can create subtle tension in the body, especially when those desires remain unmet or unacknowledged.

@@ -1,17 +1,5 @@
 ---
-title: Sacred-Abject Tension
-published: true
-topics:
-  - tension
-  - sacred
-  - abject
-  - purge
-  - embodiment
-  - threshold
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: opposition-interpenetrated
-date: '2025-07-31'
+tags: [tension, sacred, abject, purge, embodiment, threshold]
 ---
 
 # Sacred-Abject Tension

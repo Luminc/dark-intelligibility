@@ -1,12 +1,3 @@
----
-title: Reconfigured ethos
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: concepts
-date: '2025-07-31'
----
 # Reconfigured Ethos
 
 **Aliases**: Second Ethos, Post-Hyperbolic Ethos

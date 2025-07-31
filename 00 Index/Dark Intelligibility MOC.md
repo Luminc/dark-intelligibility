@@ -1,12 +1,3 @@
----
-title: Dark Intelligibility MOC
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: index
-date: '2025-07-31'
----
 # Map of Content: Dark Intelligibility
 
 **Dark Intelligibility** is the central axis of this vault—a space where paradox, porosity, and the ordeal of being are explored through philosophy, literature, and personal reflection.

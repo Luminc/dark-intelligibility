@@ -1,16 +1,5 @@
 ---
-title: Trinity of Emptying
-published: true
-topics:
-  - constellation
-  - emptiness
-  - kenosis
-  - apophasis
-  - sunyata
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: resonance-fields
-date: '2025-07-31'
+tags: [constellation, emptiness, kenosis, apophasis, sunyata]
 ---
 
 # Trinity of Emptying

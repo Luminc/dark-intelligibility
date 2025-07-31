@@ -1,12 +1,3 @@
----
-title: Transtheism
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: concepts
-date: '2025-07-31'
----
 # Transtheism
 
 A philosophical-spiritual position that moves **through** and **beyond** the traditional theism-atheism binary without simply rejecting either term. Not "neither theist nor atheist" but a **transformed relationship** to the divine that transcends oppositional thinking.

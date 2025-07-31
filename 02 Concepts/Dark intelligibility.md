@@ -1,13 +1,5 @@
 ---
-title: Dark intelligibility
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: concepts
-date: '2025-07-31'
-aliases:
-  - dark intelligibility
+aliases: [dark intelligibility]
 ---
 # Dark Intelligibility
 

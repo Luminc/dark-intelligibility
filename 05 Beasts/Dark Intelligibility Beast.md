@@ -1,12 +1,3 @@
----
-title: Dark Intelligibility Beast
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: beasts
-date: '2025-07-31'
----
 “Become all flame,” said Abba Joseph
 
 ---

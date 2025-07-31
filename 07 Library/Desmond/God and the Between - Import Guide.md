@@ -1,12 +1,3 @@
----
-title: God and the Between - Import Guide
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: library
-date: '2025-07-31'
----
 # Desmond: God and the Between - Import Guide
 
 ## How to Import This Text

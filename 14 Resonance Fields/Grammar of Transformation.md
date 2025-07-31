@@ -1,15 +1,5 @@
 ---
-title: Grammar of Transformation
-published: true
-topics:
-  - constellation
-  - language
-  - transformation
-  - metaxu
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: resonance-fields
-date: '2025-07-31'
+tags: [constellation, language, transformation, metaxu]
 ---
 
 # Grammar of Transformation

@@ -1,12 +1,3 @@
----
-title: The Wanderer and Witness
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: dialogues
-date: '2025-07-31'
----
 
 At the heart of your journey is a tension between two modes of being: the Wanderer and the Witness. These are not opposites but two currents of the same river, two ways of engaging with the world and the self.
 

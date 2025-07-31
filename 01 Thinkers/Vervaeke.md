@@ -1,12 +1,3 @@
----
-title: Vervaeke
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: thinkers
-date: '2025-07-31'
----
 Intensity and the sacred
 
 Access to reality (insight)

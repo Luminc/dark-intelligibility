@@ -1,12 +1,3 @@
----
-title: Sandberg and Rijksakademie Visit
-published: true
-topics:
-  - dark-intelligibility
-author: Jeroen Kortekaas
-category: journaling-and-personal
-date: '2025-07-31'
----
 I went to see the sandberg grad shows
 
   
