@@ -14,7 +14,7 @@ This question migrates through your work, changing shape but retaining its essen
 The gift is **being itself**—not something we possess but the condition that possesses us:
 > "Like the birthday cake, where the giftedness of our being is honored—a ritual acknowledgment of existence—so too the world given to us by our parents places us in a condition of fundamental indebtedness."
 
-The birthday cake is not what places us in indebtedness, it is simply an affirmation of being. Yet our affirmation also includes our not being able to fully receive it because it comes part and parcel with negation. Our tension with the Cure is a lack of integration with the Poison
+The birthday cake is not what places us in indebtedness, it is simply an affirmation of being. Yet our affirmation also includes our not being able to fully receive it because it comes part and parcel with negation. Our tension with the Cure is a lack of integration with the Poison. Then it follows that deeper 'Affirmation' which includes our Negation, more akin to an Equanimous surrender
 ### In [[Pharmakon]]  
 The gift becomes **medicine-poison**—what heals and what wounds simultaneously. To receive it requires [[porosity]].
 
