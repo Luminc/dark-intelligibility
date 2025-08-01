@@ -1,1 +1,1 @@
-Counterfeit doubles are tha images and faces 
+Counterfeit doubles are 
