@@ -56,7 +56,7 @@ The pharmakon operates at every scale:
 
 ## Dialogue with the Ecosystem
 
-### With [[Dark Intelligibility]]
+### With [[Dark intelligibility]]
 Dark intelligibility is **how** we learn to receive the pharmakon without being destroyed by it — the mode of understanding that can metabolize medicine-poison.
 
 ### With [[Kenosis]]  

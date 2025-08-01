@@ -10,7 +10,7 @@
 ## Key Manifestations & Explorations
 
 ### Porosity as Courageous Surrender (The Lispector Axis)
-- In [[Dark Intelligibility Beast]], porosity is the courage to face the "violence (or grace) of the indeterminate" and undergo disorganization. It is the core of [[dark intelligibility]].
+- In [[Dark Intelligibility Beast]], porosity is the courage to face the "violence (or grace) of the indeterminate" and undergo disorganization. It is the core of [[Dark Intelligibility Structure]].
 - It is what allows for the "no-sive-yes" and the reception of the gift of being.
 
 ### Porosity as Agapeic Openness (The Bourdain Axis)
