@@ -3,5 +3,7 @@
 .vscode/
 .vscode/tasks.json
 .DS_Store
+.claude/
 Thumbs.db
 *.ps1
+*.sh
