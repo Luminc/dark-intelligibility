@@ -1,7 +1,4 @@
 .obsidian/plugins/
-.obsidian/workspace*
-.obsidian/hotkeys.json
-.obsidian/graph.json
-.obsidian/appearance.json
+.obsidian/workspace
 .DS_Store
 Thumbs.db
