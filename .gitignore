@@ -1,5 +1,5 @@
 .obsidian/plugins/
-.obsidian/workspace
+.obsidian/workspace*
 .vscode/
 .vscode/tasks.json
 .DS_Store
