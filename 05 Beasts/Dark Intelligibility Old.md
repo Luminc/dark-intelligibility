@@ -54,9 +54,3 @@ Abba Isaac once said:
 When we cease our projections upon the veil, we witness unveiling. The falling of the faces.
 
 In one of my dreams I made such an image. It was a face, or the emptiness of a face, enshrined in a veil, like an empty form wearing a ritualistic headdress. Ornate and sacred, I felt like it had hidden something too terrifying for me to be unveiled. My mind had given me an enshrined face to hold what was too intense, too difficult to conceive. The mind was protecting me from overwhelm. The DMT experience was overwhelming in that excessive exposure to absolute [[Hyperbolic dimension|hyperbole]]. As much as it healed me it haunted me, because it threatened to overwhelm me. The dropping of the face is again becoming ready to receive from what's shining in the fissures.
-
-
-
-
-
-VV

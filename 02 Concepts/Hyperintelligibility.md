@@ -180,6 +180,8 @@ The **wonder** that opens us to hyperintelligible encounter.
 - What is the relationship between **mystery** and **problem** in my own experience?
 - How do I maintain **dialectical patience** in our culture of immediate answers?
 
+
+
 ---
 
 ## See Also
