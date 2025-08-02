@@ -17,7 +17,7 @@
 - [[No-sive-Yes]]
 - [[Reconfigured ethos]]
 - [[The Great Doubt]]
-- [[counterfeit double]]
+- [[Counterfeit double]]
 
 ## Key Thinkers & Influences
 
