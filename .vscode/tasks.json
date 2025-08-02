@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Sync Obsidian Vault",
+      "type": "shell",
+      "command": "powershell.exe",
+      "args": [
+        "-ExecutionPolicy", "Bypass",
+        "-File", "../obsidian-sync.ps1"
+      ],
+      "problemMatcher": [],
+      "group": "build"
+    }
+  ]
+}
