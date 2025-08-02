@@ -45,7 +45,7 @@ When we cease our projections upon the veil, we witness unveiling. The falling o
 In one of my dreams I made such an image. It was a face, or the emptiness of a face, enshrined in a veil, like an empty form wearing a ritualistic headdress. Ornate and sacred, I felt like it had hidden something too terrifying for me to be unveiled. My mind had given me an enshrined face to hold what was too intense, too difficult to conceive. The mind was protecting me from overwhelm. The DMT experience was overwhelming in that excessive exposure to absolute [[Hyperbolic dimension|hyperbole]]. As much as it healed me it haunted me, because it threatened to overwhelm me. The dropping of the face is again becoming ready to receive from what's shining in the fissures.
 
 
-I see myself oscillating between [[William Desmond|Desmond]] and Nishitani. A trembling and oscillation that is emptied of God and filled by God. In this transjective space, this middle way, a sense of letting-be brings peace. Open to receive, open to be emptied. There is [[kenosis]] here, and [[metanoia]]. It is devotion to the intimacy of the impersonal.
+I see myself oscillating between [[William Desmond|Desmond]] and [Nishitani]. A trembling and oscillation that is emptied of God and filled by God. In this transjective space, this middle way, a sense of letting-be brings peace. Open to receive, open to be emptied. There is [[kenosis]] here, and [[metanoia]]. It is devotion to the intimacy of the impersonal.
 
 Abba Isaac once said:
 
