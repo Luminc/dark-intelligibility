@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "bf787da9a7f82a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e463cc9b226d1dfd",
+        "type": "split",
+        "children": [
+          {
+            "id": "08494e07f234e024",
+            "type": "tabs",
+            "dimension": 56.32183908045977,
+            "children": [
+              {
+                "id": "4f434b6e44e43beb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 Dialogues/With ChatGPT on Lispector.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "With ChatGPT on Lispector"
+                },
+                "group": "80d8bc19d5b3696b"
+              }
+            ]
+          },
+          {
+            "id": "76babae5e60a288b",
+            "type": "tabs",
+            "dimension": 43.67816091954023,
+            "children": [
+              {
+                "id": "6f41a00251df117d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "04 Dialogues/With ChatGPT on Lispector.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for With ChatGPT on Lispector"
+                },
+                "group": "80d8bc19d5b3696b"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce134057595fc55a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1cc2d6552b3d55f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "015d711e58b79a27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f588bb576ce7ae64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62f0823ed6890841",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "d221f10400f94929",
+    "type": "split",
+    "children": [
+      {
+        "id": "6578f9f520295e04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378eb8d4520483ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 Dialogues/Clinging and Creativity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Clinging and Creativity"
+            }
+          },
+          {
+            "id": "5515168457c0250b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 Concepts/Kenosis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kenosis"
+            }
+          },
+          {
+            "id": "677323b6c0cc188e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d2c3dd7ff9a57d5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Concepts/Kenosis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kenosis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4f434b6e44e43beb",
+  "lastOpenFiles": [
+    "04 Dialogues/Chat and Non-binary Theism.md",
+    "02 Concepts/Transtheism.md",
+    "07 Library/README - Library Structure.md",
+    "02 Concepts/Reconfigured ethos.md",
+    "02 Concepts/Transtheism.md.tmp.22932.1753734957532",
+    "02 Concepts/Hyperintelligibility.md",
+    "02 Concepts/Hyperintelligibility.md.tmp.22932.1753734898805",
+    "02 Concepts/Reconfigured ethos.md.tmp.22932.1753734840953",
+    "04 Dialogues/dark_intelligibility_dialogue_claude.md",
+    "04 Dialogues/Unconfirmed 567185.crdownload",
+    "02 Concepts/Porosity.md",
+    "07 Library/Thesis/Bridges to Dark Intelligibility.md",
+    "2025-07-28.md",
+    "07 Library/Desmond/God and the Between.md",
+    "07 Library/Thesis/Bridges to Dark Intelligibility.md.tmp.22932.1753733549085",
+    "07 Library/Thesis/The Manic Approach to Mystery.md",
+    "07 Library/Thesis",
+    "Untitled.md",
+    "07 Library/Desmond/God and the Between - Import Guide.md",
+    "07 Library/Desmond/God and the Between - Processed.md",
+    "07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.md",
+    "07 Library/Desmond/God and the Between - Processed.md.tmp.18156.1753730588866",
+    "09 Archive/TheManicApproachToMysterySCAN (1).md",
+    "09 Archive/TheManicApproachToMysterySCAN.md",
+    "09 Archive/The Manic Approach to Mystery.md",
+    "09 Archive/TheManicApproachToMysterySCAN (1).pdf",
+    "07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.pdf",
+    "07 Library/Lispector/Literary-Philosophical Integration.md",
+    "07 Library/Nishitani/Religion and Nothingness - Import Guide.md",
+    "07 Library/Lispector/Literary-Philosophical Integration.md.tmp.5716.1753726477988",
+    "02 Concepts/Pharmakon.md",
+    "02 Concepts/Hyperbolic dimension.md",
+    "02 Concepts/Dark intelligibility.md",
+    "13 Opposition Interpenetrated/Sacred-Abject Tension.md",
+    "15 Question Trails/Who am I.md",
+    "14 Resonance Fields/Trinity of Emptying.md",
+    "Untitled.canvas"
+  ]
+}
