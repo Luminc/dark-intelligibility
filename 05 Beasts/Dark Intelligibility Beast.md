@@ -6,17 +6,17 @@
 
 Being is given to us as a gift, but this gift places us in a condition of fundamental indebtedness. This is not a transactional debt, but a relational one—the [[pharmakon]] of being. It is both medicine and poison, grace and ordeal. Sin, in this frame, can be understood as the **refusal of the gift**—the ego’s turning away from the given in a futile attempt to master being on its own terms.
 
-This is the tension Clarice [[Lispector]] confronts with terrifying honesty. She pinpoints it deeply: 
+This is the tension Clarice Lispector confronts with terrifying honesty. She pinpoints it deeply: 
 
 >"How do I explain that my greatest fear is precisely in relation ... to being". 
 
-This is the fear of the ordeal that accompanies the gift. She confronts the fear, and in doing so, undergoes the violence (or grace) of the indeterminate which disorients the notion of self, putting it in a strata between the finite and infinite where all our constructs of the world are deeply challenged.
+This is the fear of the ordeal that accompanies the gift. I have never seen such [[porosity]] and beauty in the face of this paradox. She confronts the fear, and in doing so, undergoes the violence (or grace) of the indeterminate which disorients the notion of self, putting it in a strata between the finite and infinite where all our constructs of the world are deeply challenged.
 
 ### The Courage of Dark Intelligibility
 
 Dark intelligibility is an idea that came to me in the discussion on Lispector. I was fascinated by the cultural framing of her work, encountering terms like '[[Dark femininity]]' or '[[Witchcraft]]'. Her friend [[Otto Lara Resende]] famously warned: this is not literature but witchcraft. While this attests to the profound affect of her work, there is also the complex gendered and cultural weight of the witch or the feminine as inherently chaotic, alien. Therefore I would like to investigate the feminine aspects of her work, as well as on the flip side, the notion of the 'mystic', even the 'saint'. 
 
-On one hand there is a cultural critique to be made by framing lispector's femininity even though her mystical register is beyond categorization. What is framed as feminine is porosity and radical transparency to what is frightening to her, which is her courage. It becomes witchcraft perhaps through the fact that it is esoteric. In that, in the frame of the religious, it is erupting as a private, secret exercise. As a reader, to be transformed by her writing is to yourself become porous to affects you have intimated before but could not bear the full light of. When reaching such powerful registers, we ourselves can become frightened as it challenges our own stable selves, our 'reconfigured ethos'. [^1]
+On one hand there is a cultural critique to be made by framing lispector's femininity even though her mystical register is beyond categorization. What is framed as feminine is porosity and radical transparency to what is frightening to her, which is her courage. It becomes witchcraft perhaps through the fact that it is esoteric. In that, in the frame of the religious, it is erupting as a private, secret exercise. As a reader, to be transformed by her writing is to yourself become porous to affects you have intimated before but could not bear the full light of. When reaching such powerful registers, we ourselves can become frightened as it challenges our own stable selves, our 'reconfigured ethos'.[^1]
 
 I felt deep intimacy with these 'without words'. In encountering our overdetermined ground, our stabilized frames of the world are challenged. Confronted with an immense vertigo there is a frightening realization. It is frightening precisely because it challenges our stability. I am captivated with her [[apophasis]], aporia, and her courage to face Being fully, even if it means emptying herself. Even if it would make her old self a '[[counterfeit double]]'.
 
@@ -87,7 +87,6 @@ Abba Isaac once said:
 When we cease our projections upon the veil, we witness unveiling. The falling of the faces.
 
 In one of my dreams I made such an image. It was a face, or the emptiness of a face, enshrined in a veil. My mind had given me an enshrined face to hold what was too intense, too difficult to conceive, protecting me from overwhelm. The dropping of the face is becoming ready to receive what's shining in the fissures. It is the move from a fixed point on a disc to its radial, **[[hyperbolic dimension]]**, where we dissolve into the whole of ourselves and the whole of the universe.
-
 ### The Metabolic Question: Dosis and Digestive Capacity
 
 Within the [[pharmakon]] of being, there exists a crucial tension between **dosis** (the given, the giftedness) and our **metabolic capacity** to process what is given. This distinction illuminates why the same ontological revelation can be either curative (transformative) or poisonous (leading to inflation, confusion, pathology).

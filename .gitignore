@@ -1,6 +1,4 @@
 .obsidian/plugins/
-.obsidian/workspace*
-.vscode/
-.vscode/tasks.json
+.obsidian/workspace
 .DS_Store
 Thumbs.db
