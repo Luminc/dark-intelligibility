@@ -56,6 +56,16 @@
 
 **The Pharmakon Insight**: As Desmond would say, to truly approach being is to enter a space where **the harm might be the healing**—both poison and cure, depending on our capacity to receive what exceeds us.
 
+## The Permeability Problem: Dissolution vs. Centering in Emptiness
+
+**What's so bad about being permeable?** The threat of dissolution is none to those centered in emptiness. Death, ultimately, is present in our daily self-negation, colonization, oppression, and other various forms of relatas and stratas that already constrain and diminish us.
+
+**Eros Tyrannical vs. Eros Heavenly**: In the fundamental ambiguity of eros to be both possessive, transformative, and destructive lies a desire that determines a certain telos we move towards. In fact, **permeable to the telos, we are drawn towards it**. The question becomes: which eros dominates our spiritual practice?
+
+**The Conatus Problem**: The **conatus essendi**—our striving to persist in being—lies at the heart of the problem. The limits of self-determination are acutely felt by a being whose potentialities are isolated in a devalued ethos no longer able to make connections because all the relations are already ossified.
+
+**Beyond Self-Preservation**: When we are already dying through systemic oppression, spiritual bypassing, and cultural metabolic failure, the fear of dissolution through genuine practice becomes a false protection. True permeability to the sacred becomes a form of liberation from the living death of a colonized consciousness.
+
 ## Practical Implications
 
 **Tradition Matters**: The danger of Western commodification is the removal of practices from traditions that understand their **fundamental ambiguity**. Good practitioners should inform and guide people within established contemplative frameworks.
