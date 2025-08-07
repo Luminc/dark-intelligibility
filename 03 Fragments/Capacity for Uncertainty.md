@@ -1,0 +1,1 @@
+It builds our capacity for uncertainty, which allows us to be more open to the world. It allows us to be at peace in our process. Understanding is not discarded but in playful dynamism with our non-understanding. Sometimes they collapse into each other in paradoxical interpenetration. Dark Intelligibility.

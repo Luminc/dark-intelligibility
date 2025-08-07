@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Beasts/Dark Intelligibility Beast.md",
+                "file": "04 Dialogues/Dialogue on Authentic Voice and Dark Intelligibility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dark Intelligibility Beast"
+              "title": "Dialogue on Authentic Voice and Dark Intelligibility"
             }
           }
         ],
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "05 Beasts/Dark Intelligibility Beast.md",
+            "file": "04 Dialogues/Dialogue on Authentic Voice and Dark Intelligibility.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,8 +166,11 @@
   },
   "active": "c36e29c2d9078100",
   "lastOpenFiles": [
-    "05 Beasts/Dark Intelligibility Old.md",
     "05 Beasts/Dark Intelligibility Beast.md",
+    "04 Dialogues/Dialogue on Authentic Voice and Dark Intelligibility.md",
+    "03 Fragments/Capacity for Uncertainty.md",
+    "04 Dialogues/Untitled.md",
+    "05 Beasts/Dark Intelligibility Old.md",
     "15 Question Trails/Research goals.md",
     "15 Question Trails/Untitled.md",
     "02 Concepts/Reconfigured ethos.md",
