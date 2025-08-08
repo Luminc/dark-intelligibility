@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fa44c0a482ad11c8",
+        "id": "33c85b4186f39827",
         "type": "tabs",
         "children": [
           {
-            "id": "8c67235887ee8a0f",
+            "id": "845e877af4cd6558",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Beasts/Dark Intelligibility Old.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dark Intelligibility Old"
+              "title": "New tab"
             }
           }
         ]
@@ -168,18 +164,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c67235887ee8a0f",
+  "active": "845e877af4cd6558",
   "lastOpenFiles": [
+    "05 Beasts/Dark Intelligibility Old.md",
+    "05 Beasts/Dark Intelligibility.md",
+    "02 Concepts/Dark intelligibility.md",
+    "05 Beasts/Dark Intelligibility Beast.md",
     "15 Question Trails/Research goals.md",
     "04 Dialogues/Untitled.md",
     "04 Dialogues/Dialogue on Authentic Voice and Dark Intelligibility.md",
     "03 Fragments/Capacity for Uncertainty.md",
     "05 Beasts/Gift and Debt 2.md",
     "02 Concepts/Divine Idiocy.md",
-    "05 Beasts/Dark Intelligibility.md",
     "02 Concepts/Hyperintelligibility.md",
     "05 Beasts/Gift and Debt.md",
-    "05 Beasts/Dark Intelligibility Beast.md",
     "05 Beasts/Dark Intelligibility - A Synthesis.md",
     "05 Beasts/Dark Intelligibility Beast.md.tmp.7216.1754141278707",
     "05 Beasts/Dark Intelligibility Beast.md.tmp.7216.1754141135194",
@@ -199,13 +197,11 @@
     "05 Beasts/Meditation, Ambiguity, and the Pharmakon of Being.md",
     "02 Concepts/Pharmakon.md",
     "02 Concepts/Transtheism.md",
-    "05 Beasts/Dark Intelligibility Old.md",
     "02 Concepts/counterfeit double.md",
     "04 Dialogues/dark_intelligibility_dialogue_claude.md",
     "15 Question Trails/Untitled.md",
     "03 Fragments/Vertigo.md",
     "05 Beasts/Dark Intelligibility Structure.md",
-    "15 Question Trails/What does it mean to receive the gift 1.md",
     "Untitled.canvas"
   ]
 }
