@@ -38,7 +38,7 @@ I felt deep intimacy with these 'without words'. In encountering our overdetermi
 
 This is the gesture of "stepping out of the palace," like the Buddha, to encounter the "no" of reality. Lispector's "disorganization" is a **"no-sive-yes"**—a paradoxical affirmation that holds the tension of both yes and no. She says "no" to the stable, three-legged tripod of the ego in order to say a terrifying "yes" to the groundless ground of being. She portrays the arrival at [[the zero point]] and the return back to our [[Reconfigured ethos]], intimately affected by [[the primal ethos]].
 
-### Apophasis and the Great Doubt
+### Transtheism: The Trans- Movement Beyond Binaries
 
 There is the tension with apophasis and phasis. They seem deeply entangled with one another. Pure apophasis is impossible, as every negation carries the trace of what it negates. I consider myself religious, but I also subscribe to being an agnostic theist. I would rather like to affirm the tension, porosity, unknowing, through a term like **transtheism**—a philosophical-spiritual position that moves **through** and **beyond** the traditional theism-atheism binary without simply rejecting either term.
 
@@ -100,12 +100,11 @@ The khôra thus serves as both **protection** and **invitation**—shielding con
 
 Abba Isaac once said:
 
-> “To believe is to be silent enough that the Word may be born again in you.”
+> "To believe is to be silent enough that the Word may be born again in you."
 
 When we cease our projections upon the veil, we witness unveiling. The falling of the faces.
 
 In one of my dreams I made such an image. It was a face, or the emptiness of a face, enshrined in a veil. My mind had given me an enshrined face to hold what was too intense, too difficult to conceive, protecting me from overwhelm. The dropping of the face is becoming ready to receive what's shining in the fissures. It is the move from a fixed point on a disc to its radial, **[[hyperbolic dimension]]**, where we dissolve into the whole of ourselves and the whole of the universe.
-
 ### The Metabolic Question: Dosis and Digestive Capacity
 
 Within the [[pharmakon]] of being, there exists a crucial tension between **dosis** (the given, the giftedness) and our **metabolic capacity** to process what is given. This distinction illuminates why the same ontological revelation can be either curative (transformative) or poisonous (leading to inflation, confusion, pathology).
