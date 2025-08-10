@@ -11,7 +11,7 @@ The contemplations of Augustine's _intimior intimo meo_, for example, retain the
 
 This is what we are approaching with dark intelligibility. What is framed as feminine is porosity and radical transparency to what is frightening to her, represents a methodological approach. To be transformed by her writing is to yourself become porous to affects you have intimated before but could not bear the full light of. When reaching such powerful registers, we ourselves can become frightened as it challenges our own stable selves, idolization of autonomy.[^1]  
 
-The fundamental ambiguity of being is what I liken to the idea of the Pharmakon. At once medicine and poison, . The degree to which we affirm or negate being seems to determine our 'metabolic capacity' for our ordeals. 
+The fundamental ambiguity of being is what I liken to the idea of the [[Pharmakon of Being]]. At once medicine and poison, . The degree to which we affirm or negate being seems to determine our 'metabolic capacity' for our ordeals. 
 
 >"This is madness, I thought with my eyes closed. But it was so undeniable a feeling that birth from inside the dust -- that all I could do was follow something I was well aware wasn't madness, it was, my God, the worse truth, the horrible one. But why horrible? Because with out words it contradicted everything I used to think also without words." [[Clarice Lispector]] , Passion According to G.H..
 
