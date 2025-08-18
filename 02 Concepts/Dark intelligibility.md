@@ -5,6 +5,8 @@ aliases: [dark intelligibility]
 
 **Dark Intelligibility** is a mode of understanding that operates not through mastery or clear definition, but through a fidelity to what eludes explanation. It is an attunement to the traces, tremors, and absences that constitute the ground of being.
 
+>Dark Intelligibility is a form of knowing that arises at the metaxu—the paradoxical in-between—when a porous and receptive consciousness encounters an "overdetermined" reality. It is "dark" not because it is an absence of light, but because it is a "light too full to be borne," an excess of intelligibility that shatters our univocal, conceptual frameworks. It is a knowing that proceeds not by determination, but by surrender; not by grasping, but by being grasped.
+
 ## The Nature of "Dark"
 
 It is "dark" not because it is obscure or irrational, but because it courageously faces the "darkness" of the indeterminate, the [[apophasis|apophatic]], and the ordeal of the gift of being. This darkness is **productive**—it is the generative void from which genuine insight emerges.

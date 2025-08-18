@@ -37,7 +37,7 @@ This excess is not **waste** but **generosity**—the overflow that enables fini
 
 ### Convergences
 
-**Hyperintelligibility** and **[[Dark intelligibility]]** share crucial insights:
+**Hyperintelligibility** and **[[02 Concepts/Dark intelligibility]]** share crucial insights:
 
 - Both point beyond ordinary rational comprehension
 - Both involve **productive excess** rather than simple negation
@@ -185,7 +185,7 @@ The **wonder** that opens us to hyperintelligible encounter.
 ## See Also
 
 - [[William Desmond]]
-- [[Dark intelligibility]]  
+- [[02 Concepts/Dark intelligibility]]  
 - [[Metaxu]]
 - [[Overdeterminacy]]
 - [[Porosity]]

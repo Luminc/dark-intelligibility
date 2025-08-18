@@ -49,7 +49,7 @@ Explores different manifestations and understandings of divinity - polytheistic,
 ### Part IV: God
 Culminates in "Ten Metaphysical Cantos" - poetic-philosophical meditations on divine attributes.
 
-## Connections to [[Dark Intelligibility]]
+## Connections to [[Dark Intelligibility Strategy]]
 
 This work resonates with themes of:
 - **[[Apophasis]]** - God's unknowability and excess beyond conceptual grasp

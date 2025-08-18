@@ -10,6 +10,6 @@ I stayed with that sensation, and then questions began to arise. What are you lo
 
 But then something shifted. I wasn’t just exploring the content of the desire anymore — I was encountering the desire itself. I gave it my full attention. And suddenly, I was crying. Something had been acknowledged. I hugged this part of me — mentally, emotionally — and I felt embraced by myself.
 
-After a moment of integration, I checked in again. The knot in my belly was gone, but now I could feel my heartbeat very clearly. The sensation was vivid — my blood moving, energy pulsing — and it hit me: the knot is the heart. My desire is my heart. And my heart, which had been longing to be met, was finally met — by me.
+After a moment of integration, I checked in again. The knot in my belly was gone, but now I could feel my heartbeat very clearly. The sensation was vivid — my blood moving, energy pulsing — and it hit me: the knot is the heart. My desire is my heart. And my heart, which had been longing to be met, was finally met — by myself.
 
 That realization made me laugh and cry at the same time. The paradox was so tender, and a little absurd. I had been longing to receive something I could only give to myself.

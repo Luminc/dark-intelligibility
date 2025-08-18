@@ -2,7 +2,7 @@
 
 **Aliases**: Second Ethos, Post-Hyperbolic Ethos
 
-The way of being that emerges after hyperbolic encounter with the [[Dark intelligibility|dark intelligible]]. Not a return to the primal ethos, but a fundamental reconfiguration of how we inhabit existence after having been touched by what exceeds ordinary comprehension.
+The way of being that emerges after hyperbolic encounter with the [[02 Concepts/Dark intelligibility|dark intelligible]]. Not a return to the primal ethos, but a fundamental reconfiguration of how we inhabit existence after having been touched by what exceeds ordinary comprehension.
 
 ---
 
@@ -126,7 +126,7 @@ Therapeutic dimensions:
 
 ## See Also
 
-- [[Dark intelligibility]]
+- [[02 Concepts/Dark intelligibility]]
 - [[Porosity]]
 - [[William Desmond]]
 - [[Metaxu]]

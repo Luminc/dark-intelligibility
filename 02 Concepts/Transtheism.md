@@ -193,7 +193,7 @@ Finding the divine in **ordinary** reality:
 
 ## Bridge Concepts
 
-### Connection to [[Dark intelligibility]]
+### Connection to [[02 Concepts/Dark intelligibility]]
 
 Both point toward forms of **knowing** that exceed rational comprehension while remaining **intelligible** in their own mode.
 
@@ -241,6 +241,6 @@ Transtheism can dialogue with:
 - [[Sunyata]]
 - [[No-sive-Yes]]
 - [[Kenosis]]
-- [[Dark intelligibility]]
+- [[02 Concepts/Dark intelligibility]]
 - [[Reconfigured ethos]]
 - [[The zero point]]

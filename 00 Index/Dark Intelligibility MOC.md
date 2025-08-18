@@ -6,7 +6,7 @@
 
 ## Core Concepts
 
-- [[Dark intelligibility]]
+- [[Dark Intelligibility Strategy]]
 - [[Porosity]]
 - [[Pharmakon]]
 - [[Kenosis]]

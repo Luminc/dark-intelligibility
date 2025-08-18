@@ -17,7 +17,7 @@ This analysis examines how your 2017 bachelor thesis already contained the philo
 
 ## Bridge Analysis: Thesis Concepts → Dark Intelligibility Framework
 
-### 1. The Sublime → [[Dark intelligibility]]
+### 1. The Sublime → [[Dark Intelligibility Strategy]]
 
 **Thesis (2017)**:
 - Sublime as "negative experience of limits" (Kant)
@@ -145,7 +145,7 @@ This thesis creates productive tensions with your current concepts in:
 ## See Also
 
 - [[The Manic Approach to Mystery]]
-- [[Dark intelligibility]]
+- [[Dark Intelligibility Strategy]]
 - [[Pharmakon]]
 - [[Porosity]]
 - [[The Gift and the Ordeal]]
