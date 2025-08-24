@@ -1,0 +1,23 @@
+>"— I remembered you, when I kissed your man face, slowly, slowly kissed it, and when the time came to kiss your eyes — I remembered that then I had tasted the salt in my mouth, and that the salt of tears in your eyes was my love for you. But, what bound me most of all in a fright of love, had been, in the depth of the depths of the salt, your saltless and innocent and childish substance: with my kiss your deepest insipid life was given to me, and kissing your face was the saltless and busy patient work of love, it was woman weaving a man, just as you had woven me, neutral crafting of life."
+
+>""Ah, but at the same time how can I want for my heart to see? if my body is so weak that I can’t face the sun without my eyes physically crying — how could I stop my heart from glittering in physically organic tears if in nakedness I felt the identity: the God? My heart that covered itself with a thousand cloaks." 
+
+What if that covering, that self protecting of absolute nakedness, that futile act to cover ourselves, our heart, is simply us 'shoving it under the rug'. Rejecting intimacy with ourselves. The omphalos, the veiled navel-stone and center of the world, flashed in my mind. Too sacred, unbearable. Is it cowardice of us to cover the divine? Is the veiling our own doing? Is it betrayal?
+
+>"Identity is forbidden to me, I know. But I’m going to take a chance because I trust in my future cowardice, and it will be my essential cowardice that will reorganize me once again into a person. Not only through my cowardice. But I’ll reorganize myself through the ritual with which I was already born, as in the neutral of the semen the ritual of life is inherent. Identity is forbidden to me but my love is so great that I won’t resist my will to enter the mysterious fabric, into that plasma from which I may never again be able to depart"
+
+
+>"I was coming orgiastically to taste the identity of things" the vibrancy of the world springs forth when she comes to 'neutral'. The neutral it seems is such a cornucopious overflowing. Here Lispector is at her most psychedelic. The world is not empty in its emptiness but is revealed more deeply alive. The plenitude is constantly collapsing with emptiness in these sections "I know with horror: things enjoy themselves"
+
+
+I think the somatic is important in any articulation of being. Whether it is basho, metaxu or otherwise. I had a quick nihilizing flash again of being aware of my perception as alive and therefore part of me. And all my lively seeing is filled with my own being. So in that phenomenological ontological blend is actually where perception occurs, and our grasping onto reality is ingrained in our perception. It is already happening simply by our being present. I find that both beautiful participation and partially sollipsistic, but I can also see how our own othering ( objectivation ) gives rise to our representational drive of the other, that becomes alive as part of us roleplaying the other, filtering the other. The way consciousness anticipates and predicts is the creative act upon an otherwise neutral being that itself is already overdeterminate, yet we are scanning and narrativizing in our very act of seeing. A part of us is othered to make the other. 
+
+>it makes the world intelligible, but it also distances us from the plenitude that perception springs from. What you perceive _is_ part of you, but it’s also mediated through the estrangement of representation.
+
+>Your nihilizing flash seems to expose this paradox in its raw form: perception as both **self-unfolding** (my perception is alive with me) and **world-revealing** (the world becomes intelligible by being perceived). It’s a phenomenological-ontological knot: the world is disclosed through you, but you are disclosed _as part of the world_ in that very act.
+
+>And this also circles back to Lispector’s **neutral / orgasmic tasting of identity** — because in moments of ecstatic or somatic intensity (orgiasm, mystical neutrality, psychedelic flashes), that duality collapses for an instant. Perception feels like plenitude, not as representation but as raw overflow: things _enjoy themselves_.
+
+> I wonder — when you say “our grasping onto reality is ingrained in our perception,” do you feel that grasping is unavoidable (structural to consciousness), or do you think there are ways — through the somatic, or the neutral, or apophatic practices — to loosen that grasp, even temporarily?
+
+I think attunement is a seeing that is softly vigilant. It allows more to come in because it is attentive and yet receptive. The balance there in a territorializing gaze and a deterritorializing reception is the active practice of porosity that extends through our flesh and brains. 
