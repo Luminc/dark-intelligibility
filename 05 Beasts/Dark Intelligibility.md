@@ -1,5 +1,10 @@
 
-“Become all flame,” said Abba Joseph
+“Not dark, just without light”  --Clarice Lispector
+
+
+
+# Dark Intelligibility 
+
 
 Dark intelligibility is an idea that came to me in an encounter with Clarice Lispector. I was fascinated by the cultural framing of her work, designated with terms like '[[Dark femininity]]' or '[[Witchcraft]]'. Her friend [[Otto Lara Resende]] famously warned: this is not literature but witchcraft. While this attests to the profound affect of her work, there is also the complex gendered and cultural weight of the witch or the feminine as inherently chaotic, dangerous, alien. Therefore I would like to investigate the feminine aspects of her work, as well as on the flip side, the notion of the 'mystic', even the 'saint'. 
 
@@ -11,11 +16,13 @@ The contemplations of Augustine's _intimior intimo meo_, for example, retain the
 
 This is what we are approaching with dark intelligibility. What is framed as feminine is porosity and radical transparency to what is frightening to her, represents a methodological approach. To be transformed by her writing is to yourself become porous to affects you have intimated before but could not bear the full light of. When reaching such powerful registers, we ourselves can become frightened as it challenges our own stable selves our idolization of autonomy.[^1]  
 
-The fundamental ambiguity of being is what I liken to the idea of the [[Pharmakon of Being]]. At once medicine and poison, . The degree to which we affirm or negate being seems to determine our 'metabolic capacity' for our ordeals. 
+# The Pharmakon of Being: Ordeal and the Violence of Grace
+
+There is a fundamental ambiguity to being we can approach through the notion of the  [[Pharmakon]]. The degree to which we affirm or negate being seems to determine our 'metabolic capacity' for being.
 
 >"This is madness, I thought with my eyes closed. But it was so undeniable a feeling that birth from inside the dust -- that all I could do was follow something I was well aware wasn't madness, it was, my God, the worse truth, the horrible one. But why horrible? Because with out words it contradicted everything I used to think also without words." [[Clarice Lispector]] , Passion According to G.H..
 
-I felt deep intimacy with these 'without words'. An intimation of knowing that is prior to our language, closer to the ground of truth in our being. In encountering that overdetermined ground our stabilized frame of the world becomes creaky. As that frame is threatened to be blown away we are confronted with an immense vertigo and there is a frightening realization. But what precisely is realised is as alien to us as it is home. I am captivated with her [[apophasis]], aporia, and her courage to face Being fully, even if it means eroding herself. Even if it would make her old self a '[[counterfeit double]]'.
+I felt deep intimacy with these 'without words'. An intimation of knowing that is prior to our language, closer to the ground of truth in our being. In encountering that overdetermined ground our stabilized frame of the world becomes creaky. As that frame is threatened to be blown away we are confronted with an immense vertigo and there is a frightening realization. But what precisely is realized is as alien to us as it is home. I am captivated with her [[apophasis]], aporia, and her courage to face Being fully, even if it means eroding herself. Even if it would make her old self a '[[counterfeit double]]'.
 
 >"I prefer to call it disorganization because I don't want to ground myself in what I experienced -- in that grounding I would lose the world as it was for me before, and I know I don't have the capacity for another one" 
 
@@ -31,6 +38,8 @@ The fundamental ambiguity of being is what I like to approach through the concep
 
 She confronts the fear deeply without trying to solve it. For the unknown as well as mysterious and sublime is terrifying. The violence of grace disorients the notion of self. It places us in the strata between the finite and infinite where all our constructs of the world are deeply challenged. This is precisely the metaxu that Desmond talks about.
 
+# The Thing-part
+
 In The Passion According to G.H., Lispector acknowledges something that is already there before all our conceptions of being human: “the inhuman part is the best part of us… the thing-part of us… matter of the God, waiting to reclaim me.” The inhuman here is not the alienated other, nor the negation of the human. It is nearer to us than our own self-conceptions — nearer than the “self” that thinks it stands apart from the world.
 
 “Why shouldn’t I become unclean, exactly as I was discovering my whole self to be?” This question collapses the hierarchy between human and thing, revealing the co-identity of self and non-self, the neutral being in which we participate alongside the roach, the stone, the dust. The “thing-part” is not a degradation but a reclaiming: the intimacy of the impersonal, the suchness of matter-of-God, the elemental flesh that precedes our personhood.
@@ -44,6 +53,8 @@ This is the ground where Dark Intelligibility emerges: the place where the hyper
 In this register, to encounter being is to be claimed by it, drawn into the impersonal intimacy of suchness, where self and non-self mingle, and the only fidelity is to remain porous — even to what terrifies us.
 
 In Lispector's work there is the tension with apophasis and phasis. They seem deeply entangled with one another. Pure apophasis is impossible, as every negation carries the trace of what it negates. Perhaps this is what I'm trying to articulate with Dark Intelligibility. As a work on limits we identify the limits, however bright or dark they are, however high or low (hyper - hypo ). Directly I should make the case that we are considering something different than desmond's hyperintelligible. I'm not sure that is the case right now. 
+
+# Towards a non-binary theism
 
 I consider myself religious, but I also subscribe to being an agnostic theist. I would rather like to affirm the tension, porosity, unknowing, through a term like transtheism. [[Eckhart]]'s words "I pray to God to rid me of God". And [[Nishitani]]'s Sunyata: a nothingness that reveals presence in its suchness. 
 

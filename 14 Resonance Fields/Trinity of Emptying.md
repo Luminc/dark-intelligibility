@@ -27,6 +27,8 @@ tags: [constellation, emptiness, kenosis, apophasis, sunyata]
 3. **Transformation** - The void reveals itself as pregnant fullness
 4. **Return** - Re-engagement with the world from this emptied-full space
 
+>Re-engagement with the world from this emptied-full space" it is true that somehow that neutral is not neutral at all. Like in Lispector it is the protein, the semen. It is already and primordeally alive. It is empty-sive-full
+
 ## Your Synthesis
 
 You don't choose between these traditions but inhabit their **tension**:
