@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Beasts/Dark Intelligibility Old.md",
+                "file": "03 Fragments/The shown and the reserved.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dark Intelligibility Old"
+              "title": "The shown and the reserved"
             }
           }
         ],
@@ -156,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,11 +167,12 @@
   },
   "active": "c36e29c2d9078100",
   "lastOpenFiles": [
+    "05 Beasts/Dark Intelligibility Old.md",
+    "03 Fragments/The shown and the reserved.md",
     "03 Fragments/Capacity for Uncertainty.md",
     "04 Dialogues/Dialogue on Authentic Voice and Dark Intelligibility.md",
     "05 Beasts/Dark Intelligibility Beast.md",
     "04 Dialogues/Untitled.md",
-    "05 Beasts/Dark Intelligibility Old.md",
     "15 Question Trails/Research goals.md",
     "15 Question Trails/Untitled.md",
     "02 Concepts/Reconfigured ethos.md",
@@ -191,7 +193,6 @@
     "03 Fragments/Agnosticism, God and Paradox.md",
     "Termux.md",
     "Untitled.md",
-    "Helloworld.md",
     "sync-from-obsidian.sh"
   ]
 }
