@@ -3,7 +3,7 @@
 
 
 
-# Dark Intelligibility 
+# Dark Intelligibility: Fidelity to the Unknown
 
 
 Dark intelligibility is an idea that came to me in an encounter with Clarice Lispector. I was fascinated by the cultural framing of her work, designated with terms like '[[Dark femininity]]' or '[[Witchcraft]]'. Her friend [[Otto Lara Resende]] famously warned: this is not literature but witchcraft. While this attests to the profound affect of her work, there is also the complex gendered and cultural weight of the witch or the feminine as inherently chaotic, dangerous, alien. Therefore I would like to investigate the feminine aspects of her work, as well as on the flip side, the notion of the 'mystic', even the 'saint'. 
@@ -20,7 +20,7 @@ This is what we are approaching with dark intelligibility. What is framed as fem
 
 There is a fundamental ambiguity to being we can approach through the notion of the  [[Pharmakon]]. The degree to which we affirm or negate being seems to determine our 'metabolic capacity' for being.
 
->"This is madness, I thought with my eyes closed. But it was so undeniable a feeling that birth from inside the dust -- that all I could do was follow something I was well aware wasn't madness, it was, my God, the worse truth, the horrible one. But why horrible? Because with out words it contradicted everything I used to think also without words." [[Clarice Lispector]] , Passion According to G.H..
+>"This is madness, I thought with my eyes closed. But it was so undeniable a feeling that birth from inside the dust -- that all I could do was follow something I was well aware wasn't madness, it was, my God, the worse truth, the horrible one. But why horrible? Because without words it contradicted everything I used to think also without words." [[Clarice Lispector]] , Passion According to G.H..
 
 I felt deep intimacy with these 'without words'. An intimation of knowing that is prior to our language, closer to the ground of truth in our being. In encountering that overdetermined ground our stabilized frame of the world becomes creaky. As that frame is threatened to be blown away we are confronted with an immense vertigo and there is a frightening realization. But what precisely is realized is as alien to us as it is home. I am captivated with her [[apophasis]], aporia, and her courage to face Being fully, even if it means eroding herself. Even if it would make her old self a '[[counterfeit double]]'.
 
@@ -38,9 +38,9 @@ The fundamental ambiguity of being is what I like to approach through the concep
 
 She confronts the fear deeply without trying to solve it. For the unknown as well as mysterious and sublime is terrifying. The violence of grace disorients the notion of self. It places us in the strata between the finite and infinite where all our constructs of the world are deeply challenged. This is precisely the metaxu that Desmond talks about.
 
-# The Thing-part
+# The Thing-part and Neutral Being
 
-In The Passion According to G.H., Lispector acknowledges something that is already there before all our conceptions of being human: “the inhuman part is the best part of us… the thing-part of us… matter of the God, waiting to reclaim me.” The inhuman here is not the alienated other, nor the negation of the human. It is nearer to us than our own self-conceptions — nearer than the “self” that thinks it stands apart from the world.
+In The Passion According to G.H., Lispector acknowledges something that is already there before all our conceptions of being human: “the inhuman part is the best part of us… the thing-part of us… matter of God, waiting to reclaim me.” The inhuman here is not the alienated other, nor the negation of the human. It is nearer to us than our own self-conceptions, nearer than the “self” that thinks it stands apart from the world.
 
 “Why shouldn’t I become unclean, exactly as I was discovering my whole self to be?” This question collapses the hierarchy between human and thing, revealing the co-identity of self and non-self, the neutral being in which we participate alongside the roach, the stone, the dust. The “thing-part” is not a degradation but a reclaiming: the intimacy of the impersonal, the suchness of matter-of-God, the elemental flesh that precedes our personhood.
 
