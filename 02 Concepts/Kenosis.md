@@ -31,7 +31,7 @@ Through the [[pharmakon]] of ayahuasca ([[The Poison, the Purge. Being and Antho
 ## Related Concepts
 
 - [[Porosity]] - Kenosis makes porosity possible
-- [[Metanoia]] - The transformation that kenosis enables  
+- [[metanoia]] - The transformation that kenosis enables  
 - [[Apophasis]] - The unsaying that kenosis practices
 - [[Great Doubt]] - The fire of inquiry born from kenotic emptying
 - [[Transjective space]] - Where kenosis is lived

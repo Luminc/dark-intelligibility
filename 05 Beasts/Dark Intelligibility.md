@@ -3,7 +3,7 @@
 
 
 
-# Dark Intelligibility: Fidelity to the Unknown
+# Dark Intelligibility
 
 
 Dark intelligibility is an idea that came to me in an encounter with Clarice Lispector. I was fascinated by the cultural framing of her work, designated with terms like '[[Dark femininity]]' or '[[Witchcraft]]'. Her friend [[Otto Lara Resende]] famously warned: this is not literature but witchcraft. While this attests to the profound affect of her work, there is also the complex gendered and cultural weight of the witch or the feminine as inherently chaotic, dangerous, alien. Therefore I would like to investigate the feminine aspects of her work, as well as on the flip side, the notion of the 'mystic', even the 'saint'. 
@@ -14,15 +14,24 @@ What's at stake in Lispector isn't the romanticization of marginality but someth
 
 The contemplations of Augustine's _intimior intimo meo_, for example, retain their rupturing power precisely through the vulnerable intimacy of lived experience articulated. When we encounter Teresa's _Interior Castle_ or Eckhart's sermons, what moves us isn't their institutional legitimacy but the immediate presence of someone who has been there - the trembling authenticity that no amount of theological framework can fully contain or explain.
 
-This is what we are approaching with dark intelligibility. What is framed as feminine is porosity and radical transparency to what is frightening to her, represents a methodological approach. To be transformed by her writing is to yourself become porous to affects you have intimated before but could not bear the full light of. When reaching such powerful registers, we ourselves can become frightened as it challenges our own stable selves our idolization of autonomy.[^1]  
+This is what we are approaching with dark intelligibility. What is framed as feminine is porosity and radical transparency to what is frightening to her, represents a methodological approach. To be transformed by her writing is to yourself become porous to affects you have intimated before but could not bear the full light of. When reaching such powerful registers, we ourselves can become frightened as it challenges our own stable selves, our idolization of autonomy.[^1]  
 
+## The metaxu as overdetermined between
+
+Desmond's concept of [[metaxu]]—the "between"—provides the framework for understanding how both thinkers navigate the space where intelligible and unintelligible meet. The metaxu is the rich ontological medium where different modes of being encounter each other. As Desmond explains in *Being and the Between*, "Nothing is defined through itself alone. Beings are defined in a rich ontological intermedium of happening, and are both other-relating and self-relating."[^2]
+
+This "between" operates through what Desmond calls **"[[double mediation]]"**—both self-mediation (consciousness thinking itself through its other) and intermediation (the other's genuine mediation from its own otherness). Unlike dialectical thinking, which ultimately reduces otherness to self-relation, metaxological thinking maintains genuine plurality within unity. ( j: this is an essential point )
+
+Lispector's literary practice embodies this same space of double mediation. In *The Passion According to G.H.*, the protagonist's encounter with the cockroach creates precisely such a metaxu—a space where human and non-human, subject and object, familiar and strange meet without reduction to dialectical unity. **The cockroach's "thick radiant indifference" becomes a gateway to what G.H. calls "inhuman life"**—not the opposite of human life, but life experienced from beyond the boundaries of human categorization.(j: this is still excellent and well articulated, flows well from desmond to Lispector)
+
+Both thinkers understand this "between" as overdetermined rather than indeterminate. For Desmond, being presents itself as "surplus givenness"—an excessive abundance that gives rise to astonishment.(j: this can be linked to a citation about Desmond's astonishment) For Lispector, reality exceeds linguistic capture not through poverty but through richness: "reality is too delicate, only reality is delicate, my unreality and my imagination are heavier."(j: beautiful quote, needs page numbers)
 # The Pharmakon of Being: Ordeal and the Violence of Grace
 
 There is a fundamental ambiguity to being we can approach through the notion of the  [[Pharmakon]]. The degree to which we affirm or negate being seems to determine our 'metabolic capacity' for being.
 
 >"This is madness, I thought with my eyes closed. But it was so undeniable a feeling that birth from inside the dust -- that all I could do was follow something I was well aware wasn't madness, it was, my God, the worse truth, the horrible one. But why horrible? Because without words it contradicted everything I used to think also without words." [[Clarice Lispector]] , Passion According to G.H..
 
-I felt deep intimacy with these 'without words'. An intimation of knowing that is prior to our language, closer to the ground of truth in our being. In encountering that overdetermined ground our stabilized frame of the world becomes creaky. As that frame is threatened to be blown away we are confronted with an immense vertigo and there is a frightening realization. But what precisely is realized is as alien to us as it is home. I am captivated with her [[apophasis]], aporia, and her courage to face Being fully, even if it means eroding herself. Even if it would make her old self a '[[counterfeit double]]'.
+I felt deep intimacy with these 'without words'. An intimation of knowing that is prior to our language, closer to the ground of truth in our being. In encountering that overdetermined ground our stabilized frame of the world becomes creaky. As that frame is threatened to be blown away we are confronted with an immense vertigo and there is a frightening realization. But what precisely is realized is as alien to us as it is home. I am captivated with her [[apophasis]], aporia, and her courage to face Being fully, even if it means eroding herself. Even if it would make her old self a '[[counterfeit double 1]]'.
 
 >"I prefer to call it disorganization because I don't want to ground myself in what I experienced -- in that grounding I would lose the world as it was for me before, and I know I don't have the capacity for another one" 
 
@@ -69,3 +78,5 @@ Abba Isaac once said:
 When we cease our projections upon the veil, we witness unveiling. The falling of the faces.
 
 [^1]: [[Derrida]] through [[Cixous]]: a writing of the 'limit' --- [[aporia]], unsaying, [[feminine messianicity]]
+
+[^2]: *Being and the Between *, page number

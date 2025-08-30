@@ -30,7 +30,7 @@ It is precisely Lispector's own fear —as she articulates her own terror toward
 
 The witch represents **uncontained transmission** of spiritual intensity—the mystic who refuses to **domesticate their encounter** for others' comfort. They maintain the **raw voltage** of the hyperbolic rather than stepping it down to manageable levels. This explains the cultural need to marginalize such figures: they threaten the **metabolic equilibrium** of systems built on **managed porosity**.
 
-I felt deep intimacy with these 'without words'. In encountering our overdetermined ground, our stabilized frames of the world are challenged. Confronted with an immense vertigo there is a frightening realization. It is frightening precisely because it challenges our stability. I am captivated with her [[apophasis]], aporia, and her courage to face Being fully, even if it means emptying herself. Even if it would make her old self a '[[counterfeit double]]'.
+I felt deep intimacy with these 'without words'. In encountering our overdetermined ground, our stabilized frames of the world are challenged. Confronted with an immense vertigo there is a frightening realization. It is frightening precisely because it challenges our stability. I am captivated with her [[apophasis]], aporia, and her courage to face Being fully, even if it means emptying herself. Even if it would make her old self a '[[counterfeit double 1]]'.
 
 ### The "No-sive-Yes" of Disorganization
 
