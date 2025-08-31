@@ -42,9 +42,10 @@ This document maps all current concepts and treatments across your Dark Intellig
 - [[Sacred Purge]] - ayahuasca paradigm as transformative metabolism
 - [[Ontological Nutrition]] - spiritual development as expanding digestive range
 
-**Missing Connections**: 
-- More on [[Departure Arrival Return]] pattern
-- Integration with [[Desmond]]'s "[[Refusal of the Gift]]"
+**Integrated Connections**: 
+- **[[Departure Arrival Return]]** - Pharmakon dosis varies through mystical movements
+- **[[Salted vs Saltless Reality]]** - Return involves learning to live with "salted" ordinary existence
+- Integration with [[Desmond]]'s "[[Refusal of the Gift]]" - metabolic failure during overwhelming arrival
 
 ---
 
@@ -107,6 +108,8 @@ This document maps all current concepts and treatments across your Dark Intellig
 - [[Lispector]]'s "violence of grace disorients notion of self"
 - [[Desmond]]'s "horror secreted in inward otherness of selving"
 - [[Metabolic Integration]] - body teaching what mind cannot process
+- **[[Departure Movement]]** - Initial rupture that "begins before we know we are departing"
+- **[[Ontological Violence]]** - Necessary shattering of framework organizing reality
 
 ### [[Apophasis and Phasis]]
 **Current Development**: [[05 Beasts/dark-intelligibility-integrated.md]]
@@ -119,11 +122,23 @@ This document maps all current concepts and treatments across your Dark Intellig
 ## Missing Elements & Gaps
 
 ### [[Departure Arrival Return]]
-**Status**: Referenced in artifact but needs integration
-**Potential Connections**:
-- [[Psychedelic Experience]] pattern
-- [[Second Ethos]] - departure from/return to configured world
-- [[Lispector]]'s journey through neutral back to human
+**Definition**: The metabolic rhythm of grace operating through three movements: rupture from point-existence, dissolution into hyperbolic participation, and return as transformed consciousness.
+
+**Primary Treatment**: [[03 Fragments/Departure Arrival Return.md]] - **Core framework** for understanding mystical temporality
+
+**Key Components**:
+- **[[Departure]]** - Violence of grace as rupture from fixed point existence; "torn from the fixed point of selfhood and thrust into the radial dimension"
+- **[[Arrival]]** - Orgiastic pleasure of creation in hyperbolic dimension; "joy without redemption" through participation in cosmic creativity  
+- **[[Return]]** - Sacred forgetting as necessity; consciousness "forever inscribed by what was felt in the radial dimension"
+
+**Integrated Connections**:
+- **[[Psychedelic Experience]]** - DMT flash as paradigmatic departure/arrival/return cycle
+- **[[Second Ethos]]** - Return to configured world carrying traces of hyperbolic encounter
+- **[[Lispector]]'s Trajectory** - Journey through neutral living back to transformed human existence
+- **[[Metabolic Rhythm]]** - Pattern of digestion, integration, and reconstitution in spiritual development
+- **[[Faithful Forgetting]]** - Spiritual discipline of honoring both knowing and not-knowing movements
+- **[[Transformed Point]]** - New mode of being-as-point secretly informed by relationship to whole disc
+- **[[Metaxological Existence]]** - Dwelling consciously in the between while accepting finite existence
 
 ### [[Feminine Messianicity]] → [[Intervalic Clarity]]
 **Current Treatment**: [[05 Beasts/dark-intelligibility-integrated.md]] + [[Claude_Research.md]] insights
@@ -182,7 +197,7 @@ This document maps all current concepts and treatments across your Dark Intellig
 4. **[[Refusal of the Gift]]** - Sin as closing to communication
 
 ### Part IV: Integration Patterns
-1. **[[Departure Arrival Return]]** - [NEEDS DEVELOPMENT]
+1. **[[Departure Arrival Return]]** - Metabolic rhythm of mystical experience
 2. **[[Violence of Grace]]** - Transformation through disruption
 3. **[[Metabolic Capacity]]** - Expanding digestive range
 4. **[[Contact Epistemology]]** - Ontological fidelity
