@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Dialogues/Claude_Research.md",
+                "file": "03 Fragments/Departure Arrival Return.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude_Research"
+              "title": "Departure Arrival Return"
             }
           }
         ],
@@ -181,18 +181,22 @@
   },
   "active": "f1efdcd1cb9a33b9",
   "lastOpenFiles": [
+    "05 Beasts/Dark Intelligibility.md",
+    "03 Fragments/Departure Arrival Return.md",
+    "05 Beasts/Gift and Debt.md",
+    "05 Beasts/dark-intelligibility-integrated.md",
+    "04 Dialogues/Claude_Research.md",
+    "metanoia.md",
+    "counterfeit double.md",
     "New DI beast.md",
     "15 Question Trails/Research goals.md",
     "05 Beasts/Meeting Desire.md",
-    "05 Beasts/Gift and Debt.md",
     "05 Beasts/Dark Intelligibility Old.md",
-    "05 Beasts/Dark Intelligibility.md",
     "02 Concepts/aporia.md",
     "02 Concepts/counterfeit double 1.md",
     "02 Concepts/counterfeit double.md",
     "02 Concepts/double mediation.md",
     "architecture.md",
-    "04 Dialogues/Claude_Research.md",
     "04 Dialogues/dark_intelligibility_dialogue_claude.md",
     "03 Fragments/Day and Night_Desmond  on Darkness and Light.md",
     "03 Fragments/The shown and the reserved.md",
@@ -203,10 +207,6 @@
     "04 Dialogues/Untitled.md",
     "15 Question Trails/Untitled.md",
     "02 Concepts/Reconfigured ethos.md",
-    "15 Question Trails/What does it mean to receive the gift 1.md",
-    "01 Thinkers/Clarice Lispector.md",
-    "03 Fragments/Vertigo.md",
-    "01 Thinkers/Derrida.md",
     "sync-from-obsidian.sh"
   ]
 }
