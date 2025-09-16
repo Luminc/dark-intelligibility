@@ -4,6 +4,7 @@ aliases:
   - the between
   - in-between
   - middle space
+  - metaxological
 ---
 
 # Metaxu
