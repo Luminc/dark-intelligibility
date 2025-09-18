@@ -14,7 +14,7 @@
     
 - Touch on your sense of porosity, violence, and grace in her language
     
-- Introduce the tension that will run throughout: the need for a new frame beyond “witchy,” “feminine,” or “mystic” — what if what we’re really encountering is a **[[Dark Intelligibility Structure]]**?
+- Introduce the tension that will run throughout: the need for a new frame beyond “witchy,” “feminine,” or “mystic” — what if what we’re really encountering is a **[[05 Beasts/Dark Intelligibility Structure]]**?
     
 
 ---
