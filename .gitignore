@@ -10,3 +10,6 @@ Thumbs.db
 
 # Exclude personal folder
 08 Journaling and Personal/
+
+# Node.js dependencies
+node_modules/

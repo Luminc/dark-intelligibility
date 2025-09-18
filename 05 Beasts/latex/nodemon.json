@@ -1,0 +1,24 @@
+{
+  "watch": ["../"],
+  "ext": "md,tex",
+  "ignore": [
+    "node_modules/**/*",
+    "*.pdf",
+    "*.log",
+    "*.aux",
+    "*.fls",
+    "*.fdb_latexmk",
+    "*.synctex.gz",
+    "*~",
+    "*.tmp",
+    "**/.vscode/**",
+    "**/.*",
+    "**/*~"
+  ],
+  "delay": 3000,
+  "exec": "npm run build",
+  "verbose": true,
+  "env": {
+    "NODE_ENV": "development"
+  }
+}

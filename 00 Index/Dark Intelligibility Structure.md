@@ -16,7 +16,7 @@ He therefore frames otherness less as an abyss to be annihilated and more as a r
 
 Metaxu as co-determining
 
-Together: the metaxu is a site where neutral inhumanity and intimate personhood mutually produce each other. Lispector pushes us into the violent phenomenology of that co-production (the felt wound); Desmond gives the wound a metaphysical grammar (hyperbole, primal ethos) and ethical direction (agapeic response). The result: the self is neither pure subject nor passive object but an ongoing event of mediation.
+Together: I
 
 ---
 

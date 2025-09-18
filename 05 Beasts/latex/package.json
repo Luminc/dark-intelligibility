@@ -1,0 +1,16 @@
+{
+  "name": "latex-live-dev",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "pandoc \"../The Neutral, Inhuman and the Intimate.md\" --template=template.tex --pdf-engine=xelatex -o \"The_Neutral_Inhuman_and_Intimate.pdf\"",
+    "watch": "nodemon",
+    "serve": "live-server --port=3000 --open=index.html",
+    "dev": "concurrently \"npm run watch\" \"npm run serve\"",
+    "start": "npm run build && npm run dev"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0",
+    "live-server": "^1.2.2",
+    "concurrently": "^8.0.0"
+  }
+}

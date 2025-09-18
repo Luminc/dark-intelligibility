@@ -1,0 +1,96 @@
+\documentclass[10pt,a4paper]{article}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage[paperwidth=13.5cm,paperheight=23cm,left=2cm,right=2cm,top=1.5cm,bottom=2cm]{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{endnotes}
+
+% Typography setup - elegant serif with special character support
+\usepackage{fontspec}
+\setmainfont{Latin Modern Roman}[
+    Ligatures=TeX,
+    Numbers=OldStyle
+]
+
+% Colors
+\definecolor{darkgray}{RGB}{64,64,64}
+\definecolor{lightgray}{RGB}{128,128,128}
+
+% Typography settings
+\setstretch{1.2}
+\setlength{\parindent}{1.5em}
+\setlength{\parskip}{0pt}
+
+% Section formatting
+\titleformat{\section}
+{\Large\bfseries\color{darkgray}}
+{}{0em}{}
+
+% Special formatting for Notes section without rule
+\titleformat{name=\section,numberless}[display]
+{\Large\bfseries\color{darkgray}}
+{}{0em}{}[{\vspace{1em}}]
+
+\titleformat{\subsection}
+{\large\bfseries\color{darkgray}}
+{}{0em}{}
+
+\titleformat{\subsubsection}
+{\normalsize\bfseries\color{darkgray}}
+{}{0em}{}
+
+% Header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\footnotesize\color{lightgray}The Neutral, Inhuman and the Intimate}
+\fancyhead[R]{\footnotesize\color{lightgray}Dark Intelligibility}
+\fancyfoot[C]{\footnotesize\color{lightgray}\thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Hyperlink styling
+\hypersetup{
+    colorlinks=true,
+    linkcolor=darkgray,
+    urlcolor=darkgray,
+    citecolor=darkgray,
+    pdfborder={0 0 0}
+}
+
+% Quote environment styling
+\renewenvironment{quote}
+{\begin{list}{}{\leftmargin=2em\rightmargin=2em\small\itshape}
+\item\relax}
+{\end{list}}
+
+% Endnote styling - convert footnotes to endnotes with numbers
+\let\footnote=\endnote
+\renewcommand{\theendnote}{\arabic{endnote}}
+\renewcommand{\enoteformat}{\raggedright\leftskip=1.8em\makebox[0pt][r]{\theenmark.\hspace{0.5em}}}
+
+\begin{document}
+
+% Title formatting
+\begin{center}
+{\Huge\bfseries\color{darkgray}The Neutral, Inhuman and the Intimate}
+\vspace{0.5em}
+
+{\large\color{lightgray}From Dark Intelligibility}
+\end{center}
+
+\vspace{2em}
+
+$body$
+
+\newpage
+\theendnotes
+\end{document}
