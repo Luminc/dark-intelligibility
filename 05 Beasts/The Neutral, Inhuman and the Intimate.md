@@ -3,12 +3,11 @@
 
 ### Porosity and the Neutral
 
-"The World had always been humanized. Now I was before the inhuman. The neutral was what was intimate."[^1] Clarice Lispector's narrator in The Passion According to G.H. encounters an intimacy that is not warm, not consoling, but alien. Intimacy here is not the communion of similarity, but the piercing proximity of otherness. There is an otherness to selving. The cockroach, that abject creature, tears through the membrane of her constructed self. She confronts what she calls "the great living neutrality struggling",[^2] life stripped of its human face, vitality indifferent to meaning.
+"The World had always been humanized. Now I was before the inhuman. The neutral was what was intimate."[^1] Clarice Lispector's narrator in The Passion According to G.H. encounters an intimacy that is not warm, not consoling, but alien. Intimacy here is not the communion of similarity, but the piercing proximity of otherness. There is an otherness to selving. The cockroach, that abject creature, tears through the membrane of her constructed self. She confronts what she calls "the great living neutrality struggling",[^2]life stripped of its human face, vitality indifferent to meaning.
 
 William Desmond offers a striking parallel in his book the God and the Between: "The idiocy of being is the sheer astonishment that there is anything at all, its intimate givenness and its foreign neutrality."[^3] What Lispector calls the neutral, Desmond refers to as the primal ethos: the bare fact of being before any determination, given to us before we come to be in a double register — as strangely intimate and irreducibly foreign.
 
 Both writers refuse the hard split of subject and object. For Lispector, the self is undone by what leaks through from within and without. For Desmond, the self always arises at the _metaxu_, the between, the self and other always constantly co-determining. The key point is not merely that the world resists humanization, but that the self too harbors alterity. To be porous to the other is to be porous to oneself. Selving is not a closed autonomy but an openness where alterity can shine through.
-
 When the constructions of self break down, something else emerges — the fertile neutrality of being. What is neutral is not dead; it is generative precisely in its refusal to conform to categories. This fertility is terrifying because it loosens the boundaries of identity. Yet it is also the beginning of intimacy — a strange intimacy with the inhuman in ourselves.
 
 ### The Saltless Truth and the Pharmakon
@@ -71,6 +70,6 @@ The adoration that emerges from not-understanding signals intelligence that has 
 
 [^9]: Lispector, _The Passion According to G.H._, [PAGE NEEDED].
 
-[^10]: Rainer Maria Rilke, _Letters to a Young Poet_ [CITATION NEEDED].
+[^10]: Rainer Maria Rilke, "Archaic Torso of Apollo," _New Poems_ [FULL CITATION NEEDED].
 
 [^11]: Lispector, _The Passion According to G.H._, 189.

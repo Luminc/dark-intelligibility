@@ -4,7 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
-\usepackage[paperwidth=13.5cm,paperheight=23cm,left=2cm,right=2cm,top=1.5cm,bottom=2cm]{geometry}
+\usepackage[a4paper,left=4cm, right=4cm, top=2cm, bottom=4cm]{geometry}
 \usepackage{setspace}
 \usepackage{enumitem}
 \usepackage{titlesec}
@@ -13,6 +13,10 @@
 \usepackage{hyperref}
 \usepackage{xcolor}
 \usepackage{endnotes}
+
+% Clean footnote and list support
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % Typography setup - elegant serif with special character support
 \usepackage{fontspec}
@@ -93,4 +97,5 @@ $body$
 
 \newpage
 \theendnotes
+
 \end{document}

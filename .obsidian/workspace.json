@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termux.md",
+                "file": "05 Beasts/Dark Intelligibility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Termux"
+              "title": "Dark Intelligibility"
             }
           }
         ]
@@ -171,17 +171,36 @@
   },
   "active": "fb985bd304b99079",
   "lastOpenFiles": [
+    "07 Library/Lispector/Breath of Life Citations.md",
+    "07 Library/Lispector/Citations.md",
+    "05 Beasts/Dark Intelligibility Beast.md",
+    "05 Beasts/Dark Intelligibility.md",
+    "05 Beasts/dark-intelligibility-integrated.md",
+    "05 Beasts/Dark Intelligibility Structure.md",
+    "05 Beasts/Dark Intelligibility Old.md",
+    "05 Beasts/latex/Dark Intelligibility New.md",
+    "05 Beasts/The Neutral, Inhuman and the Intimate.md",
+    "05 Beasts/Dark Intelligibility - Understanding Through Non-Understanding.md",
+    "Untitled 1.canvas",
+    "05 Beasts/latex/test-no-citations.md",
+    "05 Beasts/latex/template.tex.tmp.25264.1758215463776",
+    "05 Beasts/latex/test-simple.md",
+    "05 Beasts/latex/test-simple.md.tmp.25264.1758215439073",
+    "05 Beasts/latex/template.tex.tmp.25264.1758215342188",
+    "05 Beasts/latex/template.tex.tmp.25264.1758215335241",
+    "05 Beasts/latex/package.json.tmp.25264.1758215154868",
+    "05 Beasts/latex/clean-citations.md",
+    "05 Beasts/latex/clean-citations.md.tmp.25264.1758215137329",
+    "05 Beasts/The Neutral, Inhuman and the Intimate.md.tmp.25264.1758214983252",
+    "05 Beasts/latex/template.tex.tmp.25264.1758214900489",
+    "Termux.md",
     "README_PROJECTSTRUCTUUR.md",
     "00 Index/Dark Intelligibility Structure.md",
     "Untitled 1.base",
     "Untitled.base",
-    "05 Beasts/The Neutral, Inhuman and the Intimate.md",
     "02 Concepts/Violence of Grace.md",
-    "02 Concepts/Violence of Grace.md.tmp.29436.1758042554775",
-    "05 Beasts/Dark Intelligibility.md",
     "New DI beast.md",
     "05 Beasts/Meditation, Ambiguity, and the Pharmakon of Being.md",
-    "05 Beasts/Dark Intelligibility Beast.md",
     "03 Fragments/Notes on Four Ways God and the Metaxological.md",
     "02 Concepts/Metaxu.md",
     "02 Concepts/Absolved Relativity.md",
@@ -189,24 +208,6 @@
     "04 Dialogues/Dialogue on Authentic Voice and Dark Intelligibility.md",
     "04 Dialogues/dark_intelligibility_dialogue_claude.md",
     "04 Dialogues/Clinging and Creativity.md",
-    "04 Dialogues/Claude_Research.md",
-    "architecture.md",
-    "2025-07-28.md",
-    "counterfeit double.md",
-    "Garden Writing Strategy.md",
-    "Dark Intelligibility Feedback.md",
-    "02 Concepts/Dark intelligibility.md",
-    "Intervalic Attention.md",
-    "00 Index/Dark Intelligibility - Concept Map & Integration Guide.md",
-    "00 Index/Dark Intelligibility MOC.md",
-    "00 Index/dark_intelligibility_method.md",
-    "Untitled.canvas",
-    "00 Index/Unconfirmed 526435.crdownload",
-    "05 Beasts/Unconfirmed 130681.crdownload",
-    "04 Dialogues/Unconfirmed 22387.crdownload",
-    "metanoia.md.save",
-    "05 Beasts/Dark Intelligibility Beast.md.tmp.7216.1754141278707",
-    "05 Beasts/Dark Intelligibility Beast.md.tmp.7216.1754141135194",
-    "05 Beasts/Dark Intelligibility Beast.md.tmp.7216.1754141080186"
+    "Untitled.canvas"
   ]
 }

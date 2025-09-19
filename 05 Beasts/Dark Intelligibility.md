@@ -6,7 +6,7 @@
 # Dark Intelligibility
 
 
-Dark intelligibility is an idea that came to me in an encounter with Clarice Lispector. I was fascinated by the cultural framing of her work, designated with terms like '[[Dark femininity]]' or '[[Witchcraft]]'. Her friend [[Otto Lara Resende]] famously warned: this is not literature but witchcraft. While this attests to the profound affect of her work, there is also the complex gendered and cultural weight of the witch or the feminine as inherently chaotic, dangerous, alien. Therefore I would like to investigate the feminine aspects of her work, as well as on the flip side, the notion of the 'mystic', even the 'saint'. 
+Initially encountering Clarice Lispector's work, I  was fascinated by the cultural framing of her work, designated with terms like '[[Dark femininity]]' or '[[Witchcraft]]'. Her friend [[Otto Lara Resende]] famously warned: this is not literature but witchcraft. While this attests to the profound affect of her work, there is also the complex gendered and cultural weight of the witch or the feminine as inherently chaotic, dangerous, alien. Therefore I would like to investigate the feminine aspects of her work, as well as on the flip side, the notion of the 'mystic', even the 'saint'. 
 
 I feel an unease with the cultural framing of Lispector as "witch" or "mystic". Even in framing "witch" as an empowering, subversive, counter-dogmatic -- can still reinforce the patriarchal logic of marginalization. Framed as an outsider this could still perpetuate rather than challenge the structures that created exclusion. Beyond that, why subscribe to any binary?
 
