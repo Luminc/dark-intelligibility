@@ -20,7 +20,7 @@ This is what we are approaching with dark intelligibility. What is framed as fem
 
 Desmond's concept of [[metaxu]]—the "between"—provides the framework for understanding how both thinkers navigate the space where intelligible and unintelligible meet. The metaxu is the rich ontological medium where different modes of being encounter each other. As Desmond explains in *Being and the Between*, "Nothing is defined through itself alone. Beings are defined in a rich ontological intermedium of happening, and are both other-relating and self-relating."[^2]
 
-This "between" operates through what Desmond calls **"[[double mediation]]"**—both self-mediation (consciousness thinking itself through its other) and intermediation (the other's genuine mediation from its own otherness). Unlike dialectical thinking, which ultimately reduces otherness to self-relation, metaxological thinking maintains genuine plurality within unity. ( j: this is an essential point )
+This "between" operates through what Desmond calls **"[[double mediation]]"**—both self-mediation (consciousness thinking itself through its other) and intermediation (the other's genuine mediation from its own otherness). Unlike dialectical thinking, which ultimately reduces otherness to self-relation, metaxological thinking maintains genuine plurality within unity.
 
 Lispector's literary practice embodies this same space of double mediation. In *The Passion According to G.H.*, the protagonist's encounter with the cockroach creates precisely such a metaxu—a space where human and non-human, subject and object, familiar and strange meet without reduction to dialectical unity. **The cockroach's "thick radiant indifference" becomes a gateway to what G.H. calls "inhuman life"**—not the opposite of human life, but life experienced from beyond the boundaries of human categorization.
 
@@ -80,3 +80,7 @@ When we cease our projections upon the veil, we witness unveiling. The falling o
 [^1]: [[Derrida]] through [[Cixous]]: a writing of the 'limit' --- [[aporia]], unsaying, [[feminine messianicity]]
 
 [^2]: *Being and the Between *, page number
+
+
+
+There is a love borne out of inhuman intimacy, perhaps the love is antecedent to any construction, which is why it is so pure, and why any attachment to the reconfigured ethos frames our connection to primal ethos as a wound. A wound because we know we can do better. Lispector lives within the wound. An unreality that is now the only reality. The paradoxality there is the heart of dark intelligibility. "Not dark just without light" and without the light of reason we can meet our own being as given, on its own ground. Where we to cast ourselves in the void, not defiantly oppose it with a gaze but to meet the inhuman abyss precisely for what it offers to teach us; cast off identification and liberate yourself. But identification is the comfortable house and habit in which we have lived all our lives. It is Bhudda
