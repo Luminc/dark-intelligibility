@@ -1,0 +1,82 @@
+\documentclass[10pt,a4paper]{article}
+
+% Essential packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage[a4paper,left=13mm, right=13mm, top=13mm, bottom=13mm]{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{changepage}
+
+% Font setup - clean sans-serif to match InDesign
+\usepackage{fontspec}
+\setmainfont{Manrope Light}[Scale=1.0]
+\setsansfont{Manrope}[Scale=1.0]
+
+% Remove page numbers and headers
+\pagestyle{empty}
+
+% Typography settings - 15pt grid/line height
+\setlength{\baselineskip}{15pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{15pt}
+
+\begin{document}
+
+% Set 9pt body font size and 15pt line spacing
+\fontsize{9}{15}\selectfont
+
+% Sender branding at top - right aligned
+\noindent
+\hfill
+\begin{minipage}[t]{0.5\textwidth}
+\raggedleft
+\textbf{Jeroen Kortekaas} \\
+Maria Tesselschadelaan 45 \\
+2135 RD Hoofddorp \\
+The Netherlands \\
+studio@jeroenkortekaas.com \\
+\end{minipage}
+
+\vspace{1.5em}
+
+% Body content with 28mm left/right margins - including recipient and title
+\begin{adjustwidth}{15mm}{15mm}
+
+% Recipient
+\textbf{Rijksmuseum} \\
+\textbf{t.a.v. mevrouw Scheltjens} \\
+Amsterdam \\
+
+\vspace{1.5em}
+
+% Document info
+Datum: \today \\
+Betreft: Sollicitatie voor Data Engineer \\
+
+\vspace{1.5em}
+
+Geachte mevrouw Scheltjens,
+
+Met grote fascinatie las ik de vacature voor Data Engineer. Hoewel mijn profiel niet één-op-één aansluit bij de zware infrastructuur-eisen, voel ik een enorme connectie met de missie van uw afdeling: het ontsluiten van collectiedata via innovatieve, interdisciplinaire oplossingen. Ik schrijf u dan ook met het oog op de potentie die mijn unieke profiel kan bieden.
+
+Als ontwerper en content strateeg met een achtergrond aan de kunstacademie, heb ik mijn carrière gewijd aan het vertalen van de verhalen achter objecten. In mijn meest recente rol in de veilingwereld heb ik dit echter gecombineerd met een diepe duik in technologie. Ik heb op eigen initiatief Python-scripts ontwikkeld die, via API's, de volledige werkflow van marketing en contentcreatie automatiseren.
+
+Mijn passie voor technologie en mijn geloof in de potentie van AI zijn groot. In mijn vrije tijd ben ik bezig met het bouwen van een accounting-applicatie met PostgreSQL en Docker, waarbij ik moderne tools zoals LLM's gebruik om mijn leercurve exponentieel te versnellen. Dit toont niet zozeer mijn huidige expertise, maar wel mijn vermogen en drive om complexe, nieuwe technologieën snel eigen te maken.
+
+Ik zie een toekomst waarin de rijke data van het Rijksmuseum niet alleen wordt ontsloten, maar ook wordt verrijkt en geactiveerd door AI-toepassingen, bijvoorbeeld voor contentgeneratie of wetenschappelijk onderzoek. Op dat snijvlak -- tussen de collectie, de data en de innovatieve (AI-)toepassingen -- ligt mijn kracht.
+
+Ik ben ervan overtuigd dat mijn combinatie van domeinkennis, bewezen technische aanleg en een strategische visie op AI van grote waarde kan zijn voor uw team. Mocht er naast de pure Data Engineer-rol ruimte zijn voor een meer hybride profiel, dan zou ik mijn motivatie zeer graag in een gesprek toelichten.
+
+\vspace{2em}
+
+Met vriendelijke groet,
+
+\vspace{3em}
+
+Jeroen Kortekaas
+
+\end{adjustwidth}
+
+\end{document}
