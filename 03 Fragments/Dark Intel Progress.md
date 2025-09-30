@@ -1,0 +1,1 @@
+Recently I was thinking about aporia. It can be a fantastic way to frame the Dark-Intelligibility Project. The way meaning becomes frustrated can in fact open us up beyond meaning. We shall have to continue the chapter next weeks. 
