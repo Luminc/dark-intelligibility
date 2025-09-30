@@ -1,0 +1,7 @@
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: Operation not permitted
+/bin/bash: /Users/jeroen/Documents/dark-intelligibility/watchsync-macos.sh: Operation not permitted
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: Operation not permitted
+/bin/bash: /Users/jeroen/Documents/dark-intelligibility/watchsync-macos.sh: Operation not permitted
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: Operation not permitted
+/bin/bash: /Users/jeroen/Documents/dark-intelligibility/watchsync-macos.sh: Operation not permitted
+/bin/bash: /Users/jeroen/Documents/dark-intelligibility/watchsync-macos.sh: Operation not permitted
