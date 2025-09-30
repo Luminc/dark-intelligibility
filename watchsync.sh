@@ -13,13 +13,17 @@
 # IMPORTANT: This path MUST match the VAULT_DIR in sync.sh
 VAULT_DIR="/storage/emulated/0/Documents/dark-intelligibility"
 SYNC_SCRIPT="$HOME/sync.sh"
-DEBOUNCE_SECONDS=15 # Time to wait for more changes before syncing
+DEBOUNCE_SECONDS=30 # Time to wait for more changes before syncing
+COOLDOWN_SECONDS=600 # Minimum time between syncs (10 minutes)
 
 # --- SCRIPT LOGIC ---
 
 log() {
   echo "[$(date +'%Y-%m-%d %H:%M:%S')] $1"
 }
+
+# Track last sync time for cooldown
+last_sync_time=0
 
 # Check if inotify-tools is installed
 if ! command -v inotifywait &> /dev/null;
@@ -38,7 +42,7 @@ then
 fi
 
 log "✅ Watcher started on: $VAULT_DIR"
-log "🕒 Debounce time is $DEBOUNCE_SECONDS seconds."
+log "🕒 Debounce time is $DEBOUNCE_SECONDS seconds, cooldown is $COOLDOWN_SECONDS seconds."
 
 # Holds the process ID (PID) of the debounced sync job.
 # This allows us to reset the timer if a new file change comes in.
@@ -48,6 +52,16 @@ sync_pid=0
 # If another change is detected during the delay, the previous timer is cancelled
 # and a new one is started.
 debounce_sync() {
+  # Check cooldown period
+  current_time=$(date +%s)
+  time_since_last_sync=$((current_time - last_sync_time))
+  
+  if [[ $time_since_last_sync -lt $COOLDOWN_SECONDS ]]; then
+    remaining_cooldown=$((COOLDOWN_SECONDS - time_since_last_sync))
+    log "🕒 Sync on cooldown. ${remaining_cooldown}s remaining until next sync allowed."
+    return
+  fi
+
   # If a sync is already scheduled, cancel it.
   if [[ $sync_pid -ne 0 ]]
   then
@@ -64,6 +78,8 @@ debounce_sync() {
     else
       log "✅ Sync script finished successfully."
     fi
+    # Update last sync time
+    last_sync_time=$(date +%s)
   ) & 
 sync_pid=$!
 }
@@ -72,6 +88,7 @@ sync_pid=$!
 # Run sync once on startup to ensure everything is up-to-date.
 log "🚀 Performing initial sync on startup..."
 "$SYNC_SCRIPT"
+last_sync_time=$(date +%s)
 
 # --- WATCHER LOOP ---
 # Monitor the vault for file creation, deletion, modification, and moves.
@@ -81,6 +98,9 @@ inotifywait -m -r \
   --format '%w%f' \
   "$VAULT_DIR"
 | while read -r changed_file; do
-  log "👀 Detected change: $changed_file"
+  # Only log first change in a batch to reduce noise
+  if [[ $sync_pid -eq 0 ]]; then
+    log "👀 Detected changes, scheduling sync..."
+  fi
   debounce_sync
 done
