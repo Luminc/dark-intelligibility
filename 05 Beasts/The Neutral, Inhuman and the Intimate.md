@@ -8,6 +8,7 @@
 William Desmond offers a striking parallel in his book the God and the Between: "The idiocy of being is the sheer astonishment that there is anything at all, its intimate givenness and its foreign neutrality."[^3] What Lispector calls the neutral, Desmond refers to as the primal ethos: the bare fact of being before any determination, given to us before we come to be in a double register — as strangely intimate and irreducibly foreign.
 
 Both writers refuse the hard split of subject and object. For Lispector, the self is undone by what leaks through from within and without. For Desmond, the self always arises at the _metaxu_, the between, the self and other always constantly co-determining. The key point is not merely that the world resists humanization, but that the self too harbors alterity. To be porous to the other is to be porous to oneself. Selving is not a closed autonomy but an openness where alterity can shine through.
+
 When the constructions of self break down, something else emerges — the fertile neutrality of being. What is neutral is not dead; it is generative precisely in its refusal to conform to categories. This fertility is terrifying because it loosens the boundaries of identity. Yet it is also the beginning of intimacy — a strange intimacy with the inhuman in ourselves.
 
 ### The Saltless Truth and the Pharmakon

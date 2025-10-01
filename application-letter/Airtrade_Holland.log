@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.17)  23 SEP 2025 15:13
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.17)  23 SEP 2025 15:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./rijksmuseum-letter.tex
-(rijksmuseum-letter.tex
+**./airtrade_holland.tex
+(airtrade_holland.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 (C:\Users\jeroe\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -232,8 +232,8 @@ Package fontspec Info:
 (fontspec)             <->s*[1.0]"Manrope/OT:script=latn;language=dflt;mapping=
 tex-text;"
 
- (rijksmuseum-letter.aux)
-\openout1 = `rijksmuseum-letter.aux'.
+ (airtrade_holland.aux)
+\openout1 = `airtrade_holland.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -372,12 +372,7 @@ LaTeX Font Info:    Font shape `TU/ManropeLight(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/ManropeLight(0)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 35.
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
@@ -385,7 +380,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--57
 
 [1
 
-] (rijksmuseum-letter.aux)
+] (airtrade_holland.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
@@ -393,11 +388,11 @@ L3 programming layer <2025-08-13>
  ) 
 Here is how much of TeX's memory you used:
  5990 strings out of 403249
- 147802 string characters out of 5460860
- 621478 words of memory out of 5000000
+ 147776 string characters out of 5460860
+ 620470 words of memory out of 5000000
  34417 multiletter control sequences out of 15000+600000
  629935 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,5n,93p,1017b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,5n,93p,1015b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on rijksmuseum-letter.pdf (1 page).
+Output written on airtrade_holland.pdf (1 page).

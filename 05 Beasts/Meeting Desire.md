@@ -1,6 +1,6 @@
   #dukkha #nirvana #attention #intention #somatics
 
-I was chatting with ChatGPT about [[attention]] and [[intention]], how they shape cognition, but also how deeply they affect the body, our emotions, and how we perceive the world. I started noticing how unconscious intentions ( like wanting to be seen, or simply wanting to be present ) can create subtle tension in the body, especially when those desires remain unmet or unacknowledged.
+I was thinking about [[attention]] and [[intention]], how they shape cognition, but also how deeply they affect the body, our emotions, and how we perceive the world. I started noticing how unconscious intentions ( like wanting to be seen, or simply wanting to be present ) can create subtle tension in the body, especially when those desires remain unmet or unacknowledged.
 
 Then I started thinking about the cessation of [[desire]]. I realized I was longing for that, and of course, saw the obvious paradox: longing for the end of longing is itself another desire. When I set intentions (to be open, to be free) they are also tangled up in this longing — and in some way, that grasping was keeping me from actually inhabiting those states.
 
