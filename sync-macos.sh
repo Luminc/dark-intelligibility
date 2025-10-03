@@ -79,9 +79,26 @@ fi
 
 log "🔄 Starting sync..."
 
-# Check network connectivity before attempting git operations
-if ! ping -c 1 -t 2 github.com &>/dev/null; then
-  log "⚠️ No network connectivity to GitHub. Skipping remote operations."
+# Check network connectivity with retry
+MAX_RETRIES=3
+RETRY_DELAY=5
+retry_count=0
+
+log "🌐 Checking network connectivity..."
+while [ $retry_count -lt $MAX_RETRIES ]; do
+  if ping -c 1 -t 2 github.com &>/dev/null; then
+    log "✅ Network connection established"
+    break
+  fi
+  retry_count=$((retry_count + 1))
+  if [ $retry_count -lt $MAX_RETRIES ]; then
+    log "⏳ No network (attempt $retry_count/$MAX_RETRIES). Retrying in ${RETRY_DELAY}s..."
+    sleep $RETRY_DELAY
+  fi
+done
+
+if [ $retry_count -eq $MAX_RETRIES ]; then
+  log "⚠️ No network connectivity to GitHub after $MAX_RETRIES attempts. Skipping remote operations."
   notify_warning "No network connectivity. Sync skipped."
   exit 0
 fi
@@ -100,37 +117,14 @@ else
   fi
 fi
 
-# Step 2: Pull latest changes from remote
+# Step 2: Pull latest changes from remote with autostash
 log "⬇️ Pulling latest changes from GitHub..."
 cd "$REPO_DIR" || exit 1
 
-# Stash any local changes before pulling
-if [[ -n "$(git status --porcelain)" ]]; then
-  log "💼 Stashing local changes before pull..."
-  git stash push -m "Auto-stash before sync at $(date '+%Y-%m-%d %H:%M:%S')"
-  STASHED=true
-else
-  STASHED=false
-fi
-
-if ! git pull --rebase origin master; then
+if ! git pull --rebase --autostash origin master; then
   log "❌ Failed to pull from GitHub. This could be due to network issues or merge conflicts."
   log "👉 Please resolve any conflicts manually in '$REPO_DIR' and then run the sync again."
-
-  # Try to restore stash if we stashed
-  if [[ "$STASHED" == "true" ]]; then
-    git stash pop || log "⚠️ Could not restore stashed changes"
-  fi
   exit 1
-fi
-
-# Pop stashed changes if any
-if [[ "$STASHED" == "true" ]]; then
-  log "💼 Restoring stashed changes..."
-  if ! git stash pop; then
-    log "⚠️ Could not automatically restore stashed changes. Manual resolution may be needed."
-    notify_warning "Stashed changes couldn't be restored automatically"
-  fi
 fi
 
 # Step 3: Add and commit any local changes

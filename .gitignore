@@ -13,3 +13,9 @@ Thumbs.db
 
 # Node.js dependencies
 node_modules/
+
+# Sync logs
+sync.log
+watchsync.log
+launchagent-err.log
+.sync.lock
