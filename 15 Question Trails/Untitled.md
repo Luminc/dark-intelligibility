@@ -1,1 +1,0 @@
-Can we remain porous without becoming permeable? Can we be open without being colonized? Can we transcend without tyrannizing?

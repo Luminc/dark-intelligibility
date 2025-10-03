@@ -1,1 +1,0 @@
-Counterfeit doubles are the conceptions of self or God, even world, often from a [[reconfigured ethos]]. 
