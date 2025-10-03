@@ -47,3 +47,10 @@ Specifiek zou ik willen onderzoeken:
 - Strategieën om theoretische complexiteit toegankelijk te maken zonder reductief te worden
 
 Alena's vermogen om rigoureus theoretisch werk te verbinden met artistieke sensibiliteit, plus haar kennis van continentale filosofie en kritische theorie, zou essentieel zijn voor het ontwikkelen van een werkwijze waarin denken en maken werkelijk kunnen samenvallen.
+
+__________
+
+Desmond talks about the overdeterminate, and compares it with the determinate, the indeterminate, and the self-determining
+
+In overdeterminacy there is a too-muchness from the outset
+
