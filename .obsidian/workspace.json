@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Dark Intel Progress"
             }
-          },
-          {
-            "id": "db586391ac051268",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db586391ac051268",
+  "active": "fb985bd304b99079",
   "lastOpenFiles": [
+    "application-letter/Vacature_JobFinder.md",
+    "application-letter/Vacature_JobFindermd",
+    "application-letter/Vacature_JobFinder",
     "05 Beasts/Meeting Desire.md",
     "01 Thinkers/Gabor Mate.md",
     "application-letter/chronologische_tijdlijn.tex.tmp.11964.1758722380584",
@@ -197,10 +187,8 @@
     "application-letter/input/chronologische_tijdlijn_latex.md",
     "application-letter/input/chronologische_tijdlijn.md",
     "application-letter/output/chronologische_tijdlijn.md",
-    "application-letter/output/Airtrade_Holland.pdf",
     "application-letter/input/Overdrachtsnotitie.md",
     "application-letter/input/Werknemerrelatie_WhatsApp.md",
-    "application-letter/output/Motivatiebrief_Airtrade_Jeroen_Kortekaas.pdf",
     "05 Beasts/Dark Intelligibility.md",
     "07 Library/Lispector/Breath of Life Citations.md",
     "07 Library/Lispector/Citations.md",
@@ -220,7 +208,6 @@
     "00 Index/Dark Intelligibility Structure.md",
     "02 Concepts/Violence of Grace.md",
     "New DI beast.md",
-    "05 Beasts/Meditation, Ambiguity, and the Pharmakon of Being.md",
     "Untitled.canvas"
   ]
 }
