@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Dark Intel Progress"
             }
+          },
+          {
+            "id": "db586391ac051268",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb985bd304b99079",
+  "active": "db586391ac051268",
   "lastOpenFiles": [
     "05 Beasts/Meeting Desire.md",
     "01 Thinkers/Gabor Mate.md",
