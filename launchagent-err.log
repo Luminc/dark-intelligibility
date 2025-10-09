@@ -169,3 +169,4 @@ shell-init: error retrieving current directory: getcwd: cannot access parent dir
 /bin/bash: /Users/jeroen/Documents/dark-intelligibility/watchsync-macos.sh: Operation not permitted
 /bin/bash: /Users/jeroen/Documents/dark-intelligibility/watchsync-macos.sh: Operation not permitted
 /bin/bash: /Users/jeroen/Documents/dark-intelligibility/watchsync-macos.sh: Operation not permitted
+/bin/bash: /Users/jeroen/Documents/dark-intelligibility/watchsync-macos.sh: Operation not permitted
