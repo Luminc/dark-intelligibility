@@ -19,3 +19,19 @@ sync.log
 watchsync.log
 launchagent-err.log
 .sync.lock
+
+# Python virtual environment and models
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Whisper models cache
+~/.cache/whisper/
