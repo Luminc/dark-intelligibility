@@ -1,0 +1,140 @@
+\documentclass[11pt,a4paper]{article}
+
+% Essential packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage[a4paper,left=3cm, right=3cm, top=2cm, bottom=3cm]{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{array}
+\usepackage{longtable}
+
+% Font setup - clean sans-serif to match InDesign
+\usepackage{fontspec}
+\setmainfont{Calibri}[Scale=1.0]
+\setsansfont{Calibri}[Scale=1.0]
+
+% Remove page numbers and headers
+\pagestyle{empty}
+
+% Typography settings to match InDesign
+\setstretch{1.0}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% Custom commands for the letterhead layout
+\newcommand{\makeheader}{
+    \begin{minipage}[t]{0.48\textwidth}
+        % Left side - Recipient
+        \raggedright
+        \textbf{{[Recipient Name]}}\\
+        \textbf{{[Company Name]}}\\
+        {[Address Line 1]}\\
+        {[Address Line 2]}\\
+        {[City, Postal Code]}
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[t]{0.48\textwidth}
+        % Right side - Studio info (matching the PDF exactly)
+        \raggedleft
+        \textbf{Studio Jeroen Kortekaas}\\
+        Maria Tesselschadelaan 45\\
+        2135 RD Hoofddorp\\
+        The Netherlands\\
+        \\
+        studio@jeroenkortekaas.com\\
+        www.jeroenkortekaas.com\\
+        +31 (0)6 15 24 5858\\
+        \\
+        btw-id NL005040466B63\\
+        KvK 93707754\\
+        IBAN NL72 ABNA 0848 3672 78\\
+        \mbox{}
+    \end{minipage}
+
+    \vspace{2em}
+}
+
+% Document title formatting
+\newcommand{\doctitle}[1]{
+    \vspace{1em}
+    {\fontsize{24}{28}\selectfont\textbf{#1}}
+    \vspace{1em}
+}
+
+% Date and reference formatting
+\newcommand{\docinfo}[3]{
+    Datum: #1\\
+    Betreft: #2\\
+    {[Document number]}: #3
+    \vspace{1.5em}
+}
+
+% Clean paragraph spacing
+\setlength{\parskip}{1em}
+
+\begin{document}
+
+\makeheader
+
+\doctitle{Sollicitatiebrief}
+
+\docinfo{\today}{Sollicitatie voor {[functietitel]}}{{[Reference]}}
+
+Geachte heer/mevrouw,
+
+Met grote interesse solliciteer ik naar de functie van {[functietitel]} bij uw organisatie. Mijn achtergrond combineert technische excellentie met commercieel inzicht en een passie voor het vertalen van complexe concepten naar toegankelijke verhalen.
+
+\textbf{Kerncompetenties \& Bewezen Resultaten}
+
+\textbf{E-mail Automatisering: Technische Excellentie \& Efficiëntie}
+
+\textbf{Situatie:} De wekelijkse nieuwsbrief via Mailchimp was een volledig handmatig proces. Het kostte veel tijd, was foutgevoelig, en de opmaak was vaak inconsistent, wat afbreuk deed aan de professionele uitstraling.
+
+\textbf{Taak:} Mijn doel was om dit proces te moderniseren: de productiviteit te verhogen, de foutmarge te elimineren en de kwaliteit van de nieuwsbrieven te garanderen.
+
+\textbf{Actie:} Ik heb een Python-script ontwikkeld dat direct communiceert met de Mailchimp API. Dit script haalt automatisch de nieuwste productdata op, stelt op basis van een professionele template een complete nieuwsbrief samen, en plaatst deze als concept klaar in Mailchimp. Cruciaal hierbij is dat ik een 'editoriële schakeling' heb ingebouwd, waardoor we nog steeds volledige controle houden over welke producten we uitlichten.
+
+\textbf{Resultaat:} Het resultaat was een transformatie van de workflow. De tijd die nodig was voor het maken van een nieuwsbrief werd gereduceerd met circa 90\%. De foutmarge is naar nul gegaan, en elke nieuwsbrief heeft nu een consistente, hoogwaardige uitstraling. Dit heeft niet alleen tijd vrijgemaakt voor meer strategische marketingtaken, maar ook de algehele professionaliteit van onze e-mailmarketing verhoogd.
+
+\vspace{1em}
+
+\textbf{A/B Campagnes: Commercieel Inzicht \& Data-gedrevenheid}
+
+\textbf{Situatie:} Onze social media campagnes op Meta (Facebook/Instagram) werden ad-hoc gemaakt zonder een duidelijke strategie om te meten wat effectief was. We wisten niet welke beelden, teksten of doelgroepen het beste presteerden.
+
+\textbf{Taak:} Mijn taak was om een data-gedreven aanpak te introduceren om de effectiviteit van onze advertenties te maximaliseren en ons budget slimmer in te zetten.
+
+\textbf{Actie:} Ik heb een systeem van A/B-testen opgezet. Voor elke campagne creëerde ik meerdere varianten van advertenties en reels, waarbij ik systematisch verschillende visuele elementen, koppen en call-to-actions testte. Ik analyseerde de resultaten (klikfrequenties, conversies) om te bepalen welke combinaties het best resoneerden met ons publiek.
+
+\textbf{Resultaat:} Hierdoor kregen we voor het eerst echt inzicht in wat werkte. We konden onze best presterende advertenties identificeren en ons budget daarop focussen, wat leidde tot een significant hogere 'return on ad spend'. Het veranderde onze marketing van 'gokken' naar een 'geïnformeerde strategie'.
+
+\newpage
+
+\textbf{Verhalende Content: Passie, Kennis \& Publieksgevoel}
+
+\textbf{Situatie:} De social media posts over onze unieke veilingobjecten waren vaak droge, feitelijke beschrijvingen die de interesse van een breder publiek niet wisten te vangen.
+
+\textbf{Taak:} Mijn doel was om de verhalen achter de objecten te ontsluiten en deze op een boeiende, maar toch feitelijke en respectvolle manier te vertalen voor social media.
+
+\textbf{Actie:} Voor elk highlight-object deed ik diepgaander onderzoek naar de maker, de periode, of de historische context. Deze informatie verwerkte ik in een 'tone of voice' die zowel kenners aansprak als nieuwkomers nieuwsgierig maakte. Ik focuste op de ambacht, de geschiedenis en de unieke details, zonder te vervallen in overdreven marketingtaal.
+
+\textbf{Resultaat:} Dit leidde tot een merkbaar hogere engagement op onze posts. We kregen meer vragen, meer shares en inhoudelijke reacties van volgers. Het positioneerde ons niet alleen als een verkoopplatform, maar ook als een autoriteit met een echte passie voor de objecten, wat het vertrouwen in ons merk versterkte.
+
+\vspace{2em}
+
+Deze voorbeelden illustreren mijn vermogen om technische oplossingen te ontwikkelen die directe commerciële waarde hebben, terwijl ik tegelijkertijd een sterke focus houd op de menselijke kant van communicatie. Ik zou graag de mogelijkheid krijgen om toe te lichten hoe deze competenties kunnen bijdragen aan de doelstellingen van uw organisatie.
+
+Ik zie uit naar uw reactie en de mogelijkheid tot een persoonlijk gesprek.
+
+\vspace{2em}
+
+Met vriendelijke groet,
+
+\vspace{3em}
+
+Jeroen Kortekaas
+
+\end{document}

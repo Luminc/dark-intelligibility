@@ -1,0 +1,136 @@
+\documentclass[11pt,a4paper]{article}
+
+% Essential packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage[a4paper,left=2.5cm, right=2.5cm, top=2cm, bottom=3cm]{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{xcolor}
+
+% Font setup - use system fonts
+\usepackage{fontspec}
+\setmainfont{Calibri}[Scale=1.0]
+\setsansfont{Calibri Light}[Scale=1.0]
+
+% Color palette
+\definecolor{primaryblue}{RGB}{25,55,95}
+\definecolor{accentgray}{RGB}{105,105,105}
+\definecolor{lightgray}{RGB}{180,180,180}
+
+% Typography settings
+\setstretch{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+
+% Header design - simple approach
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Title formatting
+\usepackage{titling}
+\pretitle{\begin{center}\color{primaryblue}\sffamily\LARGE\bfseries}
+\posttitle{\par\end{center}\vskip 0.5em}
+\preauthor{\begin{center}\color{accentgray}\sffamily\large}
+\postauthor{\par\end{center}}
+\predate{\begin{center}\color{lightgray}\sffamily}
+\postdate{\par\end{center}\vspace{2em}}
+
+\title{Studio Jeroen Kortekaas}
+\author{www.jeroenkortekaas.com | +31 (0)6 15 24 5858 | studio@jeroenkortekaas.com}
+\date{\today}
+
+% Custom section formatting
+\usepackage{titlesec}
+\titleformat{\section}{\large\sffamily\bfseries\color{primaryblue}}{}{0em}{}
+\titleformat{\subsection}{\normalsize\sffamily\bfseries\color{accentgray}}{}{0em}{}
+
+\begin{document}
+
+\maketitle
+
+\begin{flushright}
+\color{accentgray}\sffamily\today
+\end{flushright}
+
+\vspace{1em}
+
+\begin{flushleft}
+\color{primaryblue}\sffamily
+{[Recipient Name]}\\
+{[Company Name]}\\
+{[Address]}\\
+{[City, Postal Code]}
+\end{flushleft}
+
+\vspace{1.5em}
+
+\begin{center}
+\large\sffamily\bfseries\color{primaryblue}Application for {[Position Title]}
+\end{center}
+
+\vspace{1em}
+
+Geachte heer/mevrouw,
+
+Met grote interesse solliciteer ik naar de functie van {[functietitel]} bij uw organisatie. Mijn achtergrond combineert technische excellentie met commercieel inzicht en een passie voor het vertalen van complexe concepten naar toegankelijke verhalen.
+
+\section{Kerncompetenties \& Bewezen Resultaten}
+
+\subsection{E-mail Automatisering: Technische Excellentie \& Efficiëntie}
+
+\textbf{\color{accentgray}Situatie:} De wekelijkse nieuwsbrief via Mailchimp was een volledig handmatig proces. Het kostte veel tijd, was foutgevoelig, en de opmaak was vaak inconsistent, wat afbreuk deed aan de professionele uitstraling.
+
+\textbf{\color{accentgray}Taak:} Mijn doel was om dit proces te moderniseren: de productiviteit te verhogen, de foutmarge te elimineren en de kwaliteit van de nieuwsbrieven te garanderen.
+
+\textbf{\color{accentgray}Actie:} Ik heb een Python-script ontwikkeld dat direct communiceert met de Mailchimp API. Dit script haalt automatisch de nieuwste productdata op, stelt op basis van een professionele template een complete nieuwsbrief samen, en plaatst deze als concept klaar in Mailchimp. Cruciaal hierbij is dat ik een 'editoriële schakeling' heb ingebouwd, waardoor we nog steeds volledige controle houden over welke producten we uitlichten.
+
+\textbf{\color{accentgray}Resultaat:} Het resultaat was een transformatie van de workflow. De tijd die nodig was voor het maken van een nieuwsbrief werd gereduceerd met circa 90\%. De foutmarge is naar nul gegaan, en elke nieuwsbrief heeft nu een consistente, hoogwaardige uitstraling. Dit heeft niet alleen tijd vrijgemaakt voor meer strategische marketingtaken, maar ook de algehele professionaliteit van onze e-mailmarketing verhoogd.
+
+\vspace{1em}
+
+\subsection{A/B Campagnes: Commercieel Inzicht \& Data-gedrevenheid}
+
+\textbf{\color{accentgray}Situatie:} Onze social media campagnes op Meta (Facebook/Instagram) werden ad-hoc gemaakt zonder een duidelijke strategie om te meten wat effectief was. We wisten niet welke beelden, teksten of doelgroepen het beste presteerden.
+
+\textbf{\color{accentgray}Taak:} Mijn taak was om een data-gedreven aanpak te introduceren om de effectiviteit van onze advertenties te maximaliseren en ons budget slimmer in te zetten.
+
+\textbf{\color{accentgray}Actie:} Ik heb een systeem van A/B-testen opgezet. Voor elke campagne creëerde ik meerdere varianten van advertenties en reels, waarbij ik systematisch verschillende visuele elementen, koppen en call-to-actions testte. Ik analyseerde de resultaten (klikfrequenties, conversies) om te bepalen welke combinaties het best resoneerden met ons publiek.
+
+\textbf{\color{accentgray}Resultaat:} Hierdoor kregen we voor het eerst echt inzicht in wat werkte. We konden onze best presterende advertenties identificeren en ons budget daarop focussen, wat leidde tot een significant hogere 'return on ad spend'. Het veranderde onze marketing van 'gokken' naar een 'geïnformeerde strategie'.
+
+\vspace{1em}
+
+\subsection{Verhalende Content: Passie, Kennis \& Publieksgevoel}
+
+\textbf{\color{accentgray}Situatie:} De social media posts over onze unieke veilingobjecten waren vaak droge, feitelijke beschrijvingen die de interesse van een breder publiek niet wisten te vangen.
+
+\textbf{\color{accentgray}Taak:} Mijn doel was om de verhalen achter de objecten te ontsluiten en deze op een boeiende, maar toch feitelijke en respectvolle manier te vertalen voor social media.
+
+\textbf{\color{accentgray}Actie:} Voor elk highlight-object deed ik diepgaander onderzoek naar de maker, de periode, of de historische context. Deze informatie verwerkte ik in een 'tone of voice' die zowel kenners aansprak als nieuwkomers nieuwsgierig maakte. Ik focuste op de ambacht, de geschiedenis en de unieke details, zonder te vervallen in overdreven marketingtaal.
+
+\textbf{\color{accentgray}Resultaat:} Dit leidde tot een merkbaar hogere engagement op onze posts. We kregen meer vragen, meer shares en inhoudelijke reacties van volgers. Het positioneerde ons niet alleen als een verkoopplatform, maar ook als een autoriteit met een echte passie voor de objecten, wat het vertrouwen in ons merk versterkte.
+
+\vspace{1.5em}
+
+Deze voorbeelden illustreren mijn vermogen om technische oplossingen te ontwikkelen die directe commerciële waarde hebben, terwijl ik tegelijkertijd een sterke focus houd op de menselijke kant van communicatie. Ik zou graag de mogelijkheid krijgen om toe te lichten hoe deze competenties kunnen bijdragen aan de doelstellingen van uw organisatie.
+
+Ik zie uit naar uw reactie en de mogelijkheid tot een persoonlijk gesprek.
+
+\vspace{1em}
+
+Met vriendelijke groet,
+
+\vspace{2em}
+
+Jeroen Kortekaas
+
+\vspace{0.5em}
+
+{\small\color{lightgray}Maria Tesselschadelaan 45, 2135 RD Hoofddorp}
+
+\end{document}
