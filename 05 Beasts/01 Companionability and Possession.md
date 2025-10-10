@@ -1,4 +1,4 @@
-# The Rule of the Other: Companionability and Possession
+# Companionability and Possession
 
 *"I really like things I don't understand. When I read a thing I don't understand, I feel a sweet and abysmal vertigo."*
 —Clarice Lispector, *A Breath of Life*, p. 29
@@ -19,7 +19,7 @@ Words do not come easy at times, so we let them be. It is natural not to know th
 
 How can I write without knowing where to go? I shall have somebody else write through me. Starting with my parental voices, Clarice Lispector and William Desmond.
 
-Heteronomy is the intrusion autonomy tries to prevent. Just think of the ongoing immigration panic. We encounter the other, framed as an intrusion.  If it's not capable of being dominated, at least made manageable. We foreclose true encounter with the other, but the relations remain and with it the potential for another intrusion.
+Heteronomy is the intrusion autonomy tries to prevent. We encounter the other, framed as an intrusion. If it's not capable of being dominated, at least made manageable. We foreclose true encounter with the other, but the relations remain and with it the potential for another break.
 
 The other intrudes in myself as well. In my voice, my very being, there is a whole host of voices speaking through me. It is certainly astonishing that we, such porous interconnected beings, think of ourselves as autonomous. At any given moment I am possessed by voices not my own.
 
