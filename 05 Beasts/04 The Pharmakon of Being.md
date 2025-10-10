@@ -26,7 +26,9 @@ My own despondency toward the film perhaps says more about me than I realized. M
 
 ### The Semantic Constipation
 
-We are constipated with language. Our constructions of meaning, meant to domesticate mystery, become the very source of our spiritual blockage. This isn't Being itself that blocks us, but our linguistic architecture that becomes a tomb. In *Dogtooth*, the parents' construction of meaning—"sea" means "chair," danger lurks beyond the fence—isn't protective but violently forecloses genuine relation. Their children live in a world where porosity has been sealed, where the bloodstream of life has clotted and become the carrier of death.
+"Sometimes rational univocity seems the callous of mind that hardens over the porosity of our being... a remedial protective for vulnerability?" (_God and the Between_, p.78)
+
+We are constipated with language. Our constructions of meaning become the very source of our blockage. In *Dogtooth*, the parents' construction of meaning—"sea" means "armchair," danger lurks beyond the fence—isn't protective but violently forecloses genuine relation. Their children live in a world where porosity has been sealed, where the bloodstream of life has clotted and become the carrier of death.
 
 As Desmond writes: "Poros has connotations of a 'way across.' With no way across or through, we are at an impasse, an aporia" (*God and the Between*, 41). But poros isn't just passage—it names "a transition that is no transition, since in making a way, it makes way and hence there is a withdrawal in the very opening of the way." The way opens by withdrawing, creates passage through its own recession.
 
@@ -34,11 +36,13 @@ This is the pharmakon nature of aporia itself. The blockage contains the resourc
 
 ### Perplexity as Metabolic Resistance
 
-Perplexity—that troubled thinking in porosity—is the middle space between overdetermined being and our need for determinate articulation. It's the resistance we encounter when trying to make the indefinite definite, to conquer the putative indefiniteness of the beginning. We attempt to domesticate our being, make it familiar and predictable. The troubling perplexity must be made as least troubling as possible.
+"Perplexity seeds a troubled thinking in porosity that makes us patient to given otherness." (_God and the Between_, p.119)
+
+Perplexity—that troubled thinking in porosity—is the middle space between overdetermined being and our need for determinate articulation. It's the resistance we encounter when trying to make the indefinite definite, to conquer the "putative indefiniteness of the beginning". We attempt to domesticate our being, make it familiar and predictable. The troubling perplexity must be made as least troubling as possible.
 
 But perplexity cannot be eliminated, only managed. Mystery will always resist our attempts at eradication. As Desmond notes: "There is something of suffering in astonishment, as in perplexity. Being in the between is first a suffering; we undergo our being given to be" (*God and the Between*, 119).
 
-In *Dogtooth*, I suffered this perplexity somatically. My boredom wasn't intellectual distance but my body's revolt against the foreclosure of meaning. The film stages aporia in its most negative form—construction without porosity, meaning without passage. Yet precisely in staging this blockage so purely, it becomes a negative icon, showing relationality by strangling it, making us feel porosity by denying it.
+In *Dogtooth*, I suffered this perplexity somatically. My boredom wasn't intellectual distance but my body's revolt against the foreclosure of meaning. The film stages aporia in a negative form—construction without porosity, meaning without passage. Yet precisely in staging this blockage so purely, it becomes a negative icon, showing relationality by strangling it, making us feel porosity by denying it.
 
 ### Construction as Pharmakon: From *Dogtooth* to *Spirited Away*
 
@@ -76,15 +80,15 @@ The **conatus essendi**—our striving to persist in being—lies at the heart o
 
 ## Metabolic Capacity and the Ordeal
 
-The degree to which we affirm or negate being seems to determine our **metabolic capacity** for our ordeals. This capacity refers to our fundamental ability to digest reality in its unfiltered form, coming to grips with being as it is given—what Clarice Lispector calls the "saltless" truth.
+The degree to which we affirm or negate, or affirm our negations of being seems to determine our **metabolic capacity** for our ordeals. This capacity refers to our ability to digest as it is, coming to grips with being as it is given—what Clarice Lispector calls the "saltless" truth.
 
-Our **metabolic capacity** refers to our ability to digest increasingly stronger doses of unsalted reality without being destroyed by the encounter. Most consciousness can only subsist on pre-processed, humanly seasoned experience. But awareness can develop a greater metabolic range—learning to find nourishment in what initially appears toxic or indigestible.
+When we're able to metabolize the "saltless" truth, we open up to the indeterminate—learning to find nourishment in what initially appears toxic or indigestible.
 
 This capacity is not merely intellectual but fundamentally somatic. Lispector's encounter with the roach demonstrates this viscerally: she must literally incorporate what repulses her human digestive system, vomiting first the civilized "milk and bread" of breakfast, then later spitting out the roach's matter while recognizing it as "taste of myself."
 
 The **ordeal** is created when we realize the cracks in our mediating self—those inevitable fissures where the hyperintelligible breaks through our carefully maintained filters. We are not cut off completely; cracks in our mediating self can expose us to our thing-part. Therefore it beckons us to step into truth, to recognize the full spectrum of being and shed our human chrysalis.
 
-**Awakening is noticing the cracks; enlightenment is completely breaking open.** The hyperintelligible shines through with a vibratory intensity—overwhelming, too much, striking us to our core because it *is* our core that we have actively tried to manage, filter, contain. But its wide life cannot be contained when the cracks are already revealed. Yet we must break our chrysalis ourselves to demonstrate our metabolic capacity.
+Upon breaking open the hyperintelligible shines through with a vibratory intensity—overwhelming, too much, striking us to our core precisely because it _is_ our core that we have actively tried to manage, filter, contain. But it cannot be contained when the cracks are already revealed. Yet we must break our chrysalis ourselves to demonstrate our metabolic capacity.
 
 To live with dark intelligibility means learning to metabolize these blockages sustainably, without either closing off in refusal or being consumed by the excess. It means maintaining what Lispector demonstrates—sustained vulnerability, the courage to remain disorganized, to keep our porosity open even to what terrifies us. It means being willing to sit with films that bore us, that suffocate us, until we understand that our very suffocation is teaching us something essential about our need for breath, for passage, for the possibility of relation.
 
@@ -92,15 +96,25 @@ To live with dark intelligibility means learning to metabolize these blockages s
 
 ## The Purge: Somatic Knowing and Visceral Integration
 
-**Repression is the banishment of forms of knowing to the body**, so it is no surprise when the body brings this knowledge back to consciousness through symptom, purge, or somatic release. The purge becomes paradigmatic here: the enacted release happens in precise concert with the exact psychic content that the nausea evokes. We become sick unto ourselves, literally nauseated by our own blockage. But precisely through the purge—a process of simultaneous acknowledgement, integration, and expulsion—it is released.
+**Repression is the banishment of forms of knowing to the body**—what cannot be thought becomes lodged in flesh, held in tension, calcified into blockage. The body becomes the repository for what consciousness refuses to metabolize. But the body is not a tomb. It is a living archive that seeks to communicate what has been silenced.
 
-The purge is often elemental, somatic: the yawn, the tears, the discharge. It is commonly deemed abject—that which must be thrown out, separated from us. In the purge, it is released, discharged. After it passes through us, it is an energy our subtle body no longer has to carry.
+The purge is what happens when we become porous anew—when the sealed channels of circulation reopen and blocked energy can finally surface and speak. This is not primarily about expulsion but about **communication**: the body is trying to tell us something, to make present what has been banished. The nausea, the shaking, the tears, the trembling—these are not symptoms to be managed but **utterances to be received**.
 
-There is a co-identity between the abject physical and the abject mental. The counterfeit double of our Cartesian subjectivity dissolves. Our entire "reconfigured ethos" is built on the lie that the mind is separate from the body. The mental abject (trauma, grief, the shadow) is seen as a nuisance to be managed by thought, while the physical abject is seen as a mere "biological process" to be hidden and sanitized.
+A circulation of energy becomes expressed. It surfaces bodily and mentally at once, indivisibly. We cry and the crying _is_ the grief made manifest, not its symptom. We shake and the shaking _is_ the fear finding voice, not its side effect. An experience is triggered, rises to consciousness, demands acknowledgment. The somatic and psychic are revealed as always already unified—what we call "mental" and "physical" are arbitrary divisions of a single communicative event.
 
-The pharmakon par excellence reveals this separation as the illusion it is. It forces the physical and the mental back into their primordial, unified state: a single, living, feeling organism. Weeping is not a symptom of sadness, but sadness made manifest. Purging becomes the very act of releasing the spiritual bile inside. Our shaking is the direct, unmediated response to the confrontation with our own being. Our porosity is unclogged.
+This is a moment of intimate dialogue with our own being. If that communication can be received—if we can listen to what the body is saying rather than pathologizing its speech—then integration becomes possible. The purging is enacted through our participatory affirmation, our willingness to be present to what arises, to do the work of metabolization rather than flee back into repression.
 
-When the mind and body meet in concrescence, we become porous anew. We find ourselves alive in the hyperbole. Swept into it. On fire. Ecstatic. Weeping, Laughing, Gleaming, Sighing. The grammar of the metaxu is revealed to us in its full intensity, a language of pure verbs, of pure happening. The sovereign "I" dissolves. There is no longer an "I" who is weeping or an "I" who is laughing. There is simply Weeping, Laughing, Gleaming. This is a state of full participation. We are no longer experiencing; there is happening. We are no longer seeing the flame; there is burning.
+The purge is often elemental, somatic: the yawn that releases held breath, the tears that speak unspeakable sorrow, the discharge that completes interrupted circuits. What is commonly deemed abject—that which must be expelled, separated from us—reveals itself as energy seeking completion, circulation seeking restoration. After it passes through us, the subtle body no longer carries that particular weight. Not because we have thrown something away, but because we have finally allowed it to complete its movement, to say what it needed to say.
+
+The counterfeit double of Cartesian subjectivity dissolves here. Our entire "reconfigured ethos" is built on the lie that mind is separate from body, that thought stands apart from flesh. The mental abject (trauma, grief, shadow) is seen as something to be managed by rational thought, while the physical abject is dismissed as mere "biological process" to be hidden and sanitized. The pharmakon par excellence reveals this separation as the illusion it is.
+
+The body and mind are forced back into their primordial, unified state: a single, living, feeling organism engaged in continuous communication with itself. Weeping is not a symptom of sadness but sadness made visible, audible, tangible. The purge becomes the enactment of releasing what has been held—not throwing away, but completing the circuit, allowing the energy to move through and transform.
+
+Our shaking is the direct, unmediated response to confronting our own being without the usual filters. When we allow this—when we participate in rather than resist the purge—our porosity is restored. The channels that had clotted reopen. Communication is reestablished between the differentiated but unified dimensions of our being.
+
+When mind and body meet in this concrescence, we become porous to ourselves anew. We find ourselves alive in the hyperbole. Swept into it. On fire. Ecstatic. Weeping, Laughing, Gleaming, Sighing. The grammar of the metaxu is revealed in its full intensity, a language of pure verbs, of pure happening. The sovereign "I" dissolves. There is no longer an "I" who is weeping or an "I" who is laughing. There is simply Weeping, Laughing, Gleaming.
+
+This is a state of full participation. We are no longer experiencing; there is happening. We are no longer seeing the flame; there is burning. The purge has restored us to the immediacy of being, where communication flows unobstructed between all dimensions of our existence.
 
 ---
 
@@ -136,13 +150,13 @@ Modern society has **neither the myths, metaphors, nor institutions** to hold pe
 
 ---
 
-## The Moral Imperative: "You Must Change Your Life"
+## You Must Change Your Life
 
-As established in Chapter 2, the paradox is stark. Ordeal comes as heteronomy, as Rilke's command *"You must change your life."* But it also demands our autonomy, our willingness to undergo. It is a participatory surrender, a choice that is also not a choice.
+Ordeal comes as heteronomy, as Rilke's command *"You must change your life."* But it also demands our willingness to undergo. It is a participatory surrender, a choice that is also not a choice.
 
 The pharmakon of being cannot be avoided; it can only be received, consciously or unconsciously. The question is whether we can metabolize reality, or whether we are metabolized by our refusal.
 
-This returns us to the question posed in Chapter 1: Following Desmond's sense of the open whole, do we arrive at a liberated autonomy? An autonomy that knows itself to be plurivocal and connected to others? The pharmakon reveals that autonomy and heteronomy are not opposed but interpenetrating. The other speaks through us, even in the form of a transcendent other, through which our primal ethos is expressed.
+This returns us to the question posed in the first chapter; following Desmond's sense of the open whole, do we arrive at a liberated autonomy? An autonomy that knows itself to be plurivocal and connected to others? The pharmakon deepens the given that autonomy and heteronomy are not opposed but interpenetrating. The other speaks through us, even in the form of a transcendent other, through which our primal ethos is expressed.
 
 The pharmakon of being is about positioning us to come within the intimacy of being, closer to a passio that allows itself to be vulnerable to terror, the other in ourselves that we have ostracized. We become ourselves more fully by allowing the plurivocal relationships explored in Chapter 1.
 
