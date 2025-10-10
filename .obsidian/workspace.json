@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Journaling and Personal/APG.md",
+                "file": "apg_interview_prep_v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APG"
+              "title": "apg_interview_prep_v2"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "d221f10400f94929",
@@ -171,8 +172,10 @@
   },
   "active": "fb985bd304b99079",
   "lastOpenFiles": [
-    "05 Beasts/Meeting Desire.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
     "08 Journaling and Personal/APG.md",
+    "05 Beasts/Meeting Desire.md",
     "05 Beasts/New DI beast.md",
     "05 Beasts/Dark Intelligibility Introduction.md",
     "05 Beasts/The Neutral, Inhuman and the Intimate.md",
@@ -193,7 +196,6 @@
     "application-letter/chronologische_tijdlijn.pdf",
     "application-letter/chronologische_tijdlijn.aux",
     "application-letter/chronologische_tijdlijn.log",
-    "application-letter/chronologische_tijdlijn.tex",
     "application-letter/input/chronologische_tijdlijn_latex.md",
     "application-letter/input/chronologische_tijdlijn.md",
     "application-letter/output/chronologische_tijdlijn.md",
@@ -206,7 +208,6 @@
     "05 Beasts/dark-intelligibility-integrated.md",
     "05 Beasts/Dark Intelligibility Structure.md",
     "05 Beasts/Dark Intelligibility Old.md",
-    "05 Beasts/latex/Dark Intelligibility New.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
