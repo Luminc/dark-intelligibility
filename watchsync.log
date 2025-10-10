@@ -282,3 +282,9 @@
 [2025-10-09 10:47:04] ✅ Sync script finished successfully.
 [2025-10-09 10:47:45] 👀 Detected change: /Users/jeroen/Documents/dark-intelligibility/launchagent-err.log
 [2025-10-09 10:48:00] ⏳ Changes settled. Running sync script...
+[2025-10-09 10:48:03] ✅ Sync script finished successfully.
+[2025-10-09 10:50:29] 👀 Detected change: /Users/jeroen/Documents/dark-intelligibility/launchagent-err.log
+[2025-10-09 10:50:44] ⏳ Changes settled. Running sync script...
+[2025-10-10 10:08:04] ✅ Watcher started on: /Users/jeroen/Documents/dark-intelligibility
+[2025-10-10 10:08:04] 🕒 Debounce time is 15 seconds.
+[2025-10-10 10:08:04] 🚀 Performing initial sync on startup...
