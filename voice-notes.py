@@ -108,7 +108,7 @@ class VoiceRecorder:
         finally:
             os.unlink(temp_path)
 
-    def save_to_markdown(self, text, output_dir="05 Beasts"):
+    def save_to_markdown(self, text, output_dir="03 Fragments/voice-notes"):
         """Save transcription to markdown file"""
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
         filename = f"voice-note-{datetime.now().strftime('%Y%m%d-%H%M%S')}.md"
@@ -139,7 +139,7 @@ def main():
     parser.add_argument("--model", default="base",
                        choices=["tiny", "base", "small", "medium", "large"],
                        help="Whisper model size (default: base)")
-    parser.add_argument("--output", default="05 Beasts",
+    parser.add_argument("--output", default="03 Fragments/voice-notes",
                        help="Output directory for markdown files")
     args = parser.parse_args()
 
