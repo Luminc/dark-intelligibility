@@ -32,7 +32,7 @@ We are constipated with language. Our constructions of meaning become the very s
 
 As Desmond writes: "Poros has connotations of a 'way across.' With no way across or through, we are at an impasse, an aporia" (*God and the Between*, 41). But poros isn't just passage—it names "a transition that is no transition, since in making a way, it makes way and hence there is a withdrawal in the very opening of the way." The way opens by withdrawing, creates passage through its own recession.
 
-This is the pharmakon nature of aporia itself. The blockage contains the resource for breakthrough, but only if we can metabolize the impasse rather than flee from it. For the conatus-driven self, the dead-end of meaning presents a daunting obstacle. The weight can be so strong that negation and refusal become the only answer. But what if the blockage itself is the medicine?
+This is the double nature of aporia itself. The blockage contains the resource for breakthrough, but only if we can metabolize the impasse rather than flee from it. For the conatus-driven self, the dead-end of meaning presents a daunting obstacle. The weight can be so strong that negation and refusal become the only answer. But what if the blockage itself is the way through?
 
 ### Perplexity as Metabolic Resistance
 

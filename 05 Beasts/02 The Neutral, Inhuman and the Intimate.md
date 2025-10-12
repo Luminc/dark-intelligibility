@@ -3,11 +3,33 @@
 
 ### Porosity and the Neutral
 
-"The World had always been humanized. Now I was before the inhuman. The neutral was what was intimate."[^1] Clarice Lispector's narrator in The Passion According to G.H. encounters an intimacy that is not warm, not consoling, but alien. Intimacy here is not the communion of similarity, but the piercing proximity of otherness. There is an otherness to selving. The cockroach, that abject creature, tears through the membrane of her constructed self. She confronts what she calls "the great living neutrality struggling",[^2]life stripped of its human face, vitality indifferent to meaning.
+"The World had always been humanized. Now I was before the inhuman. The neutral was what was intimate."[^1] Clarice Lispector's narrator in The Passion According to G.H. encounters an intimacy that is not warm, not consoling, but alien. Intimacy here is not the communion of similarity, but the piercing proximity of otherness. There is an otherness to selving. The cockroach, that abject creature, tears through the membrane of her constructed self. She confronts what she calls "the great living neutrality struggling",[^2] life stripped of its human face, vitality indifferent to meaning.
 
 William Desmond offers a striking parallel in his book the God and the Between: "The idiocy of being is the sheer astonishment that there is anything at all, its intimate givenness and its foreign neutrality."[^3] What Lispector calls the neutral, Desmond refers to as the primal ethos: the bare fact of being before any determination, given to us before we come to be in a double register — as strangely intimate and irreducibly foreign.
 
-Both writers refuse the hard split of subject and object. For Lispector, the self is undone by what leaks through from within and without. For Desmond, the self always arises at the _metaxu_, the between, the self and other always constantly co-determining. The key point is not merely that the world resists humanization, but that the self too harbors alterity. To be porous to the other is to be porous to oneself. Selving is not a closed autonomy but an openness where alterity can shine through.
+Both writers refuse the hard split of subject and object. For Lispector, the self is undone by what leaks through from within and without. For Desmond, the self always arises at the _metaxu_, the between, where self and other constantly co-determine each other. But what exactly is this "between"?
+
+### The Metaxu as Overdetermined Between
+
+Desmond's concept of the **metaxu**—the "between"—provides the ontological framework for understanding how Lispector and Desmond navigate the space where intelligible and unintelligible, self and other, human and inhuman meet without reduction. As Desmond explains in *Being and the Between*, "Nothing is defined through itself alone. Beings are defined in a rich ontological intermedium of happening, and are both other-relating and self-relating."[^4]
+
+This "between" is not empty space, not a void to be crossed or filled. It is a **rich ontological medium**—what Desmond calls an "overdetermined" space, meaning it is saturated with excessive possibility rather than lacking determination. The metaxu is where different modes of being encounter each other in their genuine otherness while remaining in relation. It is the charged field of relation itself.
+
+The metaxu operates through what Desmond calls **"double mediation"**: both self-mediation (consciousness thinking itself through its other) and intermediation (the other's genuine mediation from its own otherness). This is crucial. In self-mediation, the self relates to itself by passing through what appears as other—this is the familiar movement of reflection, where I come to know myself by encountering what I am not. But **intermediation** names something more radical: the other genuinely mediates from its own center, its own idiotic singularity, and is not reducible to my self-relation.
+
+Unlike dialectical thinking, which ultimately collapses otherness back into self-relation (the other becomes a moment in the self's own becoming), **metaxological thinking maintains genuine plurality within unity**. The other remains other even in the intimacy of encounter. The cockroach does not become a symbol that G.H. masters; it retains its "thick radiant indifference," its alien vitality that cannot be assimilated.
+
+This double mediation is precisely what Lispector enacts in her literary practice. The protagonist's encounter with the cockroach creates a metaxu—a space where human and non-human, subject and object, familiar and strange meet without reduction to dialectical unity. G.H. cannot synthesize the roach into her understanding; she can only undergo the ordeal of remaining in the between, letting it work on her, dissolving the protective boundaries she has constructed.
+
+### Surplus Givenness and the Overdeterminate
+
+Both thinkers understand this "between" as **overdetermined** rather than indeterminate. For Desmond, being presents itself as **"surplus givenness"**—an excessive abundance that gives rise to astonishment rather than mastery. Being gives more than we can ask for, more than our concepts can contain, more than our self-determination can manage. This surplus is not a problem to be solved but the primal condition of existence itself.
+
+For Lispector, reality exceeds linguistic capture not through poverty but through richness: "reality is too delicate, only reality is delicate, my unreality and my imagination are heavier."[^5] Her prose constantly gestures toward what language cannot hold—not because reality is void, but because it overflows every attempt at containment. The neutral is not empty but **fertile**—generative precisely in its refusal to conform to our categories.
+
+This overdetermination means that the metaxu is always already more than any single perspective can encompass. The self cannot master the between because the between exceeds the self's totalizing grasp. Yet this excess is not a limitation but a gift—it is what allows genuine encounter, genuine surprise, genuine transformation. We are claimed by more than we can claim.
+
+The key point is not merely that the world resists humanization, but that the self too harbors alterity. To be porous to the other is to be porous to oneself. Selving is not a closed autonomy but an openness where alterity can shine through. The metaxu names this ontological condition: we are always already in relation, always already situated in a between that precedes and exceeds our self-determination.
 
 When the constructions of self break down, something else emerges — the fertile neutrality of being. What is neutral is not dead; it is generative precisely in its refusal to conform to categories. This fertility is terrifying because it loosens the boundaries of identity. Yet it is also the beginning of intimacy — a strange intimacy with the inhuman in ourselves.
 
