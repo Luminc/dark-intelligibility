@@ -50,6 +50,17 @@ The excess of being overflows our capacity to receive it without trembling. The 
 
 In this register, to encounter being is to be claimed by it, drawn into the impersonal intimacy of suchness, where self and non-self mingle, and the only fidelity is to remain porous—even to what terrifies us. But what is the actual substance of this terrifying, neutral reality? And what is the nature of the ordeal required to metabolize it?
 
+### The Original Part
+When Lispector writes of "the thing-part of us... matter of God, waiting to reclaim me," she's discovering what Nishitani calls the self's original part: "Hills and rivers, the earth, plants and trees, tiles and stones, all of these are the self's own original part."[^X]
+
+The original part is not a fragment but our ontological ground—the place where self and world are not yet differentiated. "It is not that the field of that original part lies in body-and-mind, or that it lies outside body-and-mind."[^X] It precedes the split between inner and outer, human and inhuman. This is what Nishitani also calls the circuminsessional relationship: "all things are in our home-ground and we ourselves are in the home-ground of all things."[^X]
+
+This directly parallels Desmond's metaxu. Both name a structure of mutual interpenetration without collapse into unity. We are not closed egos who must reach being; we are always already constituted by being, made of the original part that includes stones and stars, roaches and God-matter.
+
+When Lispector encounters the roach, she's not discovering something foreign but returning to the original part. The neutral, the inhuman, the thing—these are not alien invasions but homecoming. "Why shouldn't I become unclean, exactly as I was discovering my whole self to be?" The whole self includes the thing-part, the matter-of-God, the elemental substance that constitutes us.
+
+This is not abstract mysticism but material ontology. Being is made of things. The self is constituted by what seems most impersonal—stone, tree, roach, matter. The original part is our elemental substance. This points to a materialism that's also mysticism, an immanence that's also transcendence, a thing-ness that's also God-matter.
+
 ### The Saltless Truth and the Pharmakon
 
 Lispector locates the ordeal with a striking metaphor: "For salt I had always been ready, salt was the transcendence that I used to experience a taste, and to flee what I was calling 'nothing.' But what my mouth wouldn't know how to understand—was the saltless."[^6] Our filters and constructions, our limited self-determination which ultimately forecloses our direct encounter with being's naked actuality.

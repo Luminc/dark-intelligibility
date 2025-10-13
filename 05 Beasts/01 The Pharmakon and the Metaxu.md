@@ -1,4 +1,4 @@
-# The Pharmakon and the Metaxu
+# 01 The Pharmakon and the Metaxu
 
 ### Porosity and the Neutral
 
@@ -36,6 +36,8 @@ Something in us is already there before all our conceptions of being human: "the
 
 "Why shouldn't I become unclean, exactly as I was discovering my whole self to be?" This question collapses the hierarchy between human and thing, revealing the co-identity of self and non-self, the neutral being in which we participate alongside the roach, the stone, the dust. The "thing-part" is not a degradation but a reclaiming: the intimacy of the impersonal, the suchness of "matter-of-God", the elemental flesh that precedes our personhood.
 
+Here we glimpse a metaphysics that refuses neat categorization. Thing-part, matter-of-God. This is neither materialism (which would reduce consciousness to mere mechanism) nor transcendentalism (which would separate spirit from flesh). Instead, it names immanent divinity: the sacred as the very substance of what is, materiality itself as already divine. Matter is not dead stuff awaiting animation by spirit; it is *Materia-de-Deus*, the very flesh of the divine. The "original part" names our shared participation in this ground—not a fall from spirit into matter, but the recognition that matter itself is the medium of the sacred. We are not souls trapped in bodies but embodied consciousness recognizing itself as always already divine substance, neutral fertility, living suchness.
+
 Lispector's discovery is not without terror: "it was a joy without redemption… a joy without hope." This is joy untethered from any counterfeit double of salvation—no promise of return, no narrative arc to make sense of it. It does not lead elsewhere. And precisely because it is without hope, it is pure: a joy that redeems only by annihilating the need for redemption.
 
 This **hopeless joy** names a radical affirmation that has learned to metabolize neutrality without converting it into something else. It is joy that doesn't project into futures, doesn't seek redemptive narratives, doesn't transform itself into hope for better circumstances. It remains stubbornly at the level of pure affirmation—**joy in suchness**, in the bare astonishing fact that anything is at all.
@@ -44,74 +46,40 @@ Hopeless joy arises precisely when we have stopped fleeing the neutral ground of
 
 To experience hopeless joy is to affirm being without the supplements of meaning-making, to find nourishment in what initially appears as pure poison or meaninglessness. It is joy that has developed sufficient metabolic capacity to receive the neutral directly—not by transforming it into something more palatable, but by learning to recognize the neutral itself as a form of sustenance.
 
-Kyoto School philosopher Nishitani Keiji names this "the Great Affirmation"[^9]—a yes to being that emerges not by refusing negation but by a profound ontological conversion we will explore more fully. Hopeless joy is this Great Affirmation: affirmation that has learned to subsist on the neutral itself, without supplements.
+Kyoto School philosopher Nishitani Keiji names this "the Great Affirmation"[^6]—a yes to being that emerges not by refusing negation but by a profound ontological conversion we will explore more fully. Hopeless joy is this Great Affirmation: affirmation that has learned to subsist on the neutral itself, without supplements.
 
 The excess of being overflows our capacity to receive it without trembling. The gift terrifies and attracts because it annihilates the prison in which the self guards its boundaries. It does not flatter our stability; it strips it away.
 
 In this register, to encounter being is to be claimed by it, drawn into the impersonal intimacy of suchness, where self and non-self mingle, and the only fidelity is to remain porous—even to what terrifies us. But what is the actual substance of this terrifying, neutral reality? And what is the nature of the ordeal required to metabolize it?
 
-#### **The Original Part**
+### The Original Part
 
-When Lispector writes of "the thing-part of us... matter of God, waiting to reclaim me," she's discovering what Nishitani calls **the self's original part**: "Hills and rivers, the earth, plants and trees, tiles and stones, all of these are the self's own original part."[^X]
+When Lispector writes of "the thing-part of us... matter of God, waiting to reclaim me," she discovers what Nishitani calls **the self's original part**. Nishitani writes: "Hills and rivers, the earth, plants and trees, tiles and stones, all of these are the self's own original part."[^37]
 
-The original part is not a fragment but our ontological ground—the place where self and world are not yet differentiated. "It is not that the field of that original part lies in body-and-mind, or that it lies outside body-and-mind."[^X] It precedes the split between inner and outer, human and inhuman. This is what Nishitani also calls the **circuminsessional relationship**: "all things are in our home-ground and we ourselves are in the home-ground of all things."[^X]
+The original part is not a fragment but our ontological ground—the place where self and world are not yet differentiated. "It is not that the field of that original part lies in body-and-mind, or that it lies outside body-and-mind."[^38] It precedes the split between inner and outer, human and inhuman. This is what Nishitani calls the **circuminsessional relationship**: "all things are in our home-ground and we ourselves are in the home-ground of all things."[^39]
 
-This directly parallels Desmond's metaxu. Both name a structure of **mutual interpenetration without collapse into unity**. We are not closed egos who must reach being; we are always already constituted _by_ being, made _of_ the original part that includes stones and stars, roaches and God-matter.
+This directly parallels Desmond's metaxu. Both name a structure of mutual interpenetration without collapse into unity. We are not closed egos who must reach being; we are always already constituted BY being, made OF the original part that includes stones and stars, roaches and matter-of-God.
 
-When Lispector encounters the roach, she's not discovering something foreign but **returning to the original part**. The neutral, the inhuman, the thing—these are not alien invasions but homecoming. "Why shouldn't I become unclean, exactly as I was discovering my whole self to be?" The whole self _includes_ the thing-part, the matter-of-God, the elemental substance that constitutes us.
+When Lispector encounters the roach, she's not discovering something foreign but returning to the original part. The neutral, the inhuman, the thing—these are not alien invasions but homecoming. "Why shouldn't I become unclean, exactly as I was discovering my whole self to be?" The whole self INCLUDES the thing-part, the matter-of-God, the elemental substance that constitutes us.
 
-What Desmond calls porosity, Lispector calls the thing-part, Nishitani calls the original part—three voices naming the same structure: we are the between, the circuminsessional, the middle.
+What Desmond calls porosity, Lispector calls the thing-part, Nishitani calls the original part—three voices naming the same structure: we are the between, the circuminsessional, the middle. Not IN the metaxu but MADE OF it.
+
+Thing-part, matter-of-God and the Original points to neither materialism nor transcendentalism. Instead, it names an immanent divinity: the sacred as the very substance of what is, materiality itself as already divine. Matter is a *Materia-de-Deus*, the very flesh of the divine. The "original part" names our shared participation in this ground the recognition that matter itself is the medium of the sacred. We are not souls trapped in bodies but embodied consciousness recognizing itself as always already divine substance, neutral fertility, living suchness.
 
 ### The Saltless Truth and the Pharmakon
 
-Lispector locates the ordeal with a striking metaphor: "For salt I had always been ready, salt was the transcendence that I used to experience a taste, and to flee what I was calling 'nothing.' But what my mouth wouldn't know how to understand—was the saltless."[^6] Our filters and constructions, our limited self-determination which ultimately forecloses our direct encounter with being's naked actuality.
+Lispector locates the ordeal with a striking metaphor: "For salt I had always been ready, salt was the transcendence that I used to experience a taste, and to flee what I was calling 'nothing.' But what my mouth wouldn't know how to understand—was the saltless."[^7] Our filters and constructions, our limited self-determination which ultimately forecloses our direct encounter with being's naked actuality.
 
-Desmond frames the same ordeal as the tension between _conatus essendi_ and _passio essendi_: "We are given to be before we give ourselves to be. There is a passio essendi, a patience of being, more primordial than our conatus essendi, our endeavor to be."[^7] Conatus is our striving, our effort to preserve and assert selfhood, keeping reality in a digestible order. Passio is our given-ness, the raw unmediated encounter of being.
+Desmond frames the same ordeal as the tension between _conatus essendi_ and _passio essendi_: "We are given to be before we give ourselves to be. There is a passio essendi, a patience of being, more primordial than our conatus essendi, our endeavor to be."[^8] Conatus is our striving, our effort to preserve and assert selfhood, keeping reality in a digestible order. Passio is our given-ness, the raw unmediated encounter of being.
 
 Being at this level can be seen as a _pharmakon_. The pharmakon reaches us through a philosophical lineage that reveals its metaxological character. In Plato's _Phaedrus_, King Thamus warns that writing—Thoth's gift to humanity—will be both remedy and poison for memory: strengthening external recall while weakening the soul's internal capacity for recollection. Bernard Stiegler extends this insight in his technopharmacology, showing how technical objects are constitutive of human becoming itself—we co-evolve with our tools in what is fundamentally a metaxological relationship. Technology is neither external instrument nor internal capacity but the very between-space where human and world co-determine each other.
 
 The **Pharmakon of Being** I'm proposing operates at this same constitutive level, but more fundamentally still. Where Derrida's pharmakon reveals the undecidability of conceptual oppositions, and Stiegler's technopharmacology shows the co-constitutive relationship between human and technical objects, the Pharmakon of Being concerns our metabolic encounter with existence itself. This concerns the ordeal of existence: whether we can bear being's gift without being destroyed by its excess.
 
-Desmond hints at this metabolic dimension: "We clot on ourselves again and close the porosity. The blood stream of life is made the carrier of death."[^8] The same encounter with being's overdeterminate richness can either open us to deeper community or close us off into "counterfeit doubles" of authentic transcendence.
+Desmond hints at this metabolic dimension: "We clot on ourselves again and close the porosity. The blood stream of life is made the carrier of death."[^9] The same encounter with being's overdeterminate richness can either open us to deeper community or close us off into "counterfeit doubles" of authentic transcendence.
 
 Lispector embodies this viscerally. The roach's white matter becomes literal pharmakon—she must eat it to receive its truth, knowing it may poison her old self even as it nourishes new understanding. The "anti-sin" she discovers is precisely this willingness to metabolize reality rather than flee into transcendent abstractions. This is the metaxological courage to remain in the between rather than escape to false unities.
 
 The ambiguity is fundamental. There is only so much indeterminate grace we can bear. Can we come to terms with our own strangeness? As the self protests, calcified by its own understanding, can we let the world collapse and come to trembling uncertainty? It will certainly require courage.
 
-
-
 ---
-
-## Endnotes
-
-[^1]: Clarice Lispector, _The Passion According to G.H._, trans. Idra Novey (New York: New Directions, 2012), [PAGE NEEDED].
-
-[^2]: Lispector, _The Passion According to G.H._, [PAGE NEEDED].
-
-[^3]: William Desmond, _God and the Between_ (Oxford: Blackwell, 2008), 331.
-
-[^4]: William Desmond, _Being and the Between_ (Albany: SUNY Press, 1995), [PAGE NEEDED].
-
-[^5]: Clarice Lispector, _The Passion According to G.H._, [PAGE NEEDED].
-
-[^6]: Clarice Lispector, _The Passion According to G.H._, [PAGE NEEDED].
-
-[^7]: William Desmond, _God and the Between_, 21.
-
-[^8]: William Desmond, _God and the Between_, 331.
-
-[^9]: Nishitani Keiji, _Religion and Nothingness_, trans. Jan Van Bragt (Berkeley: University of California Press, 1982), 138.
-
----
-
-## Bibliography
-
-**Desmond, William.** _Being and the Between._ Albany: SUNY Press, 1995.
-
-**Desmond, William.** _God and the Between._ Oxford: Blackwell, 2008.
-
-**Lispector, Clarice.** _The Passion According to G.H._ Translated by Idra Novey. New York: New Directions, 2012.
-
-**Lispector, Clarice.** _A Breath of Life._ Translated by Johnny Lorenz. New York: New Directions, 2012.
-
-**Nishitani, Keiji.** _Religion and Nothingness._ Translated by Jan Van Bragt. Berkeley: University of California Press, 1982.

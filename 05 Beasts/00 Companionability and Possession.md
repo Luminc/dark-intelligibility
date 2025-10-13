@@ -4,7 +4,7 @@
 *"I really like things I don't understand. When I read a thing I don't understand, I feel a sweet and abysmal vertigo."*
 —Clarice Lispector, *A Breath of Life*, p. 29
 
-I should disorganize, and yet structure simultaneously. I should create meta-structures that can kiss disorganization here and there. 
+I should disorganize, and yet structure simultaneously. I should create meta-structures that can kiss disorganization here and there.
 
 I love the pen. I'm too disconnected from the physical process of writing. There is a different flow when you actually draw the words.
 
@@ -60,3 +60,4 @@ The body writes. There is a restlessness there. This disorganization felt urgent
 
 However, this disorganization and productivity is dangerous to be tied to any single source. Since I am not independent, I flow with the interdependence. But I must remain vigilant.
 
+---
