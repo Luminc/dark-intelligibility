@@ -92,6 +92,8 @@
 
 [^46]: Nishitani, _Religion and Nothingness_, 199.
 
+[^A]: Desmond, _God and the Between_, 164.
+
 ---
 
 ## Bibliography
