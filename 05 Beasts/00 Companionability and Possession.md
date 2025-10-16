@@ -13,6 +13,12 @@ And how to develop the metabolic capacity to receive the chiaroscuro, to affirm 
 
 Today, in a world where ambiguity dominates and social cohesion evaporates, too much meaning exists—univocal, equivocal, or otherwise. What draws our focus is the ever-present stage of self-determination, the human spectacle. We can see that there are real limits to that self-determination. Being is communicative, but it is inseparable from non-being. I seem to be spinning around dualities again. There is an urgency for us to become intimate to their conjunctions and interpenetrations. However, the demands of life hijack our capacity to open to them. Let us stop making sense for a moment and try to delve deeper.
 
+I have to confess I cannot be honest to you, dear reader. I'm not sure I have the capacity to speak truth to myself, truth to power, or anything. I'm in love yes, and I will follow that flame. But I don't know what I can contribute.
+
+Maybe this essay will be some half-unfinished regurgitation, unmetabolized material puked out, purged from a system that is processing, messy, academically questionable, questionable authenticity. On the page I should not shy from truth as I do not do so in my body, my soul. I encounter myself fully. But of course I'm full of my own bullshit too.
+
+As an attempt to kick start my thinking, perhaps as a start too, to save my life. To give myself breath, to give myself space to wonder and attend to myself. I want to connect even more deeply to the world for as long as I will have energy to do so.
+
 ---
 
 Words do not come easy at times, so we let them be. It is natural not to know the way, so we should become lost. If there is one thing clear I can say about myself, it is that I'm lost. I find things, things happen to me, but I am groundless, like a cell breaking open, its contents spilling out. Disorganization can be messy.
@@ -22,6 +28,10 @@ How can I write without knowing where to go? I shall have somebody else write th
 Heteronomy is the intrusion autonomy tries to prevent. We encounter the other, framed as an intrusion. If it's not capable of being dominated, at least made manageable. We foreclose true encounter with the other, but the relations remain and with it the potential for another break.
 
 The other intrudes in myself as well. In my voice, my very being, there is a whole host of voices speaking through me. It is certainly astonishing that we, such porous interconnected beings, think of ourselves as autonomous. At any given moment I am possessed by voices not my own.
+
+My body feels like I should inhabit the writing as practice, poetry and philosophy. I will write fragments, like I write here. I feel easily possessed. This doesn't have to be a problem. Maybe the horde of voices coalesces in a full and emptied coherence, until something singular appears. Not out of erotic desire but love, of deepest intimacy and companionship.
+
+I will write as a lover who falls in love at first sight and is completely pre-occupied with her beloved. But I'm also searching, searching for a resonance in the tuning fork of being.
 
 *Cum panis* indeed. Following Desmond's sense of the open whole, do we arrive at a liberated autonomy? An autonomy that knows itself to be plurivocal and connected to others? Perhaps such freedom emerges by transformation of our relation to the other—to undergo the ordeal of being claimed by what exceeds us, until the intrusion reveals itself as gift. Can we come companionable to what threatens to possess and destroy us?
 
@@ -59,5 +69,7 @@ Both Desmond and Clarice are enactive of what they write about. It is a lived ph
 The body writes. There is a restlessness there. This disorganization felt urgent, and it worked. But the danger is tying disorganization and productivity to any external means, lest we become too dependent. We are not independent—we allow heteronomy to affect our writing as well.
 
 However, this disorganization and productivity is dangerous to be tied to any single source. Since I am not independent, I flow with the interdependence. But I must remain vigilant.
+
+Other voices can feel prosthetic. It feels somehow shameful. I feel like I'm not trying to actually undergo true vulnerability. Thinking about things often helps us avoid actually dealing with life. I'm too scared to be genuinely authentic. Take this text with a grain of salt. I should stop trying to be intelligible and practice what I preach. I don't have to make myself intelligible. Lispector refuses. I can have my secrets too.
 
 ---

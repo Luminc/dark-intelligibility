@@ -4,7 +4,8 @@
       "Bash(mkdir:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(xelatex:*)"
+      "Bash(xelatex:*)",
+      "Bash(python:*)"
     ],
     "deny": []
   }
