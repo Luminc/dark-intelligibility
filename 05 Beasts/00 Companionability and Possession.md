@@ -1,14 +1,14 @@
 # Companionability and Possession
 
 
-*"I really like things I don't understand. When I read a thing I don't understand, I feel a sweet and abysmal vertigo."*
-—Clarice Lispector, *A Breath of Life*, p. 29
+>*"I really like things I don't understand. When I read a thing I don't understand, I feel a sweet and abysmal vertigo."*
+>—Clarice Lispector, *A Breath of Life*, p. 29
 
 I should disorganize, and yet structure simultaneously. I should create meta-structures that can kiss disorganization here and there.
 
 I love the pen. I'm too disconnected from the physical process of writing. There is a different flow when you actually draw the words.
 
-What has language done for me, for better and worse? Or perhaps more precisely: **How does the determined become companionable to indeterminacy?** How do light and dark conjoin in chiaroscuro?
+What has language done for me, for better and worse? Or perhaps more precisely: How does the determined become companionable to indeterminacy? How do light and dark conjoin in *chiaroscuro*?
 And how to develop the metabolic capacity to receive the chiaroscuro, to affirm their interpenetration? This requires more than intellectual understanding; it demands a transformation of our very relation to being.
 
 Today, in a world where ambiguity dominates and social cohesion evaporates, too much meaning exists—univocal, equivocal, or otherwise. What draws our focus is the ever-present stage of self-determination, the human spectacle. We can see that there are real limits to that self-determination. Being is communicative, but it is inseparable from non-being. I seem to be spinning around dualities again. There is an urgency for us to become intimate to their conjunctions and interpenetrations. However, the demands of life hijack our capacity to open to them. Let us stop making sense for a moment and try to delve deeper.
@@ -63,7 +63,7 @@ Today it felt urgent to work but it also felt urgent to disorganize.
 
 I was playful in letting Lispector and Desmond together with me make us into a triangle. Geometric stability through threeness, yet each point remains irreducible. Not synthesis but constellation.
 
-Both Desmond and Clarice are enactive of what they write about. It is a lived philosophy after all. Porosity requires that intimacy, that vulnerability of expression in the midst of things. I want to get to the threshold of both thinkers.
+Both Desmond and Clarice are enactive of what they write about. It is a lived philosophy after all. Porosity requires that intimacy, that vulnerability of expression in the midst of things. I want to get to the threshold of both thinkers. The aim here is not a perfect synthesis, which would risk domesticating the radical singularity of each voice. Rather, it is to stage a tense and improvisational tango where resonance emerges from the space opened up between them. Hopefully I will not be a wallflower.
 
 
 The body writes. There is a restlessness there. This disorganization felt urgent, and it worked. But the danger is tying disorganization and productivity to any external means, lest we become too dependent. We are not independent—we allow heteronomy to affect our writing as well.

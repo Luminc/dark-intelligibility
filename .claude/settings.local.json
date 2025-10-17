@@ -5,7 +5,8 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(xelatex:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(npm run build-full:*)"
     ],
     "deny": []
   }
