@@ -1,0 +1,159 @@
+\documentclass[11pt,a4paper]{article}
+
+% Essential packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage[a4paper,left=2.5cm, right=2.5cm, top=2cm, bottom=3cm]{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+% Font setup - Commissioner or fallback to modern sans-serif
+\usepackage{fontspec}
+\IfFontExistsTF{Commissioner}{
+    \setmainfont{Commissioner}[
+        Ligatures=TeX,
+        Scale=1.0,
+        UprightFont = *-Regular,
+        BoldFont = *-Bold,
+        ItalicFont = *-Italic
+    ]
+    \setsansfont{Commissioner}[
+        Ligatures=TeX,
+        Scale=1.0,
+        UprightFont = *-Light,
+        BoldFont = *-Bold
+    ]
+}{
+    \IfFontExistsTF{Corpid}{
+        \setmainfont{Corpid}[
+            Ligatures=TeX,
+            Scale=1.0,
+            UprightFont = *-Light,
+            BoldFont = *-Bold
+        ]
+        \setsansfont{Corpid}[
+            Ligatures=TeX,
+            Scale=1.0,
+            UprightFont = *-Light,
+            BoldFont = *-Bold
+        ]
+    }{
+        % Fallback to system fonts
+        \setmainfont{Calibri}[
+            Ligatures=TeX,
+            Scale=1.0
+        ]
+        \setsansfont{Calibri Light}[
+            Ligatures=TeX,
+            Scale=1.0
+        ]
+    }
+}
+
+% Color palette - professional and modern
+\definecolor{primaryblue}{RGB}{25,55,95}
+\definecolor{accentgray}{RGB}{105,105,105}
+\definecolor{lightgray}{RGB}{180,180,180}
+\definecolor{warmwhite}{RGB}{252,251,248}
+
+% Typography settings
+\setstretch{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+
+% Custom commands for letterhead
+\newcommand{\lettername}[1]{\def\@lettername{#1}}
+\newcommand{\letteraddress}[1]{\def\@letteraddress{#1}}
+\newcommand{\letteremail}[1]{\def\@letteremail{#1}}
+\newcommand{\letterphone}[1]{\def\@letterphone{#1}}
+\newcommand{\letterdate}[1]{\def\@letterdate{#1}}
+
+% Letterhead design
+\newcommand{\makeheader}{
+    \begin{tikzpicture}[remember picture,overlay]
+        % Background accent
+        \fill[primaryblue] (current page.north west) rectangle ([yshift=-1.5cm]current page.north east);
+
+        % Name section
+        \node[anchor=north west, text=warmwhite] at ([xshift=2.5cm,yshift=-0.4cm]current page.north west) {
+            \fontsize{24}{28}\selectfont\sffamily\bfseries\@lettername
+        };
+
+        % Contact info line
+        \node[anchor=north west, text=warmwhite] at ([xshift=2.5cm,yshift=-1.1cm]current page.north west) {
+            \fontsize{9}{11}\selectfont\sffamily
+            \@letteraddress\quad|\quad\@letteremail\quad|\quad\@letterphone
+        };
+
+        % Subtle accent line
+        \draw[lightgray, line width=0.5pt] ([xshift=2.5cm,yshift=-2.2cm]current page.north west) --
+              ([xshift=-2.5cm,yshift=-2.2cm]current page.north east);
+    \end{tikzpicture}
+
+    \vspace{3cm}
+}
+
+% Date and recipient formatting
+\newcommand{\letterdate}[1]{
+    \begin{flushright}
+        {\sffamily\color{accentgray}#1}
+    \end{flushright}
+    \vspace{1em}
+}
+
+\newcommand{\recipient}[1]{
+    \begin{flushleft}
+        {\sffamily\color{primaryblue}#1}
+    \end{flushleft}
+    \vspace{1.5em}
+}
+
+% Subject line
+\newcommand{\subject}[1]{
+    \begin{center}
+        {\large\sffamily\bfseries\color{primaryblue}#1}
+    \end{center}
+    \vspace{1em}
+}
+
+% Custom list formatting for STAR examples
+\newlist{starlist}{enumerate}{1}
+\setlist[starlist]{
+    label=\textbf{\color{primaryblue}\arabic*.},
+    leftmargin=1.5em,
+    itemsep=1em,
+    topsep=0.5em,
+    parsep=0.3em
+}
+
+% STAR section formatting
+\newcommand{\starsection}[1]{
+    \vspace{1em}
+    {\large\sffamily\bfseries\color{primaryblue}#1}
+    \vspace{0.5em}
+}
+
+% STAR subsection formatting
+\newcommand{\starsubsection}[2]{
+    \textbf{\color{accentgray}#1:} #2
+    \vspace{0.3em}
+}
+
+\begin{document}
+
+% Set letterhead information - customize these
+\lettername{Jerome de Ruiter}
+\letteraddress{Amsterdam, Netherlands}
+\letteremail{jerome@example.com}
+\letterphone{+31 6 1234 5678}
+
+\makeheader
+
+$body$
+
+\end{document}
