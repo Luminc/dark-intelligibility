@@ -22,7 +22,7 @@ I love the pen. I'm too disconnected from the physical process of writing. There
 What has language done for me, for better and worse? Or perhaps more precisely: How does the determined become companionable to indeterminacy? How do light and dark conjoin in *chiaroscuro*?
 And how to develop the metabolic capacity to receive the chiaroscuro, to affirm their interpenetration? This requires more than intellectual understanding; it demands a transformation of our very relation to being.
 
-Today, in a world where ambiguity dominates and social cohesion evaporates, too much meaning exists—univocal, equivocal, or otherwise. What draws our focus is the ever-present stage of self-determination, the human spectacle. We can see that there are real limits to that self-determination. Being is communicative, but it is inseparable from non-being. I seem to be spinning around dualities again. There is an urgency for us to become intimate to their conjunctions and interpenetrations. However, the demands of life hijack our capacity to open to them. Let us stop making sense for a moment and try to delve deeper.
+Today, in a world where ambiguity dominates and social cohesion evaporates, too much meaning exists—univocal, equivocal, or otherwise. The proliferation of meanings itself becomes meaningless—a saturation that paradoxically produces emptiness. This is not the nihilism to be avoided but the nihilism to be passed through, the clearing that must happen before genuine meaning can emerge. As Nishitani suggests, we must go through nihilism to overcome nihilism—the return to zero that, for Desmond, makes possible a new beginning. What draws our focus is the ever-present stage of self-determination, the human spectacle. We can see that there are real limits to that self-determination. Being is communicative, but it is inseparable from non-being. I seem to be spinning around dualities again. There is an urgency for us to become intimate to their conjunctions and interpenetrations. However, the demands of life hijack our capacity to open to them. Let us stop making sense for a moment and try to delve deeper.
 
 I have to confess I cannot be honest to you, dear reader. I'm not sure I have the capacity to speak truth to myself, truth to power, or anything. I'm in love yes, and I will follow that flame. But I don't know what I can contribute.
 
@@ -84,7 +84,7 @@ Both Desmond and Clarice are enactive of what they write about. It is a lived ph
 
 I am a sponge—I allow plurivocity to color me. The concepts presented here are hard-won, brought forth not from a place of mastery but through sustained perplexity and help from others.
 
-The body writes. There is a restlessness there. This disorganization felt urgent, and it worked. But the danger is tying disorganization and productivity to any external means, lest we become too dependent. We are not independent—we allow heteronomy to affect our writing as well.
+The body writes. There is a restlessness there, one that is not accidental but constitutional. We are restless because we are the between—neither pure lack (*penia*) nor pure resource (*poros*). This is the restlessness of the *poros-sive-penia* structure, and it drives both the writing and the transformation. This disorganization felt urgent, and it worked. But the danger is tying disorganization and productivity to any external means, lest we become too dependent. We are not independent—we allow heteronomy to affect our writing as well.
 
 However, this disorganization and productivity is dangerous to be tied to any single source. Since I am not independent, I flow with the interdependence. But I must remain vigilant.
 
@@ -95,7 +95,7 @@ Other voices can feel prosthetic. It feels somehow shameful. I feel like I'm not
 
 \newpage
 
-# The Pharmakon and the Metaxu
+# The Between and Its Medicine
 
 ## Porosity and the Neutral
 
@@ -127,7 +127,7 @@ The key point is not merely that the world resists humanization, but that the se
 
 It proceeds that the illusion of a bounded, autonomous self as a refuge, a protective enclosure we build to manage the overwhelming porosity of our given condition. This autonomy functions as a shell, defending us from the heteronomy threatening to dissolve our boundaries. The opening from the isolated self fiction to the alterity of selving reveals that what we experience as intrusion is already intimate to our being. The very structure of the *metaxu* means we are porous not only to external others but to the otherness within ourselves—to what exceeds our constructed refuge.
 
-When the constructions of self break down, something else emerges — the fertile neutrality of being. What is neutral is not dead; it is generative precisely in its refusal to conform to categories. This neutral is terrifying because it puts in question what we think ourselves to be. Yet it is also the beginning of intimacy — a strange intimacy with the inhuman in ourselves.
+When the constructions of self break down, something else emerges — the fertile neutrality of being. What is neutral is not dead; it is generative precisely in its refusal to conform to categories. The neutral is not a nihilistic void but what appears when nihilism has done its work—the fertile ground revealed when false meanings are cleared away. This neutral is terrifying because it puts in question what we think ourselves to be. Yet it is also the beginning of intimacy — a strange intimacy with the inhuman in ourselves.
 
 ## The Thing-Part
 
@@ -147,7 +147,7 @@ The excess of being overflows our capacity to receive it without trembling. The 
 
 In this register, to encounter being is to be claimed by it, drawn into the impersonal intimacy of suchness, where self and non-self mingle, and the only fidelity is to remain porous—even to what terrifies us.
 
-The neutral is alive with a restlessness that precedes our choices. We are constitutively needy—neediness is inherent to the neutral ground itself, not a lack to be overcome but our very structure in the midst of things. We are given to be before we give ourselves to be. This is our ontological condition: thrown into existence, exposed to more than we can claim, opened to what exceeds us.
+The neutral is alive with a restlessness that precedes our choices. We are constitutively needy—neediness is inherent to the neutral ground itself, not a lack to be overcome but our very structure in the midst of things. This neediness—what Plato's myths call *penia* (poverty)—meets in us with *poros* (passage, resource). We are the restless child of both. We are given to be before we give ourselves to be. This is our ontological condition: thrown into existence, exposed to more than we can claim, opened to what exceeds us.
 
 How do we relate to this excess? How much of it can we bear? This depends on what we might call our *metabolic capacity*—how much space do we have to receive and process what overwhelms our constructed boundaries?
 
@@ -172,21 +172,11 @@ This is the threshold where we stand: constitutively porous, exposed to overdete
 
 \newpage
 
-# 02 The Ordeal of the Pharmakon
+# Metabolic Crisis
 
 >"All the world began with a yes. One molecule said yes to another molecule and life was born."[@lispectorPassion2014, p. 3]
 
-## The Pharmakon of Being
-
-The pharmakon—that which is simultaneously poison and cure—reaches us through a philosophical lineage that reveals its metaxological character. In Plato's *Phaedrus*, King Thamus warns that writing—Thoth's gift—is a pharmakon that will be both remedy and poison for memory. Derrida extends this insight to show how the pharmakon reveals the undecidability of conceptual oppositions. Stiegler pushes further with his technopharmacology, showing how technical objects are constitutive of human becoming itself—we co-evolve with our tools in a metaxological relationship where human and world co-determine each other.
-
-The *Pharmakon of Being* operates at an even more fundamental level. Where Derrida's pharmakon reveals undecidability and Stiegler's shows co-constitution, the Pharmakon of Being concerns our metabolic encounter with existence itself. Being itself arrives as pharmakon—excessive, overwhelming, destabilizing our constructed equilibrium. What initially appears as threat to the self's integrity reveals itself as the very medicine needed for transformation. But this transformation is not gentle. It arrives as ordeal.
-
-Lispector locates this ordeal with a striking metaphor: "For salt I had always been ready, salt was the transcendence that I used to experience a taste, and to flee what I was calling 'nothing.' But what my mouth wouldn't know how to understand—was the saltless."[@lispectorPassion2014, p. 83] The saltless is being without our filters and constructions, the naked actuality we cannot bear directly.
-
-Desmond frames the same ordeal as the tension between *conatus essendi* and *passio essendi*: "We are given to be before we give ourselves to be. There is a passio essendi, a patience of being, more primordial than our conatus essendi, our endeavor to be."[@desmondGod2008, p. 21] Conatus is our striving, our effort to preserve and assert selfhood. Passio is our given-ness, the raw unmediated encounter with being's excess.
-
-The body is our first dialogue partner in this ordeal. Before consciousness can comprehend what is happening, the body is already responding, already in communication with what exceeds our mental frameworks. This somatic knowing precedes and exceeds conceptual understanding, teaching consciousness what it needs to know through direct metabolic experience.
+Chapter 1 established our condition: we exist in the *metaxu*, and being itself arrives as a *pharmakon*—an overwhelming gift that is both poison and cure. Now we turn from the philosophical structure of this problem to its lived, visceral reality. This chapter explores the crisis precipitated by the Pharmakon of Being: the foreclosure of the gift, the necessary violence of grace, and the climactic purge that leads to transformation.
 
 ## The Gift and Its Foreclosure
 
@@ -204,7 +194,7 @@ There is violence in grace—not cruelty, but the necessary destruction of what 
 
 Lispector describes losing "a third leg that kept me from walking but made me a stable tripod."[@lispectorPassion2014, p. 4] What provides stability also prevents genuine movement. The tripod of ordinary consciousness—grounded in self-certainty, conceptual mastery, and narrative coherence—keeps us upright but immobile. The violence of grace kicks away this third leg, forcing us to learn a terrifying new way of being.
 
-"Life was taking its vengeance on me, and that vengeance consisted merely in coming back, nothing more,"[@lispectorPassion2014, p. 16] she writes. The violence is not punishment but simply reality returning to spaces we had filled with constructions. What distinguishes this violence from mere destruction is its precision. It targets only what is false, constructed, defensive. "Every sentiment is perfect when simply a sentiment, without the mixture that thought infers."[@lispectorPassion2014, p. 16] The violence strips away the inferential overlay, leaving the raw reality that was always there.
+The violence of grace occurs, yes, when we are somehow receptive to it. But perhaps it emerges from our ontological consent, which we already are. Our existential consent might struggle to undergo the ordeal but the original affirmation that we are calls us to transformation. We grow by being able to bear more of the totality, which includes the collapsing of our counterfeit refuges. Grace is then our alignment with the 'worse' truth. We accept the totality of light and dark because that is the truth of what is. While nihilism remains in pure negation it misses the radical conversion from "the self is empty" to "emptiness is self" (Nishitani) a generative, fertile, neutral emptiness over which penia-sive-poros are struck, porosity and poverty of the kenotic self.
 
 This violence of grace strips away our constructions, revealing that the sense of agency itself dissolves. It's not a sense of otherness we discover but a sense of union through clear communication that turns into pure happening in which we are fully part. We become the process rather than standing outside observing it.
 
@@ -224,7 +214,7 @@ Within the ordeal, we discover not mere blockage but a deeper structure: the int
 
 *Poros* is passage, way, resource—but not straightforward path. As Desmond notes, poros carries connotations of "a way across," yet it is "a transition that is no transition, since in making a way, it makes way and hence there is a withdrawal in the very opening of the way."[@desmondGod2008, p. 41] The way opens by withdrawing. The passage creates space through its own recession.
 
-Both poros and penia involve emptiness. They are not opposites but complementary movements of the same groundlessness. The hyphen in poros-sive-penia is crucial—not "poros or penia" but the radical interpenetration where each is the condition for the other's manifestation. This is the structure of the ordeal itself—we are suspended between emptiness that hungers and emptiness that opens.
+Both poros and penia involve emptiness. They are not opposites but complementary movements of the same groundlessness. The hyphen in poros-sive-penia is crucial—not "poros or penia" but the radical interpenetration where each is the condition for the other's manifestation. This is the structure of the ordeal itself—we are suspended between emptiness that hungers and emptiness that opens. The ordeal intensifies our constitutional restlessness. We cannot rest in pure *penia*, for that way lies the madness of *eros turannos*—a consuming lack that can never be filled. Nor can we rest in pure *poros*, for that becomes a passive dissolution, a loss of self into the flow. The restlessness itself, this suspension between the two, *is* the energy of transformation.
 
 ## Sleepwalker's Courage and the Worse Truth
 
@@ -271,54 +261,129 @@ The violence of grace strips away our constructions. What remains is not nothing
 
 \newpage
 
-### 03 Dark Intelligibility: The Fruits of Transformation
+# Dark Intelligibility
 
 >"Not dark but just without light."[@lispectorPassion2014, p. 89]
 
-The ordeal of the pharmakon culminates not in a final answer, but in a restored capacity for relation. The communication born from the purge deepens into something more intimate: communion. The fruit of the ordeal is not a new set of propositions about the world, but a new way of knowing that is closer to a form of touch—an *unknowing-sive-knowing* that feels like an encounter with the divine. This is metabolic knowing, and it ripens into a way of being that is both profoundly intelligent and radically loving.
+## Metabolic Knowing
 
-#### Part 1: The Nature of Metabolic Knowing
+To affirm suchness without narrative, to receive the pharmakon without fleeing—this is the intimacy with the inhuman, the fertile neutrality at the heart of being. It is here, in the ruins of the old self, that astonishment begins again. This metabolic relationship points toward a new mode of knowing. Not an end to reason, but its maturation into a faculty that can dwell companionably with what exceeds it.
 
-To affirm suchness without narrative, to receive the pharmakon without fleeing—this is the intimacy with the inhuman, the fertile neutrality at the heart of being. An understanding emerges not despite our encounter with the incomprehensible, but precisely through it. This is the domain of *dark intelligibility*, a knowing that operates by giving equal weight to the day of reason and the night of mystery. As William Desmond suggests, our daytime reason risks going mad if it cannot return to and draw nourishment from the mystery of the night. Like bats in sunlight, our conceptual mind is blinded by the very excess of being, the very source of light.
+What nihilism clears, dark intelligibility learns to inhabit. Not the restoration of old meanings but a new way of dwelling in the between.
 
-The terror of Lispector's ordeal—the encounter with the neutral, the saltless, the "thing-part"—is the terror of metabolizing a fundamental, ontological truth. It is a direct encounter with what Desmond's metaphysics describes as the shadow of our createdness. Because creation is *ex nihilo*, the finite universe is constitutively "shadowed by the nothingness (*nihilo*) from which it was made" [@desmondBeing1995, p. 269]. This is not a moral failing but our structural condition. The violence of grace is the force that compels us to confront this shadow, to taste the `nihilo` woven into our being. This is made present in Lispector's own words: "I don’t want it. But I cannot help feeling all enlarged inside myself by the poverty of the opaque and the neutral: the thing is alive like weeds. And if that is hell, it is heaven itself: the choice is mine. I am the one who shall be demonic or angel; if I am demonic, this is hell; if I am angel, this is heaven" [@lispectorPassion2014, p. 159].
+There is an understanding that emerges not despite our encounter with the incomprehensible, but precisely through it. It is the faculty born when the self remains porous to the ordeal of being, the ground where the hyperbolic, the intimate, and the impersonal meet. This is not a voiding of intelligibility, but its deepening into a mode that can hold the discomfort of excess—where understanding and un-understanding interpenetrate without resolution. The darkness is not an absence of light but the saturation of it, the light too full to be borne without distortion.
 
-Here lies the crucial pass-through, the bridge between a Western metaphysical tradition and an Eastern contemplative one. We must confront the terror of the `nihilo`—our own contingent, dependent nothingness—to discover the freedom of `sunyata`, the fertile emptiness that Nishitani Keiji names. The `nihilo` is the door; `sunyata` is the room. This discovery is grounded in what Nishitani calls *ontological samadhi*: a deep stillness and knowing at our core that persists even through the most violent turbulence. Dark intelligibility is learning to think *from* this recovered ground.
+As such, dark intelligibility is not the end of reason but its maturation. It operates by giving equal weight to the day of reason and the night of mystery. As Desmond powerfully suggests, our daytime reason risks going mad if it cannot return to and draw nourishment from the mystery of the night, just as a person who cannot sleep cannot properly return to the day.[@desmondGod2008]
 
-This knowing is not anti-rational but *hyperrational*—reason stretched to its creative limits until it becomes praise. It is what Desmond calls *thought singing its Other*. Lispector's final words capture this perfectly: "I am not understanding whatever it is I'm saying, never! never again shall I understand anything I say... And so I adore it." [@lispectorPassion2014, p. 175]. Comprehension is surrendered for communion.
+The chiaroscuro of dark intelligibility emerges precisely here—in the recognition that "The diurnal mind, sovereign of its clarities, drops down into sleep, and from deep within it horror floats up from bourns beyond the boundary of all definition."[@desmondGod2008, p. 265] We are not simply moving from light to dark, but discovering that the darkness has its own luminosity, its own mode of disclosure. This requires acknowledging what Desmond calls "the nocturnal side of things inhuman, human, and transhuman"[@desmondGod2008, p. 231]—a recognition that mystery is not merely the absence of clarity but a positive register of being.
 
-#### Part 2: The Ongoing Practice of Bearing More
+## The Hyperluminous Dark
 
-This transformation is not a static achievement but an ongoing practice: the practice of bearing more. It is the development of a spiritual metabolism robust enough to process reality's "murky bile" as well as its joys. This practice is a form of *kintsugi*, where the break is not hidden but illuminated with gold, becoming a site of beauty and strength. Impasse, when metabolized, becomes passage. This is where we find our "worse truth": "This is madness, I thought with my eyes closed. But it was so undeniable feeling that birth from inside the dust — that all I could do was follow something I was well aware wasn’t madness, it was, my God, the worse truth, the horrible one. But why horrible? Because without words it contradicted everything I used to think also without words."[@lispectorPassion2014, p. 53]
+The ancients understood this paradox with striking precision. Aristotle's metaphor, echoed by Aquinas and developed in the Christian mystical tradition, captures it perfectly: with the highest things "we are like bats in sunlight."[@desmondGod2008, p. 273] Our daytime reason finds itself blinded precisely where nocturnal intuition might navigate. The metaphor reveals something essential—that what we call "darkness" in relation to ultimate matters is not obscurity but *hyperluminosity*. The divine light, as Gregory of Nyssa understood, is so intense it appears as darkness to finite minds—not because God is obscure but because the revelation exceeds our capacity to receive it.
 
-This practice is nourished by a profound, if terrifying, understanding. Simpson's analysis of Desmond provides a clear theodicy: evil is possible because agapeic creation requires genuine freedom, and freedom must permit its own refusal. The Creator's love manifests as a "patience to evil" [@desmondBeing1995, p. 263] that "can be horrifying to us" (PU 249).
+This inverts the Enlightenment's confidence in reason's illuminating power. With ultimate matters, our clearest concepts become the very blindness that prevents seeing. The more we try to grasp being through determinate categories, the more we obscure what shows itself only to those who have learned to see differently. Nocturnal souls—those who have undergone the metabolic transformation of consciousness—find that what appeared as daylight clarity was itself a kind of darkness, while what seemed impenetrably obscure reveals itself as luminous.
 
-The "worse truth" is the lived, visceral experience of this horrifying divine patience. Our practice of "bearing more" is thus a finite, creaturely participation in it. This metaphysical insight provides a form of *ontological nutrition*: it does not eliminate the suffering of the world, but it frames it within a meaningful whole, providing the strength to bear it without despair. We learn to metabolize the world's darkness by aligning ourselves with the patient, permissive love that is its source.
+*Dark* intelligibility, then, names not the absence of light but its overwhelming presence. It is intelligence that has learned to navigate by a different luminosity, one that doesn't eliminate mystery but draws nourishment from it. The darkness is not what we must overcome to achieve clarity, but the very medium through which ultimate things disclose themselves to consciousness sufficiently porous to receive them.
 
-#### Part 3: The Energy of the Between
+This understanding echoes through traditions. Plato's cave-dwellers, blinded by the sun when first exposed, must learn to see by the very light that initially overwhelms them. The mystic's *via negativa* strips away determinate concepts not to reach blankness but to open to what cannot be grasped yet can be known through intimate participation. Nishitani's field of emptiness is not nihilistic void but the fertile ground where all determinate beings find their suchness.
 
-What is the fundamental energy that drives us in the *metaxu*? The answer lies in the primordial constitution of our being. We are creatures defined by a dynamic tension, mythically rendered in Plato's *Symposium* as the parentage of Eros. Eros is not a god of simple fullness; he is the child of *Penia* (Poverty, lack, our *nihilo*-shadowed need) and *Poros* (Resource, passage, our inherent capacity for opening).
+Dark intelligibility is thus a form of *non-propositional knowing* that requires attunement and fidelity to mystery, revealing the limits of conceptual thought while grounding it in embodied wisdom. It is what Desmond calls agapeic mindfulness—an unknowing knowing, a *docta ignorantia*. "One hesitates even to call it knowing lest one imply one has grasped a determinate somewhat, mastered through oneself alone."[@desmondGod2008, p. 273] This communication is excessive, extending beyond self-determining cognition into what can only be called "an excess of the other [that] strains the limits of self-determining."
 
-We are this child. We are not troubled by desire; we *are* the trouble, the restlessness strung across the abyss between having and not-having. Our desire is constitutionally composed of two vectors:
+## Somatic Depths and Metabolic Wisdom
 
-*   The vector of *Penia*: the hungry, restless reaching outward, driven by our inherent lack. It is the "plea" that Lispector says we must "infinitely increase."
-*   The vector of *Poros*: the kenotic, receptive opening inward, the resource that finds a way where there is no way.
+This points to forms of knowing that operate through what can be called *metabolic wisdom*—the body's capacity to process and integrate what exceeds mental comprehension. Somatic practices are conducive of energetic releases that are entirely non-rational, sometimes even devoid of conscious content. The body releases what it has been holding without the mind needing to understand what is being released. Lispector's encounter with the roach demonstrates this in action. Her body knows before her mind that transformation is occurring: "I was slowly swimming through my oldest primeval soup, the sweat was plankton and pneuma and pabulum vitae, I was being, I was me being."[@lispectorPassion2014, p. 173] The somatic knowing precedes and exceeds conceptual understanding, teaching consciousness what it needs to know through direct metabolic experience.
 
-The ordeal does not create a new desire; it reveals this structure and transforms our relationship to it. Untempered, the vector of *Penia* hardens into *eros turannos*—a tyrannical grasping that seeks to fill the void with finite things. The violence of grace shatters this foreclosure. The fruit of the ordeal is the wisdom to live as this tension without seeking to resolve it prematurely. It is the art of letting our hunger keep us moving while our porosity keeps us open to being met. This is not a new desire, but a new wisdom in desire, creating what Lispector calls "a love full of fury"—fiercely alive with need, yet infinitely gentle in its reception. The root of this is given in Lispector: "The great emptiness in me shall be my place for existing; my extreme poverty shall be a great volition. I must violate myself until I have nothing, and need everything; when I need, then I shall have, because I know that it is just to give more to whoever asks for more, my demand is my size, my emptiness is my measure. One also can violate God directly, through a love full of fury." [@lispectorPassion2014, pp. 158-159]
+Dark intelligibility operates from what Nishitani calls *ontological samadhi*: "In its own home-ground, the being of the self is essentially a sort of samadhi. No matter how dispersed the conscious self be, its self as it is in itself is ever in samadhi."[@nishitaniReligion1982, pp. 165-166] This is not meditative achievement but our deepest structure. Even in turbulence, confusion, the metabolic crisis of ordeal—at the ground, there is samadhi. A stillness that precedes and enables all our motion, a dark knowing that operates even when daylight consciousness fails. Dark intelligibility is learning to think *from* this ontological primacy rather from the dispersed, anxious surface consciousness. It's intelligence that draws from the home-ground, knowing that rests in what Nishitani, consonant with Desmond's metaxu, calls the "middle": "Our self in itself is most elementally 'middle.'"[@nishitaniReligion1982, p. 166] The immediate ground where we actually are, "at hand" and "underfoot," the point from which all our actions proceed with "absolute immediacy."
 
-#### Part 4: The Harvest: Agapeic Love and Union-in-Difference
+## The Grammar of Limits
 
-The ultimate harvest of this transformation is a new way of loving. It begins with a beautiful paradox. On one hand, Desmond's God gives an asymmetrical, unreturnable gift of being—a gift so total that it is "foreign... to our (all too erotic) conceptual economies" (PU 195). We can never repay it. On the other hand, the transformed experience, as described by Dōgen, is one of profound reciprocity: being "confirmed by all things."
+Yet this new ground is not a place of absolute clarity. Dark Intelligibility operates not by eliminating limits, but by transforming our relationship to them. This brings us to the grammar of limits, where impasse itself becomes a mode of disclosure. In Lispector's work there is a tension between apophasis and phasis, negative and positive theology, saying what being is not and what it is. They are deeply entangled. Pure apophasis is impossible, as every negation carries the trace of what it negates. Dark intelligibility works at these limits—identifying them however bright or dark they are, however high or low (hyper-, hypo-).
 
-The resolution is the heart of the matter: our "singing back," our act of confirming the other, is not an attempt to repay the gift. It is the most complete and profound way of receiving it. Because the gift was that we be "freely released into being for ourselves" [@desmondBeing1995, p. 257], we honor that freedom most fully by becoming free givers in our turn. We receive the gift of being by participating in the ongoing act of creation. Lispector articulates the ever-present temptation to foreclose this reception: "I understood that, by placing in my mouth the paste of the roach, I was not stripping myself as the saints do, but was once again yearning for the accretion. The accretion is easier to love." [@lispectorPassion2014, p. 178]
+Traditionally understood as a productive philosophical impasse that clears space for new thinking, aporia reveals something more paradoxical. It is not simply a luminous clearing but janus face of blockage and passage together. As we discovered through poros-sive-penia in the ordeal, the impasse is not the opposite of passage but its secret intensity. When poros withdraws, when the way recedes, we experience aporia—no way forward, no path visible. But this very blockage, if we can remain porous to it rather than flee from it, becomes the site where new passages open. The dead-end, metabolized rather than resisted, reveals itself as threshold.
+
+This is the double nature of aporia itself: blockage *and* breakthrough, simultaneously. What appears as obstacle to our daylight consciousness reveals itself, to nocturnal awareness, as the very condition for transformation. The way opens precisely through its recession. Passage emerges from within impasse.
+
+## Perplexity as Metabolic Resistance
+
+"Perplexity seeds a troubled thinking in porosity that makes us patient to given otherness."[@desmondGod2008, p. 119] Perplexity—that troubled thinking in porosity—is the middle space between overdetermined being and our need for determinate articulation. It's the resistance we encounter when trying to make the indefinite definite, to domesticate the mystery of our being.
+
+There is something of suffering in this perplexity, as in astonishment. Being in the between is first a suffering; we undergo our being given to be. Perplexity cannot be eliminated, only metabolized. Mystery will always resist our attempts at eradication. The troubling perplexity must be borne rather than solved.
+
+Dark intelligibility learns to treat aporia not as obstacle to be overcome but as what Desmond calls hyperintelligibility—excessive intelligibility that exceeds our capacity to master it. We make present the negativity: the discomfort, shadow, frustrated meaning, limits of language. We highlight the insufficiency of pure daylight reason and reveal the urgency for night's mystery to meet its conjunction with day. This isn't the via negativa of *neti neti* ("not this, not that") but something more visceral—making the blockage itself luminous.
+
+The paradox requires what Desmond calls "idiotic trust"—the "overdeterminate faith" that "is other to determinate and self-determining reason" yet "is not absurd; it is the mustard seed of agapeic minding in us."[@desmondGod2008, p. 340] We trust that the way opens precisely through its own recession, that passage emerges from within the impasse itself.
+
+## The Practice of Bearing More
+
+This transformation is not a static achievement but an ongoing practice: the practice of bearing more. It is the development of a spiritual metabolism robust enough to process reality's "murky bile" as well as its joys. Both dreams and entheogens are more transparent to the "no" and can bring us closer to the deeper yes through the yes-sive-no. A wholeness that can hold and work with the totality. It doesn't have to be perfect but there is a sense of attending to it that then widens our capacity to bear more. That is the practice. When we are communicating, that is when the medicine gets flowing and our capacity becomes greater. But with that power comes a double movement for holding more suffering as well. The metaxu of an equanimity between oppositions, not fully resolved but balanced. Not counterfeit yeses but the communication of a deeper affirmation, our original affirmation.
+
+The key recognition here is that your affirmation and negation is not just an existential but a bodily, ontological concern. It takes our "multimodal" ways of knowing to bear the excess of reality. To receive the medicine.
+
+To suffer and undergo the ordeal in that sense is to restore communication to ourselves and the world. But what if we do not take the communication? What if we cannot receive it? The capacity for horror, the absurd arises from that failure. No resolution but failure of communication. Every comprehension itself is an "acute incomprehension" and exposed to the hyperintelligible there always remains a part inaccessible, incommunicable, one that remains enigmatic and fiery at the center of things, a terrible power and infinite source of energy that flows directly to us.
+
+## Thought Singing Its Other
+
+Dark intelligibility is not anti-rational thinking but *hyperrational*—reason stretched to its creative limits. Desmond traces a movement from *thought thinking itself* (Hegel's self-closing dialectic) to *thought thinking its Other*, and finally to *thought singing its Other*. In this "singing," thought becomes a celebratory, performative, and porous act—an ecstasis that does not seek to possess the other, but to witness it.
+
+This is the language of praise. Thought singing its other is thought that has learned to let beings be, to witness them in their suchness, to participate in their self-manifestation without interference. Lispector's final words in *The Passion According to G.H.* capture this perfectly: "I am not understanding whatever it is I'm saying, never! never again shall I understand anything I say... And so I adore it."[@lispectorPassion2014, p. 175] She doesn't comprehend the roach, the neutral, the worse truth—and precisely in that non-comprehension, she can finally sing them.
+
+When we sing deeply through the other, the other starts singing back to us. The tree sings its treeness; in witnessing that without demand, we enable it to sing more fully; and as if in unison, its song then confirms our own existence. An intimacy so alien and yet so near.
+
+## The Energy of Eros Transformed
+
+Having undergone the ordeal, having discovered ourselves as poros-sive-penia, we now understand differently the energy that moves us. We are not simply troubled by desire—we *are* the trouble, the restlessness strung across the abyss between having and not-having. But now this restlessness has been metabolized, transformed from blind compulsion into conscious participation.
+
+The wisdom lies not in resolving the tension between penia and poros but in orchestrating their tandem movement. The kenotic opening is tempered by hunger's vitality; the hungry reaching is tempered by opening's receptivity. Each checks the other's potential for distortion. Together they create what Lispector calls "a love full of fury"[@lispectorPassion2014, pp. 158-159]—love that includes both the gentleness of receptivity and the intensity of need.
+
+This is metaxological desire that has matured into agapeic love: desire that has learned to dwell in the between without collapsing it, that can hold the tension without fleeing into false resolutions. It is desire aware of its own groundlessness, consenting to the restlessness as fundamental rather than provisional, yet finding in this very restlessness the energy for generous giving.
+
+## Union-in-Difference: The Harvest
+
+The ultimate harvest of this transformation is a new way of loving that resolves a beautiful paradox. On one hand, Desmond's God gives an asymmetrical, unreturnable gift of being—a gift so total that it is "foreign... to our (all too erotic) conceptual economies"[PU195]. We can never repay it. On the other hand, the transformed experience is one of profound reciprocity: being "confirmed by all things."
+
+The resolution is the heart of the matter: our "singing back," our act of confirming the other, is not an attempt to repay the gift. It is the most complete and profound way of receiving it. Because the gift was that we be "freely released into being for ourselves"[@desmondGod2008, p. 257], we honor that freedom most fully by becoming free givers in our turn. We receive the gift of being by participating in the ongoing act of creation.
 
 This act of grateful, reciprocal loving is a finite participation in the infinite Agapeic Origin. Our achieved agapeic love is a creaturely echo of God's primordial "letting the other be." This is the meaning of *union-in-difference*. We remain finite creatures, receivers of the gift (the difference), yet we are brought into conscious, loving communion with the divine source through our own acts of giving (the union).
 
-When I sing the other, I find myself in love. Enchanted and chanting. The boundaries dissolve. The world becomes an inhuman mirror, showing me the matter-of-God that constitutes me. The alien becomes intimate; the foreign reveals itself as home. I long to sleep under the moss, to become compost under a thick blanket of dew, to participate in the slow, silent festivity. This is a glimpse of a singing *khora*, a mutual bringing-forth of reality where the world waits patiently for our participation in its self-manifestation.
+The heteronomy we feared—possession by the other—reveals itself as the call of our own deepest being. What seemed alien intrusion is our original participation. We are not dissolved but discovered, not possessed but released into our truest selfhood—one that sings with rather than against the world.
 
-#### Coda
+Desmond's 'absolved relativity' names what we achieve through dark intelligibility: relation freed from the demand to possess or be possessed. We are absolved—released—into genuine togetherness. Not dissolved into unity, not scattered into isolation, but held in the between where genuine selves can sing to genuine others. This is relation transfigured by agapeic generosity: each term released to be itself precisely through its openness to the other.
+
+The hopeless joy we discovered is the emotional register of this absolved relativity. Joy without hope because it needs no future completion—it is already complete in its incompletion, already whole in its openness. We are absolved of the need to mean something beyond this singing, this festivity of being-between.
+
+When I sing the other, I find myself in love. Enchanted and chanting. The boundaries dissolve. The world becomes an inhuman mirror, showing me the matter-of-God that constitutes me. The alien becomes intimate; the foreign reveals itself as home. I long to sleep under the moss, to become compost under a thick blanket of dew, to participate in the slow, silent festivity. A glimpse of a singing khora, that primordial receptacle now understood not as passive container but as active participant in the cosmic singing. The metaxu itself sings, and when we have learned to listen, we discover we have always been part of that song, and that our voice is needed for the chorus to be complete, that the world waits patiently for our participation in its self-manifestation.
+
+## Departure, Arrival, Return
+
+Dark intelligibility is not a destination but a movement—an oscillating rhythm between departure, arrival, and return that constitutes the metabolic practice of being in the metaxu. This is not a linear progression from ignorance to enlightenment, but a cycle that honors all directions as necessary dimensions of the same lived truth.
+
+We are always already in motion—departure, arrival, return—and fidelity to flux means consenting to this rhythm rather than trying to arrest it at any single point. But this consent is not passive acceptance. It is sustained attention in the face of inevitable reterritorialization, inevitable forgetting. After the experience comes amnesis—the fading of the revelation, the return to ordinary consciousness. Yet something remains: not the peak experience but the metabolic capacity developed through it.
+
+The practice is learning to trust this cycle, to know that departure will come again, that the ordinary contains the seeds of the extraordinary, that even our forgetting participates in a larger remembering. This is what it means to become companionable rather than possessed—to learn the rhythm of approach and withdrawal, presence and absence, revelation and concealment.
+
+## Courage, Connection, Participation
+
+Courage, participation, connection—this is what agapeic love asks of us. The courage to remain open to what exceeds us. The participation in creation that happens when we stop imposing and start witnessing. The connection to self and world that reveals itself when we discover these are not separate domains but interpenetrating dimensions of the same original part.
+
+"The quiet festivity of agapeic of being"[@desmondGod2008, p. 164]—an intimate joy in us participating in creation, a mutual bringing-forth of reality. This is the Great Affirmation in its lived reality: not abstract yes to being, but intimate participation in being's festivity. The metabolic transformation that began in ordeal, that passed through the ruins of meaning and the terror of the neutral, arrives finally at this: we learn to sing, and in singing, we are sung. We find our resting place not by escaping the between but by discovering the between as home, the metaxu as the very ground of wholeness.
+
+Dark intelligibility and agapeic love are not separate achievements but two dimensions of the same transformation: a way of knowing that is simultaneously a way of loving, a receptivity that is simultaneously an affirmation, a vulnerability that is simultaneously a strength. This is the fruit of the ordeal, the harvest of metabolic development, the gift that was always already present in the pharmakon we feared would destroy us.
+
+## Toward Ontological Nutrition
+
+This entire framework suggests that spiritual traditions might be understood as sophisticated technologies for *metabolic development*—systematic training programs for consciousness to expand its digestive range, to learn to find sustenance in what initially appears as pure poison or meaninglessness. Maturation becomes precisely this expansion of metabolic range: learning to digest stronger and stronger doses of unsalted reality until we can finally subsist on being itself without the mediating supplements of human meaning-making.
+
+The roach encounter becomes a genuine philosophical experiment in *ontological nutrition*—testing whether human consciousness can learn to subsist on unsalted being, to find sustenance in neutrality itself. Can we develop the metabolic capacity to break our chrysalis ourselves, to undergo the necessary decomposition that allows genuine transformation rather than mere reformation?
+
+A new form of knowing occurs: our unknowing-sive-knowing. A knowing that is closer to a kind of touching, an encounter contact with the divine that feels as a confirmation of ourselves with God. Being becomes communion. Being at that state is a pure nakedness before God. And after everything is burned away what remains is an entry into the palace in a union-in-difference. Our neediness is replaced with peace. We are already forgiven.
+
+## Coda: The Question of Companionability
+
+The journey that began by asking how we might become companionable to what threatens to possess us finds its answer here. Agapeic love is the name for that perfected companionability—a way of being with the other that is intimate without consuming, and porous without being destroyed.
+
+Companionability is still also a question for the questioning of autonomy versus heteronomy. Is there a point at which autonomy as we know it collapses? In the text, there is a deeper selfhood that emerges in non-duality. But as the cycle of departure-arrival-return reveals, our "arrival" is one part of the pendulum swing and the amnesis from the "return" challenges us to remain at the metaxu. On the one hand, we do not want to constantly be exposed to excess, we couldn't go on living. Yet simultaneously we do not want to lose touch with overdeterminacy. This is the kind of ongoing practice that never stops. Walking the thin line between eros turannos and ouranios, between self and other, between the finite and infinite.
 
 The question, then, was never how to avoid the ordeal, but how to bear it. We learn not through mastery, but through metabolization. We learn to receive the "superplus" of being by becoming porous enough not to be shattered by its grace. We learn to find nourishment in the very shadow of our nothingness, to discover that the pharmakon's poison, when fully tasted, is the medicine.
 
-The journey that began in a "sweet and abysmal vertigo" [@lispectorPassion2014, p. 29] does not end in certainty. It ends in communion. The vertigo is no longer a disorientation to be overcome, but the very rhythm of the "quiet festivity of being." [@desmondGod2008, p. 164] We find our home not by escaping the between, but by learning to sing in it.
+The journey that began in a "sweet and abysmal vertigo"[@lispectorPassion2014, p. 29] does not end in certainty. It ends in communion. The vertigo is no longer a disorientation to be overcome, but the very rhythm of the "quiet festivity of being." We find our home not by escaping the between, but by learning to sing in it.
 

@@ -5,9 +5,9 @@ const path = require('path');
 const { convertCitations } = require('./convert-citations.js');
 
 const CHAPTERS = [
-  '../00 Companionability and Possession.md',
-  '../01 The Pharmakon and the Metaxu.md',
-  '../02 The Violence of Grace.md',
+  '../00 Companionability.md',
+  '../01 The Between and Its Medicine.md',
+  '../02 Metabolic Crisis.md',
   '../03 Dark Intelligibility.md'
   // Endnotes.md excluded - endnotes are auto-generated from citations
 ];
