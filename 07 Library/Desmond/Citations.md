@@ -53,3 +53,25 @@ eros of our being. To become mindful of the porosity is to come closer to the pr
 ethos, though neither porosity nor ethos can be approached in a univocally direct way.
 
 p.41
+
+
+We divine the doubleness as not only our own immanent
+duality, but as intimating the absolved relativity of our transcending to transcendence as
+other. And this, whether we are oriented beyond our present limited form, or returned
+more intensively into our own original ground. The immanent equivocity of our intimate being is a plurivocal sign of an immanent community of human self-transcendence
+and transcendence as other; an immanent community that can never be reduced just
+to immanence. In the inner equivocity of our own immanent selving we find ourselves
+awakening to what is beyond ourselves, awakening in the communication of the intimate
+universal. 
+
+p.143
+
+Through this second intermediation, not to be reduced to the primal
+immanent divine intermediation, the agapeic origin brings to be the absolved relativity
+in which the finite between is originated and let to be. This second intermediating would
+not first be constituted by the already existent being of finitude. It would be a creating intermediation that brings into being the finite creation as other. This coming to be
+(understood as an agapeic origination) would be a coming to be of finitude as genuinely
+other to the origin. This would express, if you like, the divine poiesis, the creating art of
+God. But this creating art is not creating God, it is God creating finite creation as other.
+
+p.161

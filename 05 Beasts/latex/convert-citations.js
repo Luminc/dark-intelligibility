@@ -5,6 +5,8 @@ const fs = require('fs');
 const citationMap = {
   // Lispector - The Passion According to G.H.
   'L': { key: 'lispectorPassion2014', title: 'The Passion According to G.H.' },
+  // Lispector - A Breath of Life
+  'Lb': { key: 'lispectorBreath2012', title: 'A Breath of Life' },
   // Desmond - God and the Between
   'D': { key: 'desmondGod2008', title: 'God and the Between' },
   // Desmond - Being and the Between

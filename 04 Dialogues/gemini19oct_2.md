@@ -5,7 +5,7 @@
 
   Suggestion: Foreshadow or introduce these terms earlier to make their arrival in Chapter 3 a true synthesis.
    * In Chapter 1: When you introduce the metaxu and our "constitutively needy" state, you could briefly name this dynamic. For example: "This constitutional neediness, which Plato's myths named Penia (Poverty), finds its home in the metaxu, the field of Poros (Passage)."
-   * In Chapter 2: The "foreclosure of the gift" is a failure of Poros. The desperate "yearning for accretion" is a form of counterfeit Penia-eros. Weaving this language into the description of the ordeal would deeply enrich it and set the stage perfectly for Chapter 3.
+   * In Chapter 2: The "foreclosure of the gift" is a failure of Poros. The desperate "yearning for accretion" is a form of counterfeit Penia-eros. Weaving this language into the description of the ordeal would deeply enrich it and set the stage perfectly for Chapter 3. ( Metatextually, are we creating our own accretion or are we leaving ground for the clearing ? )
 
   2. The Frame of the Book: Connecting the Conclusion to the Prologue
 
@@ -14,11 +14,14 @@
   Suggestion: In the Coda of Chapter 3, add a few sentences to explicitly connect the final resolution back to the initial question. For example: "The journey that began by asking how we might become companionable to what threatens to possess us finds its answer here.
   Agapeic love is the name for that perfected companionability—a way of being with the other that is intimate without consuming, and porous without being destroyed." This would bring the entire work full circle, creating a very satisfying sense of closure.
 
+Companionability is still also a question for the questioning of autonomy vs heteronomy. Is there a point at which autonomy as we know it collapses? In the text, there is a deeper selfhood that emerges in non-duality. But as ch03b points out, our "arrival" is one part of the pendulum swing and the amnesis from the "return" challenges us to remain at the metaxu. One the one hand, we do not want to constantly be exposed to excess, we couldn't go on living. Yet simultaneously we do not want to lose touch with overdeterminacy. This is the kind of ongoing practice that never stops. Walking the thin line between eros turrannos and ouranios, between self and other, between the finite and infinite. 
+
   3. Citation and Title Consistency
 
   Issue: Now that Chapter 3 is finalized, two minor inconsistencies across the total text are apparent.
    1. The other chapters likely use older citation styles.
    2. The title of Chapter 2 ("The Violence of Grace") may no longer be the best fit for its contents, which are more broadly about "The Ordeal of the Pharmakon."
+   3. However, the Pharmakon and the Metaxu is already the title of the first chapter. What are other good ideas for naming the chapters? 
 
   Suggestion:
    1. I can perform a "citation audit" on Chapters 00, 01, and 02 to update all citations to the [KeyPage] format for consistency.

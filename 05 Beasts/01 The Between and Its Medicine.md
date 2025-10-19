@@ -1,4 +1,4 @@
-# The Pharmakon and the Metaxu
+# The Between and Its Medicine
 
 ## Porosity and the Neutral
 
@@ -30,7 +30,7 @@ The key point is not merely that the world resists humanization, but that the se
 
 It proceeds that the illusion of a bounded, autonomous self as a refuge, a protective enclosure we build to manage the overwhelming porosity of our given condition. This autonomy functions as a shell, defending us from the heteronomy threatening to dissolve our boundaries. The opening from the isolated self fiction to the alterity of selving reveals that what we experience as intrusion is already intimate to our being. The very structure of the *metaxu* means we are porous not only to external others but to the otherness within ourselves—to what exceeds our constructed refuge.
 
-When the constructions of self break down, something else emerges — the fertile neutrality of being. What is neutral is not dead; it is generative precisely in its refusal to conform to categories. This neutral is terrifying because it puts in question what we think ourselves to be. Yet it is also the beginning of intimacy — a strange intimacy with the inhuman in ourselves.
+When the constructions of self break down, something else emerges — the fertile neutrality of being. What is neutral is not dead; it is generative precisely in its refusal to conform to categories. The neutral is not a nihilistic void but what appears when nihilism has done its work—the fertile ground revealed when false meanings are cleared away. This neutral is terrifying because it puts in question what we think ourselves to be. Yet it is also the beginning of intimacy — a strange intimacy with the inhuman in ourselves.
 
 ## The Thing-Part
 
@@ -50,7 +50,7 @@ The excess of being overflows our capacity to receive it without trembling. The 
 
 In this register, to encounter being is to be claimed by it, drawn into the impersonal intimacy of suchness, where self and non-self mingle, and the only fidelity is to remain porous—even to what terrifies us.
 
-The neutral is alive with a restlessness that precedes our choices. We are constitutively needy—neediness is inherent to the neutral ground itself, not a lack to be overcome but our very structure in the midst of things. We are given to be before we give ourselves to be. This is our ontological condition: thrown into existence, exposed to more than we can claim, opened to what exceeds us.
+The neutral is alive with a restlessness that precedes our choices. We are constitutively needy—neediness is inherent to the neutral ground itself, not a lack to be overcome but our very structure in the midst of things. This neediness—what Plato's myths call *penia* (poverty)—meets in us with *poros* (passage, resource). We are the restless child of both. We are given to be before we give ourselves to be. This is our ontological condition: thrown into existence, exposed to more than we can claim, opened to what exceeds us.
 
 How do we relate to this excess? How much of it can we bear? This depends on what we might call our *metabolic capacity*—how much space do we have to receive and process what overwhelms our constructed boundaries?
 

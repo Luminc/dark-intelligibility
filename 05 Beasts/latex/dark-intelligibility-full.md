@@ -13,16 +13,14 @@ reference-section-title: "References"
 
 
 >*"I really like things I don't understand. When I read a thing I don't understand, I feel a sweet and abysmal vertigo."*
->—Clarice Lispector, *A Breath of Life*, p. 29
+>—Clarice Lispector, *A Breath of Life* [Lb29]
 
 I should disorganize, and yet structure simultaneously. I should create meta-structures that can kiss disorganization here and there.
-
-I love the pen. I'm too disconnected from the physical process of writing. There is a different flow when you actually draw the words.
 
 What has language done for me, for better and worse? Or perhaps more precisely: How does the determined become companionable to indeterminacy? How do light and dark conjoin in *chiaroscuro*?
 And how to develop the metabolic capacity to receive the chiaroscuro, to affirm their interpenetration? This requires more than intellectual understanding; it demands a transformation of our very relation to being.
 
-Today, in a world where ambiguity dominates and social cohesion evaporates, too much meaning exists—univocal, equivocal, or otherwise. The proliferation of meanings itself becomes meaningless—a saturation that paradoxically produces emptiness. This is not the nihilism to be avoided but the nihilism to be passed through, the clearing that must happen before genuine meaning can emerge. As Nishitani suggests, we must go through nihilism to overcome nihilism—the return to zero that, for Desmond, makes possible a new beginning. What draws our focus is the ever-present stage of self-determination, the human spectacle. We can see that there are real limits to that self-determination. Being is communicative, but it is inseparable from non-being. I seem to be spinning around dualities again. There is an urgency for us to become intimate to their conjunctions and interpenetrations. However, the demands of life hijack our capacity to open to them. Let us stop making sense for a moment and try to delve deeper.
+Today, in a world where ambiguity dominates and social cohesion evaporates, the demands of life hijack our capacity to remain open. I must be compassionate here. It is no surprise that we foreclose our porosity. Faced with real suffering, oppression, and the devaluation of being, a lack of meaning can feel like a terminal diagnosis. What results is not some heroic, radical subjectivity, but a quiet death—the death of community with others, and more devastatingly, the death of communication with ourselves, with our own being. The stakes, then, are not philosophical, but vital: our lives, our health. The question that presses upon me, the one I cannot avoid, is how can we possibly remain porous in a sick world? How do we find the strength to let things in when so much of what is outside is toxic? Let us stop trying to make sense of it for a moment, and instead, try to feel our way into the question itself.
 
 I have to confess I cannot be honest to you, dear reader. I'm not sure I have the capacity to speak truth to myself, truth to power, or anything. I'm in love yes, and I will follow that flame. But I don't know what I can contribute.
 
@@ -32,7 +30,7 @@ Writing itself becomes a site of perplexity and astonishment. Perhaps in an atte
 
 ---
 
-Words do not come easy at times, so we let them be. It is natural not to know the way, so we should become lost. If there is one thing clear I can say about myself, it is that I'm lost. I find things, things happen to me, but I am groundless, like a cell breaking open, its contents spilling out. Disorganization can be messy.
+Words do not come easy at times, so we let them be. It is natural not to know the way, so we should become lost. If there is one thing clear I can say about myself, it is that I'm lost. I find things, things happen to me, but I am groundless, like a cell breaking open, its contents spilling out. Disorganization can be messy. Words should be able to breathe. We can run into blockages and aporia, and what do we do? Give up? Hunt further? Or let it breathe? Aporia, I'm finding, is companionable to the going, sweetly abysmal as it is. What appears as a dead-end becomes, for the patient, the site where new passages open.
 
 And yet there remains the bare fact that I am here at all. That anything is at all. Before we become, we are first given to be. This remains our *original astonishment*: we are thrown into the midst of the sheer that-it-is of being.
 
@@ -52,27 +50,11 @@ I will write as a lover who falls in love at first sight and is completely pre-o
 
 *Cum panis* indeed. Following Desmond's sense of the open whole, do we arrive at a liberated autonomy? An autonomy that knows itself to be plurivocal and connected to others? Perhaps such freedom emerges by transformation of our relation to the other—to undergo the ordeal of being claimed by what exceeds us, until the intrusion reveals itself as gift. Can we come companionable to what threatens to possess and destroy us?
 
----
 
-To return briefly to the chiaroscuro: a beautiful word, for I used to draw too, and writing is an extension of drawing. The mediaticity of writing physically is its own medium. I have drawn on tablets and made beautiful life drawings but they remain digital files.
-
-If we consider writing the techno-pharmakon par excellence then of course we cannot underestimate the power of a trembling hand furtively scribbling thoughts to the page as if the line was its very consciousness.
-
-Sweet and abysmal because, hell, we have no idea and we still want to sit with the question. Companionable to the question.
-
-Breath, dissolution, structure, should be part of writing. Words should be able to breathe. We can run into blockages and aporia and what do we do? Give up? Hunt further?
-
-Or let it breathe?
-
-Aporia is companionable to the going, sweetly abysmal as it is. What appears as dead-end becomes, for the patient, the site where new passages open.
-
----
 
 My desire for possession comes not from a desire for self-dissolution but for recognizing interdependence and flowing in the river. What freedom would that give? It could be radical.
 
-The body writes and has written for a few thousand years, enough for it to be a new page in our evolutionary techgnosis. Quickly it is being abandoned for the keyboard and the screen. Command line interfaces.
-
-While there are ways of exaptation and we are of course fluid beings in becoming, I do still like physical writing. Perhaps precisely because it is a form of drawing.
+The body writes. It has written for a few thousand years, a page in our evolutionary techgnosis now quickly being abandoned for the keyboard and screen. If we consider writing the techno-pharmakon par excellence, we cannot underestimate the power of a trembling hand scribbling thoughts to the page as if the line were its very consciousness. This is why I still love the pen, the physical act of writing. I feel too disconnected from the digital process, where even beautiful life drawings remain inert files. There is a different flow when you actually draw the words, a mediaticity in physical ink that I am reluctant to lose.
 
 ---
 
@@ -288,6 +270,12 @@ This inverts the Enlightenment's confidence in reason's illuminating power. With
 This understanding echoes through traditions. Plato's cave-dwellers, blinded by the sun when first exposed, must learn to see by the very light that initially overwhelms them. The mystic's *via negativa* strips away determinate concepts not to reach blankness but to open to what cannot be grasped yet can be known through intimate participation. Nishitani's field of emptiness is not nihilistic void but the fertile ground where all determinate beings find their suchness.
 
 Dark intelligibility is thus a form of *non-propositional knowing* that requires attunement and fidelity to mystery, revealing the limits of conceptual thought while grounding it in embodied wisdom. It is what Desmond calls agapeic mindfulness—an unknowing knowing, a *docta ignorantia*. "One hesitates even to call it knowing lest one imply one has grasped a determinate somewhat, mastered through oneself alone."[@desmondGod2008, p. 273] This communication is excessive, extending beyond self-determining cognition into what can only be called "an excess of the other [that] strains the limits of self-determining."
+
+The question of chiaroscuro returns here, but transformed. It's not about blending good and evil, or finding a middle path between affirmation and negation. I'm beginning to see it is about witnessing their terrible co-constitutiveness, and in that witnessing, consenting to a reality our morality finds scandalous.
+
+The scandal is the sheer, unblinking `that-it-is` of being. It is what Desmond calls the "idiocy" of being, and it is difficult to reconcile. It points to a total 'letting-be' that feels, to our human sense, like an abdication. Desmond speaks of the scandal of an "ultimate patience" in the divine, a giving that "may seem to have vanished into anonymity, seeking no reward... nothing at all."[@desmondGod2008, p. 320] This is the patience that allows for all freedom, but also for all horror. It doesn't conform to our moral calculus.
+
+Lispector touches the same nerve when she finds the moral problem "not only overwhelming, but extremely petty." She asks, "Am I moral to the extent that I do what I should, and feel as I should?" before concluding, "The ethics of the moral is keeping it secret. Freedom is a secret."[@lispectorPassion2014, p. 59] Perhaps the freedom to truly see this hyperluminous dark requires a secret initiation: a letting go of the petty moral framework of what "ought to be" in order to receive the scandalous, idiotic truth of what simply *is*. This requires more than just looking; it requires a transformation of the eyes.
 
 ## Somatic Depths and Metabolic Wisdom
 

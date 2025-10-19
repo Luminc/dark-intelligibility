@@ -1,4 +1,4 @@
-# The Ordeal of the Pharmakon
+# Metabolic Crisis
 
 >"All the world began with a yes. One molecule said yes to another molecule and life was born."[L3]
 
@@ -20,7 +20,7 @@ There is violence in grace—not cruelty, but the necessary destruction of what 
 
 Lispector describes losing "a third leg that kept me from walking but made me a stable tripod."[L4] What provides stability also prevents genuine movement. The tripod of ordinary consciousness—grounded in self-certainty, conceptual mastery, and narrative coherence—keeps us upright but immobile. The violence of grace kicks away this third leg, forcing us to learn a terrifying new way of being.
 
-"Life was taking its vengeance on me, and that vengeance consisted merely in coming back, nothing more,"[L16] she writes. The violence is not punishment but simply reality returning to spaces we had filled with constructions. What distinguishes this violence from mere destruction is its precision. It targets only what is false, constructed, defensive. "Every sentiment is perfect when simply a sentiment, without the mixture that thought infers."[L16] The violence strips away the inferential overlay, leaving the raw reality that was always there.
+The violence of grace occurs, yes, when we are somehow receptive to it. But perhaps it emerges from our ontological consent, which we already are. Our existential consent might struggle to undergo the ordeal but the original affirmation that we are calls us to transformation. We grow by being able to bear more of the totality, which includes the collapsing of our counterfeit refuges. Grace is then our alignment with the 'worse' truth. We accept the totality of light and dark because that is the truth of what is. While nihilism remains in pure negation it misses the radical conversion from "the self is empty" to "emptiness is self" (Nishitani) a generative, fertile, neutral emptiness over which penia-sive-poros are struck, porosity and poverty of the kenotic self.
 
 This violence of grace strips away our constructions, revealing that the sense of agency itself dissolves. It's not a sense of otherness we discover but a sense of union through clear communication that turns into pure happening in which we are fully part. We become the process rather than standing outside observing it.
 
@@ -40,7 +40,7 @@ Within the ordeal, we discover not mere blockage but a deeper structure: the int
 
 *Poros* is passage, way, resource—but not straightforward path. As Desmond notes, poros carries connotations of "a way across," yet it is "a transition that is no transition, since in making a way, it makes way and hence there is a withdrawal in the very opening of the way."[D41] The way opens by withdrawing. The passage creates space through its own recession.
 
-Both poros and penia involve emptiness. They are not opposites but complementary movements of the same groundlessness. The hyphen in poros-sive-penia is crucial—not "poros or penia" but the radical interpenetration where each is the condition for the other's manifestation. This is the structure of the ordeal itself—we are suspended between emptiness that hungers and emptiness that opens.
+Both poros and penia involve emptiness. They are not opposites but complementary movements of the same groundlessness. The hyphen in poros-sive-penia is crucial—not "poros or penia" but the radical interpenetration where each is the condition for the other's manifestation. This is the structure of the ordeal itself—we are suspended between emptiness that hungers and emptiness that opens. The ordeal intensifies our constitutional restlessness. We cannot rest in pure *penia*, for that way lies the madness of *eros turannos*—a consuming lack that can never be filled. Nor can we rest in pure *poros*, for that becomes a passive dissolution, a loss of self into the flow. The restlessness itself, this suspension between the two, *is* the energy of transformation.
 
 ## Sleepwalker's Courage and the Worse Truth
 
