@@ -9,7 +9,9 @@ Super short, non-intrusive, sortable, unique.
 ## Authors
 - **D** = Desmond, *God and the Between* (2008)
 - **Db** = Desmond, *Being and the Between* (1995) - if needed
+- **Di** = Desmond, *The Intimate Universal* (2016) - if needed
 - **N** = Nishitani, *Religion and Nothingness* (1982)
+- **N-intro** = Van Bragt, Translator's Introduction to *Religion and Nothingness* (pp. xxxiii-xlii)
 - **L** = Lispector, *The Passion According to G.H.* (Penguin 2014, trans. Idra Novey)
 - **Lb** = Lispector, *A Breath of Life* (2012) - if needed
 - **R** = Rilke, *New Poems* (1989)

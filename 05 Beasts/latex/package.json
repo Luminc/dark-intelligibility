@@ -2,11 +2,9 @@
   "name": "latex-live-dev",
   "version": "1.0.0",
   "scripts": {
-    "build": "pandoc \"../The Neutral, Inhuman and the Intimate.md\" --template=template.tex --pdf-engine=xelatex -o \"The_Neutral_Inhuman_and_Intimate.pdf\"",
-    "build-with-citeproc": "pandoc \"test-simple.md\" --citeproc --bibliography=references.bib --template=template.tex --pdf-engine=xelatex -o \"The_Neutral_Inhuman_and_Intimate.pdf\"",
-    "build-clean": "pandoc \"clean-citations.md\" --citeproc --bibliography=references.bib --template=template.tex --pdf-engine=xelatex -o \"The_Neutral_Inhuman_and_Intimate.pdf\"",
-    "build-original": "pandoc \"clean-citations.md\" --citeproc --bibliography=references.bib --template=template.tex --pdf-engine=xelatex -o \"The_Neutral_Inhuman_and_Intimate.pdf\"",
-    "build-full": "node build-full-text.js && pandoc \"dark-intelligibility-full.md\" --citeproc --bibliography=references.bib --csl=https://www.zotero.org/styles/chicago-note-bibliography --top-level-division=chapter --template=template-book.tex --pdf-engine=xelatex -o \"Dark_Intelligibility.pdf\"",
+    "build": "node build-full-text.js && pandoc \"dark-intelligibility-full.md\" --citeproc --bibliography=references.bib --csl=https://www.zotero.org/styles/chicago-note-bibliography --top-level-division=chapter --template=template-book.tex --pdf-engine=xelatex -o \"Dark_Intelligibility.pdf\"",
+
+    
     "watch": "nodemon",
     "serve": "live-server --port=3000 --open=index.html",
     "dev": "concurrently \"npm run watch\" \"npm run serve\"",

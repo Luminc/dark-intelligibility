@@ -137,3 +137,83 @@ stripping myself as the saints do, but was once again yearning for the accretion
 The accretion is easier to love.
 
 p. 178
+
+I shall need courage to do what I’m about to do: speak. And risk the
+enormous surprise I shall feel at the poverty of the spoken thing. As soon as it’s
+out of my mouth, I’ll have to add: that’s not it, that’s not it! But I cannot be
+afraid of being ridiculous, I always preferred less to more also out of fear of the
+ridiculous
+
+The memory of my childhood poverty, with bedbugs, leaky roofs,
+cockroaches and rats, was like that of my prehistoric past, I had already lived
+with the first creatures of the Earth.
+
+I don’t want it. But I cannot help feeling all enlarged inside myself by the
+poverty of the opaque and the neutral: the thing is alive like weeds. And if that is
+hell, it is heaven itself: the choice is mine. I am the one who shall be demonic or
+angel; if I am demonic, this is hell; if I am angel, this is heaven. Ah, I send my
+angel to prepare the path before me. No, not my angel: but my humanity and its
+compassion.
+
+ Thus shall I have touched the root of needing. The
+great emptiness in me shall be my place for existing; my extreme poverty shall
+be a great volition. I must violate myself until I have nothing, and need
+everything; when I need, then I shall have, because I know that it is just to give
+more to whoever asks for more, my demand is my size, my emptiness is my
+measure. One also can violate God directly, through a love full of fury.
+And He shall understand that this raging and murderous greed of ours is
+actually our sacred and vital rage, our attempt to violate ourselves, the attempt to
+eat more than we can to artificially increase our hunger — in the demand of life
+everything is lawful, even the artificial, and the artificial is sometimes the great
+sacrifice one makes in order to have the essential.
+pp.158-159
+
+It is not for us that the cow’s milk flows, but we drink it. The flower was not
+made for us to look at it or for us to smell its fragrance, and we look at it and
+smell it. The Milky Way does not exist for us to know of its existence, but we
+know of it. And we know God. And what we need from Him, we elicit. (I don’t
+know what I am calling God, but thus he may be called.) If we only know very
+little of God, that is because we need little: we only have of Him whatever is
+inevitably enough for us, we only have of God whatever fits inside us.
+(Nostalgia is not for the God we are missing, it is the nostalgia for ourselves who
+are not enough; we miss our impossible grandeur — my unreachable present is
+my paradise lost.)
+
+p.157
+
+GIVING UP IS A REVELATION
+I give up, and will have been the human person — it is only in the worst of
+my condition that that condition is taken up as my destiny. Existing demands of
+me the great sacrifice of not having strength, I give up, and all of a sudden the
+world fits inside my weak hand. I give up, and onto my human poverty opens the
+only joy granted me human joy. I know that, and I tremble — living strikes me
+so, living deprives me of sleep.
+p.187
+
+But if I screamed even once, I might never again be able to stop. If I
+screamed nobody could ever help me again; whereas, if I never revealed my
+neediness, I wouldn’t scare anybody and they would help me unawares; but only
+if I didn’t scare anybody by venturing outside the rules. But if they find out,
+they’ll be scared, we who keep the scream as an inviolable secret. If I raised the
+alarm at being alive, voiceless and hard they would drag me away since they
+drag away those who depart the possible world, the exceptional being is dragged
+away, the screaming being.
+pp.57-58
+
+And I do. I always will. All I have to do is need, and I have. Needing never
+ends since needing is inherent to my neutral. Whatever I do with the plea and the
+want — that will be the life I will have made from my life. Not putting oneself in
+view of hope is not the destruction of the plea! and is not abstaining from
+neediness. Ah, it’s by increasing it, it’s by infinitely increasing the plea that is
+born of neediness.
+
+pp.154-155
+
+Ah, I lost my shyness: God already is. We were already announced, and it
+was my own erring life that announced me to the right one. Blessedness is the
+continuous pleasure of the thing, the process of the thing is made of pleasure and
+contact with whatever is gradually more and more needed. My whole fraudulent
+struggle came from my not wanting to own up to the promise that is fulfilled: I
+did not want reality.
+
+p.160

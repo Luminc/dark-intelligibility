@@ -2,6 +2,20 @@
 
 <!-- SHORT KEY FORMAT: [Author][page] - see CITATION_KEY_GUIDE.md -->
 
+### Two Types of Notes
+
+**1. Simple Citations** - Just page references:
+```markdown
+[D41] → William Desmond, God and the Between, p. 41.
+```
+
+**2. Substantive Footnotes** - Extended discussion with citations:
+```markdown
+^[Discussion text here with citations like [Di311-315] embedded.]
+```
+
+The `^[...]` syntax creates a footnote with your commentary. Citations inside the brackets are converted automatically.
+
 ---
 
 ## LISPECTOR - The Passion According to G.H.
@@ -138,6 +152,14 @@
 
 ---
 
+## DESMOND - The Intimate Universal
+
+[Di311-315]: William Desmond, _The Intimate Universal: The Hidden Porosity Among Religion, Art, Philosophy, and Politics_ (New York: Columbia University Press, 2016), pp. 311-315.
+<!-- Chapter: "The Erotics of the Intimate Universal" -->
+<!-- Discusses poros/penia, Bull of Phalaris, Singing Cicadas, tyrannical vs. heavenly eros, Phaedrus -->
+
+---
+
 ## DESMOND - Video/Online
 
 [D-youtube]: William Desmond, "Thought Singing its Other," in conversation with Guy Sengstock, _Circling Dialogos with Guy Sengstock_, YouTube, timestamp 1:08:15-1:09:58, https://www.youtube.com/watch?v=_giSFKUwklw.
@@ -245,6 +267,8 @@ The short key system [Author][page] is now fully operational across all three es
 **Desmond, William.** _Being and the Between._ Albany: SUNY Press, 1995.
 
 **Desmond, William.** _God and the Between._ Oxford: Blackwell, 2008.
+
+**Desmond, William.** _The Intimate Universal: The Hidden Porosity Among Religion, Art, Philosophy, and Politics._ New York: Columbia University Press, 2016.
 
 **Lispector, Clarice.** _A Breath of Life._ Translated by Johnny Lorenz. New York: New Directions, 2012.
 

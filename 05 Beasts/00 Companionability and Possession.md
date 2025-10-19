@@ -15,19 +15,25 @@ Today, in a world where ambiguity dominates and social cohesion evaporates, too 
 
 I have to confess I cannot be honest to you, dear reader. I'm not sure I have the capacity to speak truth to myself, truth to power, or anything. I'm in love yes, and I will follow that flame. But I don't know what I can contribute.
 
-Maybe this essay will be some half-unfinished regurgitation, unmetabolized material puked out, purged from a system that is processing, messy, academically questionable, questionable authenticity. On the page I should not shy from truth as I do not do so in my body, my soul. I encounter myself fully. But of course I'm full of my own bullshit too.
+Maybe this essay will be some half-unfinished regurgitation, unmetabolized material, purged from a system that is processing, messy, academically questionable, of questionable authenticity. On the page I should not shy from truth as I do not do so in my body, my soul. I encounter myself fully. But of course I'm full of my own bullshit too.
 
-As an attempt to kick start my thinking, perhaps as a start too, to save my life. To give myself breath, to give myself space to wonder and attend to myself. I want to connect even more deeply to the world for as long as I will have energy to do so.
+Writing itself becomes a site of perplexity and astonishment. Perhaps in an attempt give myself breath, to give myself space to wonder and attend to myself. Not as achievement but as necessity, an attempt to save my life. I want to connect even more deeply to the world for as long as I will have energy to do so.
 
 ---
 
 Words do not come easy at times, so we let them be. It is natural not to know the way, so we should become lost. If there is one thing clear I can say about myself, it is that I'm lost. I find things, things happen to me, but I am groundless, like a cell breaking open, its contents spilling out. Disorganization can be messy.
 
+And yet there remains the bare fact that I am here at all. That anything is at all. Before we become, we are first given to be. This remains our *original astonishment*: we are thrown into the midst of the sheer that-it-is of being.
+
 How can I write without knowing where to go? I shall have somebody else write through me. Starting with my parental voices, Clarice Lispector and William Desmond.
 
 Heteronomy is the intrusion autonomy tries to prevent. We encounter the other, framed as an intrusion. If it's not capable of being dominated, at least made manageable. We foreclose true encounter with the other, but the relations remain and with it the potential for another break.
 
-The other intrudes in myself as well. In my voice, my very being, there is a whole host of voices speaking through me. It is certainly astonishing that we, such porous interconnected beings, think of ourselves as autonomous. At any given moment I am possessed by voices not my own.
+The other intrudes in myself as well. In my voice, my very being, there is a whole host of voices speaking through me.
+
+Even writing can surprise us as the words appear on the page as if coming from a foreign source. The text appears as if coming from beyond me.
+
+It is certainly astonishing that we, such porous interconnected beings, think of ourselves as autonomous. In ourselves there seems a dispersal of agency, focused on the other. At any given moment I am possessed by voices not my own, and yet somehow I still say "I."
 
 My body feels like I should inhabit the writing as practice, poetry and philosophy. I will write fragments, like I write here. I feel easily possessed. This doesn't have to be a problem. Maybe the horde of voices coalesces in a full and emptied coherence, until something singular appears. Not out of erotic desire but love, of deepest intimacy and companionship.
 
@@ -65,6 +71,7 @@ I was playful in letting Lispector and Desmond together with me make us into a t
 
 Both Desmond and Clarice are enactive of what they write about. It is a lived philosophy after all. Porosity requires that intimacy, that vulnerability of expression in the midst of things. I want to get to the threshold of both thinkers. The aim here is not a perfect synthesis, which would risk domesticating the radical singularity of each voice. Rather, it is to stage a tense and improvisational tango where resonance emerges from the space opened up between them. Hopefully I will not be a wallflower.
 
+I am a sponge—I allow plurivocity to color me. The concepts presented here are hard-won, brought forth not from a place of mastery but through sustained perplexity and help from others.
 
 The body writes. There is a restlessness there. This disorganization felt urgent, and it worked. But the danger is tying disorganization and productivity to any external means, lest we become too dependent. We are not independent—we allow heteronomy to affect our writing as well.
 

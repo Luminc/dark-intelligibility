@@ -9,6 +9,8 @@ const citationMap = {
   'D': { key: 'desmondGod2008', title: 'God and the Between' },
   // Desmond - Being and the Between
   'Db': { key: 'desmondBeing1995', title: 'Being and the Between' },
+  // Desmond - The Intimate Universal
+  'Di': { key: 'desmondIntimate2016', title: 'The Intimate Universal' },
   // Nishitani - Religion and Nothingness
   'N': { key: 'nishitaniReligion1982', title: 'Religion and Nothingness' },
   // Rilke
