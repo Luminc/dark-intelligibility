@@ -6,7 +6,13 @@
       "Bash(git commit:*)",
       "Bash(xelatex:*)",
       "Bash(python:*)",
-      "Bash(npm run build-full:*)"
+      "Bash(npm run build-full:*)",
+      "Bash(sed -n '1087,1092p' \"/Users/jeroen/Documents/dark-intelligibility/07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.md\")",
+      "Bash(sed -n '658,663p' \"/Users/jeroen/Documents/dark-intelligibility/07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.md\")",
+      "Bash(sed -n '1340,1345p' \"/Users/jeroen/Documents/dark-intelligibility/07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.md\")",
+      "Bash(sed -n '1358,1365p' \"/Users/jeroen/Documents/dark-intelligibility/07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.md\")",
+      "Bash(sed -n '1362,1368p' \"/Users/jeroen/Documents/dark-intelligibility/07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.md\")",
+      "Bash(sed -n '7553,7558p' \"/Users/jeroen/Documents/dark-intelligibility/07 Library/Desmond/God_and_the_Between_Illuminations_Theory,_Religion_William_Desmond.md\")"
     ],
     "deny": []
   }

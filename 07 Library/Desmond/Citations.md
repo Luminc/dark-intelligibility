@@ -75,3 +75,53 @@ other to the origin. This would express, if you like, the divine poiesis, the cr
 God. But this creating art is not creating God, it is God creating finite creation as other.
 
 p.161
+
+---
+
+## Additional Quotes Found 2025-10-20 (Potential Epigraphs & Key Passages)
+
+### p.129 - USED AS CH. 01 EPIGRAPH - Proceed/Recede Paradox
+Self, other, non-human nature can strike one as receding from complete determination, even as they come forward into determinate manifestation. As beings proceed, they recede; as they show themselves, they reserve themselves; as they manifest themselves, they hide their being.
+
+We are here on the boundary of determinate intelligibility, but this idiocy of the "that it is" directs us to the living ground of communicative being, as centered in this being.
+
+p.129
+
+### p.15 (approx) - The Between as Ontological Ethos
+There is first the ontological ethos of what I call the between. We are in this intermedium of being and our participation in it contributes to shaping the form it takes for us. Our participation contributes to a second ethos which is the reconfigured ethos.
+
+p.15
+
+### p.15 (approx) - The Ethos of the Between is Primordial
+The ethos of the between, the given milieu of being is the more primordial. The ways we construct formulate more definite passages of existing and thinking in and out of this first ethos. The ethos seems to be indefinite, since it is not this determinate thing or happening or that, and so cannot be definitively pinned down. It is the enabling milieu without which there would not be this or that determinate process or thing.
+
+p.15
+
+### p.16 (approx) - Astonishment Breaking Through
+Now and then, in moments of astonishment and perplexity, an intimation of this first ethos may break through, and the second ethos takes on a new light of strangeness. Briefly, it seems other, and seems to show something other. Too briefly, for soon the more familiar second ethos reassumes its more domestic sway over us, and our readiness for mystery and strangeness falls asleep again. It seems to me that if we are to find true ways to God anew, we must be awoken from this sleep.
+
+p.16
+
+### p.27 (approx) - Original Porosity
+We are marked by an original porosity which opens us to all that is other and that marks us with the passion of being, the passio essendi. One might say: Without religious poetics, no systematics. And: Without a more original porosity of being, and our given passio essendi, no religious poetics either, and hence also no systematics. This means there is a more original sense of being religious prior to being artistic and being philosophical. Poetics and systematics are ultimately less original than the porosity of...
+
+p.27
+
+### p.30 (approx) - Elemental and Enigmatic
+A gift has been offered; it seems everywhere and nowhere; and one might be surprised into asking: Is this gift a sacramental sign? But what this all means, one does not know, and perhaps may never know.
+
+But – knowing or not-knowing – there is nothing contrived about the question of God. It is elemental and enigmatic – elemental because of the givenness of self, other, nature; enigmatic because one is struck into an as-yet-uncomprehended astonishment by the givenness. The astonishing gift perplexes us about what offers it, or who.
+
+p.30
+
+### p.17 (approx) - Reserved Promise
+The primal ethos of the between, and its reserved promise.
+
+These overdetermined signs I will later explore in terms of what I call the hyperboles of being. There is something ambiguous, in a saturated sense, about the hyperboles. They are overdeterminate signs in immanence communicating of what exceeds exhaustive immanent determination or self-determination.
+
+p.17
+
+### p.133 (approx) - Communicated as Reserved
+...remains in reserve, and is communicated as reserved. Perhaps something of this might be read into Kant's claim that the unconditioned was a regulative, not constitutive principle. We are driven to unconditioned "totality" by the conditioned intelligibility of finite determinate beings, but we can never make that unconditioned determinate.
+
+p.133
