@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "scripts": {
     "build": "node build-full-text.js && pandoc \"dark-intelligibility-full.md\" --citeproc --bibliography=references.bib --csl=https://www.zotero.org/styles/chicago-note-bibliography --top-level-division=chapter --template=template-book.tex --pdf-engine=xelatex -o \"Dark_Intelligibility.pdf\"",
-
-    
     "watch": "nodemon",
     "serve": "live-server --port=3000 --open=index.html",
     "dev": "concurrently \"npm run watch\" \"npm run serve\"",
     "start": "npm run build && npm run dev"
   },
   "devDependencies": {
-    "nodemon": "^3.0.0",
+    "concurrently": "^8.0.0",
     "live-server": "^1.2.2",
-    "concurrently": "^8.0.0"
+    "nodemon": "^3.0.0"
+  },
+  "dependencies": {
+    "pandoc": "^0.2.0"
   }
 }
