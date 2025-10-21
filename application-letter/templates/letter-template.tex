@@ -4,7 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
-\usepackage[a4paper,left=13mm, right=13mm, top=13mm, bottom=13mm]{geometry}
+\usepackage[a4paper,left=10mm, right=10mm, top=10mm, bottom=13mm]{geometry}
 \usepackage{setspace}
 \usepackage{enumitem}
 \usepackage{changepage}
@@ -68,7 +68,11 @@ $body$
 
 \vspace{2em}
 
+$if(closing)$
+$closing$,
+$else$
 Met vriendelijke groet,
+$endif$
 
 \vspace{3em}
 
