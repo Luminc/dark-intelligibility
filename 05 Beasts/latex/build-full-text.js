@@ -32,6 +32,15 @@ function buildFullText() {
   fullText += 'reference-section-title: "References"\n';
   fullText += '---\n\n';
 
+  // Add epigraph (with no page numbers/headers)
+  fullText += '\\thispagestyle{empty}\n';
+  fullText += '\\vspace*{\\fill}\n';
+  fullText += '\\begin{center}\n';
+  fullText += '\\textit{The greatest act of love for myself \\\\\n';
+  fullText += 'is to look at my own pain.}\n';
+  fullText += '\\end{center}\n';
+  fullText += '\\vspace*{\\fill}\n\n';
+
   // Process each chapter
   for (const chapterPath of CHAPTERS) {
     const fullPath = path.join(__dirname, chapterPath);

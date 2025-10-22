@@ -1,7 +1,7 @@
 # Companionability
 
 >*"I really like things I don't understand. When I read a thing I don't understand, I feel a sweet and abysmal vertigo."*
->—Clarice Lispector, *A Breath of Life* [Lb29]
+>—Clarice Lispector, *A Breath of Life*
 
 How do we relate to what ultimately concerns us? We are thrown into reality's whirl without ground, without given orientation. The religious traditions once held these ultimate questions—the meaning of existence, our stance toward being, the ground of value itself. But today we all-too-often delegate our ultimate concerns to the background, occupying ourselves with anything but the direct encounter with being itself.
 

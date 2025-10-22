@@ -1,6 +1,7 @@
 # The Between and Its Medicine
 
->"As beings proceed, they recede; as they show themselves, they reserve themselves; as they manifest themselves, they hide their being."[D129]
+>"As beings proceed, they recede; as they show themselves, they reserve themselves; as they manifest themselves, they hide their being."
+>—William Desmond, *God and the Between*
 
 ## Porosity and the Neutral
 
@@ -81,6 +82,8 @@ Being at this level can be seen as a _pharmakon_. The concept reaches us through
 
 The *Pharmakon of Being* this essay proposes operates at this same constitutive level, but more fundamentally still. Where Derrida's pharmakon reveals the undecidability of conceptual oppositions, and Stiegler's technopharmacology shows the co-constitutive relationship between human and technical objects, the *Pharmakon of Being* concerns our metabolic encounter with existence itself. This concerns the ordeal of existence: whether we can bear being's gift without being destroyed by its excess.
 
-The ambiguity is fundamental. Being is *given* as dose (*dosis*)—an ordeal to undergo. Whether this dose becomes poison or medicine depends not on the gift itself but on our capacity to metabolize it. *Conatus* seeks to control the dose, to keep reality salted and digestible. *Passio* receives the saltless directly, exposed to being's naked actuality without protective mediation.
+The ambiguity is fundamental. Being is *given* as dose (*dosis*)—an ordeal to undergo. Whether this dose becomes poison or medicine depends not on the gift itself but on our capacity to metabolize it. *Conatus* seeks to control the dose, to keep reality salted and digestible. *Passio* receives the saltless directly, exposed to being's naked actuality without protective mediation. This is the threshold where we stand: constitutively porous, exposed to overdeterminate excess, faced with the question of whether we can bear what claims us.
 
-This is the threshold where we stand: constitutively porous, exposed to overdeterminate excess, faced with the question of whether we can bear what claims us. The ordeal is not optional—we are already given to be. The question is only how we respond to what has already been given.
+The ordeal comes as heteronomy—but whose heteronomy? Not as divine imperative imposed from without, but as the *heteronomy of our own being*. Rilke's command rings through the encounter with radical otherness: *"You must change your life."* This demand emerges not from some external judge but from our ontological porosity itself. We are already open, already porous, already given-to-be—and this givenness carries within it a "must" toward transformation. 
+
+The ordeal emerges because we have already consented to it at the ontological level—not through deliberate choice but through the very structure of our being. We *are* consent before we choose to consent. The question, then, is not whether we consent but whether our existential self can align with the original affirmation we already are. Can we metabolize what being gives us, or will we be metabolized by our own refusal? The pharmakon works either way—the only question is whether we participate consciously in our transformation or resist until resistance itself becomes the ordeal.
