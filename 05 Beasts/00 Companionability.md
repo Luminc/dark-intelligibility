@@ -3,7 +3,11 @@
 >*"I really like things I don't understand. When I read a thing I don't understand, I feel a sweet and abysmal vertigo."*
 >—Clarice Lispector, *A Breath of Life* [Lb29]
 
-How do we relate to what ultimately concerns us? We are thrown into reality's whirl without ground, without given orientation. The religious traditions once held these ultimate questions—the meaning of existence, our stance toward being, the ground of value itself. But today we all-too-often delegate our ultimate concerns to the background, occupying ourselves with anything but the direct encounter with being itself. The result of this deferral, this devaluation of being, is nihilism. Yet what if nihilism is not a dead end but a doorway? What if our coming to nothing is an essential waystation toward a transformed relation to being?
+How do we relate to what ultimately concerns us? We are thrown into reality's whirl without ground, without given orientation. The religious traditions once held these ultimate questions—the meaning of existence, our stance toward being, the ground of value itself. But today we all-too-often delegate our ultimate concerns to the background, occupying ourselves with anything but the direct encounter with being itself.
+
+The result of this deferral, this devaluation of being, is nihilism. Perhaps not simply the death of God but also the death of meaning. The univocal certainties have collapsed. But in the equivocal ruins, do we still have any shared ground?  Can we still distinguish light from shadow, truth from fabrication, authentic encounter from performance?
+
+Yet what if nihilism is not a dead end but a doorway? What if our coming to nothing is an essential waystation toward a transformed relation to being?
 
 From the collapse of all meaning, what can be reborn out of the ruins? Let us stop trying to make sense of it for a moment, and instead, try to feel our way into the question itself. How does the determined become companionable to indeterminacy? How do light and dark conjoin in *chiaroscuro*? And how to develop the metabolic capacity to receive the chiaroscuro, to affirm their interpenetration?
 

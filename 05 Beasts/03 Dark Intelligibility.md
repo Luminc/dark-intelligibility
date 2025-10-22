@@ -64,6 +64,18 @@ The key recognition here is that your affirmation and negation is not just an ex
 
 To suffer and undergo the ordeal in that sense is to restore communication to ourselves and the world. But what if we do not take the communication? What if we cannot receive it? The capacity for horror, the absurd arises from that failure. No resolution but failure of communication. Every comprehension itself is an "acute incomprehension" and exposed to the hyperintelligible there always remains a part inaccessible, incommunicable, one that remains enigmatic and fiery at the center of things, a terrible power and infinite source of energy that flows directly to us.
 
+## Departure, Arrival, Return
+
+The practice of bearing more is not a linear achievement but a cyclical rhythm—departure, arrival, return—that honors all directions as necessary dimensions of the same lived truth. We are always already in motion. The metabolic capacity we develop through ordeal doesn't eliminate the need for repeated transformation; rather, it prepares us for the ongoing cycle.
+
+After the peak experience comes *amnesis*—the inevitable fading of the revelation, the return to ordinary consciousness. Yet something remains: not the experience itself but the expanded metabolic capacity, the widened ability to receive. We forget, yes—but we forget *differently*. The channel has been opened, even if it narrows again. The practice is learning to trust this rhythm, to know that departure will come again, that the ordinary contains seeds of the extraordinary, that even our forgetting participates in a larger remembering.
+
+This is what distinguishes genuine transformation from mere peak experience. The peak comes and goes; the practice remains. We learn not to cling to the arrival (which would be to make an idol of the experience) nor to despair in the return (which would deny what was genuinely received). Fidelity to the between means consenting to flux itself—the pendulum swing between exposure to overdeterminacy and the necessary withdrawal into manageable determinacy.
+
+We cannot remain constantly exposed to excess—we would burn out, unable to function in the world. Yet we cannot lose touch with overdeterminacy—we would fall back asleep to the familiar middle, into the comfortable domestication that refuses transformation. The practice is walking this line: between *eros turannos* and *eros ouranios*, between tyrannical possession and genuine participation, between self-enclosure and self-dissolution.
+
+Companionability, then, is ongoing work rather than final achievement. We become companionable not by possessing the mystery once and for all but by learning the rhythm of approach and withdrawal, presence and absence, revelation and concealment. The ordeal taught us to metabolize what seemed like poison; the practice teaches us to trust the cycle, to find our footing in flux, to discover that home is not a fixed position but a dance.
+
 ## Thought Singing Its Other
 
 Dark intelligibility is not anti-rational thinking but *hyperrational*—reason stretched to its creative limits. Desmond traces a movement from *thought thinking itself* (Hegel's self-closing dialectic) to *thought thinking its Other*, and finally to *thought singing its Other*. In this "singing," thought becomes a celebratory, performative, and porous act—an ecstasis that does not seek to possess the other, but to witness it.
