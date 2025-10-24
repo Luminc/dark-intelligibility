@@ -7,23 +7,14 @@ recipient:
 salutation: Beste Natalie
 ---
 
-Met grote interesse solliciteer ik naar de functie van Contentmanager bij het RKD. De combinatie van kunstgeschiedenis, contentstrategie en diverse communicatiekanalen sluit naadloos aan bij mijn ervaring en passie. Als ontwerper en content specialist (MA, Sandberg Instituut) met jarenlange ervaring in het toegankelijk maken van verhalen achter kunst en objecten, herken ik mezelf volledig in deze rol.
+Wat me direct aanspreekt in jullie vacature is de context van kunsthistorisch onderzoek. Die combinatie van diepgang en toegankelijkheid, van onderzoek en communicatie—daar word ik enthousiast van. Mijn achtergrond (Rietveld, Sandberg Instituut MA) en mijn vrije werk draaien om kunst en betekenis, en ik schrijf in mijn vrije tijd over filosofie. Het RKD voelt als een plek waar die interesse en ervaring samenkomen.
 
-**Contentstrategie en -creatie**
-Bij Vendulion ben ik dagelijks verantwoordelijk voor de volledige contentstrategie: van social media en nieuwsbrieven tot website content. Ik schrijf overtuigend voor verschillende doelgroepen—van kenners tot nieuwsgierige bezoekers—en pas mijn tone of voice aan per kanaal. Voor elk object doe ik diepgaand onderzoek naar maker, periode en kunsthistorische context, en vertaal dit naar toegankelijke verhalen die informeren én boeien. Deze aanpak leidde tot significant hogere engagement en positioneerde ons als autoriteit met echte vakkennis.
+De afgelopen jaren was ik verantwoordelijk voor de contentstrategie van een online veilinghuis. Ik schreef en automatiseerde e-mailcampagnes, beheerde website content, en rolde campagnes uit via Meta en andere kanalen. Ik deed diepgaand onderzoek naar kunstwerken—maker, periode, context—en vertaalde dat naar toegankelijke verhalen voor verschillende doelgroepen. Van social posts tot nieuwsbrieven, ik schakelde soepel tussen kanalen en toon.
 
-**Redactionele vaardigheden en eindredactie**
-Ik beschik over uitstekende redactionele vaardigheden en een heldere schrijfstijl. Ik schrijf gemakkelijk, redigeer teksten van anderen met oog voor detail, en zorg voor consistentie over verschillende uitingen heen. Mijn academische achtergrond heeft me geleerd om complexe informatie helder en toegankelijk te communiceren zonder aan diepgang in te boeten.
+Ik werk zowel visueel als data gedreven: Adobe programma's en Mailchimp zijn dagelijkse kost, en ik optimaliseer campagnes op basis van analytics en A/B-tests. Mijn werkwijze is proactief en probleemoplossend—als iets efficiënter kan, bouw ik het.
 
-**Social media en digitale kanalen**
-Ik beheer dagelijks de social media kanalen (Instagram, Facebook) en ontwikkel contentkalenders die aansluiten bij actualiteit en doelgroepen. Ik ben bedreven in Mailchimp voor nieuwsbrieven, werk met diverse CMS-systemen (WordPress, Contentful, Artisio), en heb ervaring met Adobe Creative Suite voor visuele content. Daarnaast heb ik marketing automation gebouwd die workflows efficiënter maakt, wat mijn digitale vaardigheden en probleemoplossend vermogen illustreert.
+Mijn schrijfervaring komt ook uit mijn autonome kunstpraktijk en mijn tijd als coördinator van een kunstenaarsresidentie. Ik ben gewend om onderzoekend te werk te gaan, helder te communiceren, en anderen te enthousiasmeren.
 
-**Data-gedreven en resultaatgericht**
-Ik werk structureel met Google Analytics en social media metrics om performance te meten en strategieën bij te sturen. Voor Meta-campagnes heb ik A/B-testing systemen opgezet waarbij ik systematisch content optimaliseer op basis van data. Ik ben gewend om te schakelen tussen verschillende taken, prioriteiten te stellen, en proactief in te spelen op veranderende omstandigheden.
-
-**Kunsthistorische affiniteit**
-Mijn achtergrond van de Rietveld Academie en Sandberg Instituut heeft me een diep begrip gegeven van beeldende kunst en de context waarin kunstwerken ontstaan en functioneren. Ik volg ontwikkelingen in het kunstveld met interesse en geloof sterk in de missie van het RKD om kunstgeschiedenis toegankelijk te maken voor breed publiek.
-
-De kans om bij te dragen aan de zichtbaarheid en herkenbaarheid van het RKD, binnen een jong en ambitieus team, zou fantastisch zijn. Ik ben beschikbaar voor 24 uur per week en werk graag op freelance basis of in tijdelijk dienstverband.
+Jullie zoeken iemand voor een tijdelijke rol op freelance basis—precies waar ik als freelance contentspecialist mee werk. Ik ben beschikbaar voor 24 uur per week en kan per direct aan de zichtbaarheid en herkenbaarheid werken van het RKD.
 
 Mijn CV is bijgevoegd. Ik vertel graag meer in een gesprek.

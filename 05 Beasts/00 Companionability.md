@@ -3,13 +3,11 @@
 >*"I really like things I don't understand. When I read a thing I don't understand, I feel a sweet and abysmal vertigo."*
 >—Clarice Lispector, *A Breath of Life*
 
-How do we relate to what ultimately concerns us? We are thrown into reality's whirl without ground, without given orientation. The religious traditions once held these ultimate questions—the meaning of existence, our stance toward being, the ground of value itself. But today we all-too-often delegate our ultimate concerns to the background, occupying ourselves with anything but the direct encounter with being itself.
+How do we relate to what ultimately concerns us? We are thrown into reality's whirl without ground, without given orientation. The religious traditions once held these ultimate questions—the meaning of existence, our stance toward being, the ground of value itself. But today we delegate our ultimate concerns to the background, occupying ourselves with anything but the direct encounter with being itself. The result of this deferral, this devaluation of being, is nihilism.
 
-The result of this deferral, this devaluation of being, is nihilism. Perhaps not simply the death of God but also the death of meaning. The univocal certainties have collapsed. But in the equivocal ruins, do we still have any shared ground?  Can we still distinguish light from shadow, truth from fabrication, authentic encounter from performance?
+Nihilism appears first as ending, as the collapse into meaninglessness. But it may be doorway rather than dead end, an essential waystation toward transformed relation to being. Our coming to nothing—if we can bear to remain there rather than flee—hollows out a space where something new might be born from the ruins.
 
-Yet what if nihilism is not a dead end but a doorway? What if our coming to nothing is an essential waystation toward a transformed relation to being?
-
-From the collapse of all meaning, what can be reborn out of the ruins? Let us stop trying to make sense of it for a moment, and instead, try to feel our way into the question itself. How does the determined become companionable to indeterminacy? How do light and dark conjoin in *chiaroscuro*? And how to develop the metabolic capacity to receive the chiaroscuro, to affirm their interpenetration?
+This requires that we stop trying to make sense of it, that we feel our way into the question itself. The determined must somehow become companionable to indeterminacy. How does light and dark conjoin in *chiaroscuro*? We need metabolic capacity to receive this interpenetration, to digest what threatens to poison us.
 
 Today, in a world where ambiguity dominates and social cohesion evaporates, the demands of life can overwhelm our capacity to remain open. I must be compassionate here—with myself, with us. It is no surprise that we foreclose our porosity. Faced with real suffering, oppression, the devaluation of being, a lack of meaning can feel like terminal diagnosis. The temptation is to close off, to protect. What results is not some heroic refusal, but a quiet death—the death of community with others, and more devastatingly, the death of communication with ourselves, with our own being.
 
