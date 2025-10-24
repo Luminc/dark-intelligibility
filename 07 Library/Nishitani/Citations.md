@@ -1,3 +1,27 @@
+The Great Doubt comes to light from the ground of our existence
+only when we press our doubts (What am I? Why do I exist?) to their
+limits as conscious acts of the doubting self. The Great Doubt represents not only the apex of the doubting self but also the point of its
+"passing away" and ceasing to be "self. " It is like the bean whose seed
+and shell break apart as it ripens: the shell is the tiny ego, and the seed
+the infinity of the Great Doubt that encompasses the whole world. It is
+the moment at which self is at the same time the nothingness of self, the
+moment that is the "locus" of nothingness where conversion beyond the
+Great Doubt takes place. For the Great Doubt always emerges as the
+opening up of the locus of nothingness as the field of conversion from
+the Great Doubt itself. This is why it is "Great."
+This is also why it can be called the "Great Death." There are
+numerous Zen sayings referring to that conversion in such terms, for
+example: "In the Great Death heaven and earth become new," and
+"Beneath the Great Death, the Great Enlightenment. " As in the case of
+doubt, this enlightenment must be an enlightenment of the self, but at
+the same time it must signal a "dropping off" of the mode of being in
+which "self" is seen as agent. It is something that presents itself as real
+from the one ground of the self and all things. It is the true reality of the
+self and all things, in which everything is present just as it is, in its
+suchness. 
+
+p.21
+
 The standpoint of sunyata is another thing altogether. It is not a standpoint of simply negative negativity, nor is it an essentially transitional standpoint. It is the standpoint at which absolute negation is at the same time, in the sense explained above, a Great Affirmation. It is not a standpoint that only states that the self and things are empty. If this were so, it would be no different from the way that nihility opens up at the ground of things and the self. The foundations of the standpoint of sunyata lie elsewhere: **not that the self is empty, but that emptiness is the self; not that things are empty, but that emptiness is things.** Once this conversion has taken place, we are able to pass beyond the standpoint on which nihility is seen as the far side of existence. Only then does the standpoint appear at which we can maintain not merely a far side that is beyond us, but a far side that we have arrived at. Only on this standpoint do we really transcend the standpoint still hidden behind the field of nihility, namely of a near side looking out at a far side. This "arrival at the far side"[^4] is the realization of the far side. As a standpoint assumed at the far side itself, it is, of course, an absolute conversion from the mere near side . But it is also an absolute conversion from a near side looking out at a far side beyond. The arrival at the far side is nothing less than an absolute near side.
 
 p.138 

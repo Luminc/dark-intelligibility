@@ -7,6 +7,8 @@ const citationMap = {
   'L': { key: 'lispectorPassion2014', title: 'The Passion According to G.H.' },
   // Lispector - A Breath of Life
   'Lb': { key: 'lispectorBreath2012', title: 'A Breath of Life' },
+  // Lispector - The Hour of the Star
+  'Lh': { key: 'lispectorHour2014', title: 'The Hour of the Star' },
   // Desmond - God and the Between
   'D': { key: 'desmondGod2008', title: 'God and the Between' },
   // Desmond - Being and the Between

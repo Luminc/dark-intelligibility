@@ -31,3 +31,12 @@ p.12
 
 p.15 
 
+It seems it's only uuseful to live interrogativelyt since every interrogation tossed int o the air has a corresponding reply formed in the darkness of my being, that part of me which is ddark and vital, without it I'd be empty. Whenever I do something deliberately nothing comes out, therefore I get distracted almost deliberately. I pretend I don't want something, I end up believing I don't want it and only then does the thing come.
+p.65
+
+Angela and I are my interior dialogue: I talk to myself. Angela is from my dark interior: she however comes to light. The tenebrous darkness from which I emerge. Pullulating darkness, lava of humid volcano burning intensely. Darkness full of worms and butterflies, rats and stars.
+p.66
+
+I just won't tell you the secret of life because I still haven't learned it. But one tday I shall be the secret of life. 
+p.67
+
